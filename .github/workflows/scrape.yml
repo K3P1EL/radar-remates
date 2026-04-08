@@ -2,7 +2,7 @@ name: Radar Remates
 
 on:
   schedule:
-    - cron: '0 12,15,18,21,0,3 * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
