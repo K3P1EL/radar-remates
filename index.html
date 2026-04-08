@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar Remates</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0e14;
+  --surface: #111820;
+  --surface2: #1a2230;
+  --border: #1e2a3a;
+  --text: #c5cdd8;
+  --text-dim: #5a6a7a;
+  --green: #00e676;
+  --green-dim: #00e67620;
+  --amber: #ffab00;
+  --amber-dim: #ffab0020;
+  --red: #ff5252;
+  --red-dim: #ff525220;
+  --blue: #448aff;
+  --blue-dim: #448aff20;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-body: 'DM Sans', sans-serif;
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--text); font-family:var(--font-body); min-height:100vh; }
+
+/* Noise overlay */
+body::before {
+  content:''; position:fixed; inset:0; z-index:0; pointer-events:none; opacity:0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Scanline */
+body::after {
+  content:''; position:fixed; inset:0; z-index:0; pointer-events:none; opacity:0.02;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(255,255,255,0.03) 2px, rgba(255,255,255,0.03) 4px);
+}
+
+.app { position:relative; z-index:1; max-width:1400px; margin:0 auto; padding:20px; }
+
+/* HEADER */
+.header {
+  display:flex; align-items:center; gap:16px; padding:20px 0 24px;
+  border-bottom:1px solid var(--border);
+}
+.header-icon {
+  width:48px; height:48px; border-radius:12px;
+  background: linear-gradient(135deg, var(--green), #00c853);
+  display:flex; align-items:center; justify-content:center;
+  font-size:24px; box-shadow: 0 0 30px var(--green-dim);
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+@keyframes pulse-glow {
+  0%,100% { box-shadow: 0 0 20px var(--green-dim); }
+  50% { box-shadow: 0 0 40px var(--green-dim), 0 0 60px var(--green-dim); }
+}
+.header h1 {
+  font-family:var(--font-mono); font-size:22px; font-weight:700;
+  color:#fff; letter-spacing:2px; text-transform:uppercase;
+}
+.header .subtitle { font-size:12px; color:var(--text-dim); font-family:var(--font-mono); margin-top:2px; }
+.header .live-dot {
+  width:8px; height:8px; border-radius:50%; background:var(--green);
+  animation: blink 2s ease-in-out infinite; margin-left:auto;
+}
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+.header .last-update { font-family:var(--font-mono); font-size:11px; color:var(--text-dim); }
+
+/* STATS BAR */
+.stats {
+  display:grid; grid-template-columns:repeat(auto-fit, minmax(160px,1fr));
+  gap:12px; margin:20px 0;
+}
+.stat {
+  background:var(--surface); border:1px solid var(--border); border-radius:10px;
+  padding:16px; position:relative; overflow:hidden;
+  transition: border-color 0.3s;
+}
+.stat:hover { border-color: var(--green); }
+.stat-value {
+  font-family:var(--font-mono); font-size:28px; font-weight:700; color:#fff;
+}
+.stat-label { font-size:11px; color:var(--text-dim); text-transform:uppercase; letter-spacing:1px; margin-top:4px; }
+.stat-icon { position:absolute; top:12px; right:14px; font-size:20px; opacity:0.6; }
+.stat.green .stat-value { color:var(--green); }
+.stat.amber .stat-value { color:var(--amber); }
+.stat.red .stat-value { color:var(--red); }
+.stat.blue .stat-value { color:var(--blue); }
+
+/* FILTERS */
+.filters {
+  display:flex; flex-wrap:wrap; gap:10px; margin:20px 0;
+  padding:16px; background:var(--surface); border:1px solid var(--border);
+  border-radius:10px;
+}
+.filter-group { display:flex; flex-direction:column; gap:4px; }
+.filter-group label {
+  font-family:var(--font-mono); font-size:10px; color:var(--text-dim);
+  text-transform:uppercase; letter-spacing:1px;
+}
+.filter-group select, .filter-group input {
+  background:var(--surface2); color:var(--text); border:1px solid var(--border);
+  border-radius:6px; padding:8px 12px; font-family:var(--font-body);
+  font-size:13px; outline:none; min-width:150px;
+  transition: border-color 0.2s;
+}
+.filter-group select:focus, .filter-group input:focus {
+  border-color:var(--green);
+}
+.filter-group select option { background:var(--surface2); }
+
+.filter-tags { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-left:auto; }
+.tag {
+  font-family:var(--font-mono); font-size:11px; padding:4px 10px;
+  border-radius:20px; cursor:pointer; border:1px solid var(--border);
+  background:transparent; color:var(--text-dim); transition:all 0.2s;
+  user-select:none;
+}
+.tag:hover { border-color:var(--green); color:var(--text); }
+.tag.active { background:var(--green-dim); border-color:var(--green); color:var(--green); }
+.tag.amber.active { background:var(--amber-dim); border-color:var(--amber); color:var(--amber); }
+.tag.red.active { background:var(--red-dim); border-color:var(--red); color:var(--red); }
+
+/* CARDS GRID */
+.grid {
+  display:grid; grid-template-columns:repeat(auto-fill, minmax(340px, 1fr));
+  gap:14px; margin-top:20px;
+}
+
+.card {
+  background:var(--surface); border:1px solid var(--border); border-radius:10px;
+  padding:18px; position:relative; overflow:hidden;
+  transition: transform 0.2s, border-color 0.3s, box-shadow 0.3s;
+  animation: card-in 0.4s ease-out both;
+}
+.card:hover {
+  transform:translateY(-2px); border-color:var(--green);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+}
+@keyframes card-in {
+  from { opacity:0; transform:translateY(12px); }
+  to { opacity:1; transform:translateY(0); }
+}
+
+.card.hot { border-left:3px solid var(--red); }
+.card.hot::before {
+  content:'🔥 3RA CONV.'; position:absolute; top:12px; right:12px;
+  font-family:var(--font-mono); font-size:10px; color:var(--red);
+  background:var(--red-dim); padding:3px 8px; border-radius:4px;
+  letter-spacing:0.5px; font-weight:600;
+}
+.card.segunda { border-left:3px solid var(--amber); }
+.card.segunda::before {
+  content:'⚡ 2DA'; position:absolute; top:12px; right:12px;
+  font-family:var(--font-mono); font-size:10px; color:var(--amber);
+  background:var(--amber-dim); padding:3px 8px; border-radius:4px;
+}
+
+.card-source {
+  display:inline-block; font-family:var(--font-mono); font-size:10px;
+  padding:3px 8px; border-radius:4px; letter-spacing:0.5px; font-weight:600;
+  margin-bottom:10px;
+}
+.card-source.sunat { background:#1b5e2010; color:#66bb6a; border:1px solid #66bb6a30; }
+.card-source.remaju { background:#42a5f510; color:#42a5f5; border:1px solid #42a5f530; }
+.card-source.pronabi { background:#ab47bc10; color:#ab47bc; border:1px solid #ab47bc30; }
+
+.card-title {
+  font-size:14px; font-weight:600; color:#e0e6ed; line-height:1.4;
+  margin-bottom:12px; display:-webkit-box; -webkit-line-clamp:3;
+  -webkit-box-orient:vertical; overflow:hidden;
+}
+
+.card-meta { display:flex; flex-wrap:wrap; gap:12px; }
+.card-meta-item {
+  display:flex; align-items:center; gap:5px;
+  font-size:12px; color:var(--text-dim);
+}
+.card-meta-item span { font-family:var(--font-mono); color:var(--text); font-size:11px; }
+.card-meta-item.price span { color:var(--green); font-weight:600; }
+
+.card-link {
+  display:block; margin-top:14px; padding-top:12px; border-top:1px solid var(--border);
+  font-family:var(--font-mono); font-size:11px; color:var(--blue);
+  text-decoration:none; transition: color 0.2s;
+}
+.card-link:hover { color:var(--green); }
+
+/* EMPTY STATE */
+.empty {
+  text-align:center; padding:60px 20px; color:var(--text-dim);
+}
+.empty-icon { font-size:48px; margin-bottom:12px; opacity:0.5; }
+.empty-text { font-family:var(--font-mono); font-size:14px; }
+
+/* LOADING */
+.loading { text-align:center; padding:80px; }
+.loading-spinner {
+  width:40px; height:40px; border:3px solid var(--border);
+  border-top-color:var(--green); border-radius:50%;
+  animation: spin 0.8s linear infinite; margin:0 auto 16px;
+}
+@keyframes spin { to { transform:rotate(360deg); } }
+.loading-text { font-family:var(--font-mono); font-size:12px; color:var(--text-dim); }
+
+/* MOBILE */
+@media (max-width:768px) {
+  .app { padding:12px; }
+  .header h1 { font-size:16px; }
+  .stats { grid-template-columns:repeat(2,1fr); }
+  .grid { grid-template-columns:1fr; }
+  .filters { flex-direction:column; }
+  .filter-group select, .filter-group input { min-width:100%; }
+  .filter-tags { margin-left:0; margin-top:8px; }
+}
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <div class="loading">
+    <div class="loading-spinner"></div>
+    <div class="loading-text">ESCANEANDO FUENTES...</div>
+  </div>
+</div>
+
+<script>
+// ═══ DEMO DATA (se reemplaza con data/remates.json cuando el scraper corre) ═══
+const DEMO_DATA = {
+  last_update: new Date().toLocaleString('es-PE'),
+  total: 18,
+  nuevos: 5,
+  remates: [
+    {id:"sunat_1808",fuente:"SUNAT",titulo:"PREDIO URBANO CON FRENTE A CARRETERA FERNANDO BELAUNDE TERRY, DISTRITO DE LA BANDA DE SHILCAYO, SAN MARTIN",categoria:"inmuebles",precio_tasacion:537353.77,fecha:"19/02/2026",dependencia:"San Martín",convocatoria:"1ra",url:"https://rematestributarios.sunat.gob.pe/node/1808"},
+    {id:"sunat_1772",fuente:"SUNAT",titulo:"CALLE FLEMING NUMERO 127 TIENDA 201/212-P, DISTRITO SANTIAGO DE SURCO, LIMA",categoria:"inmuebles",precio_tasacion:95302.49,fecha:"26/02/2026",dependencia:"Lima",convocatoria:"2da",url:"https://rematestributarios.sunat.gob.pe/node/1772"},
+    {id:"sunat_1773",fuente:"SUNAT",titulo:"DEPOSITO 2 - SEMISÓTANO AV. SAN BORJA NORTE 1188, URB. SAN BORJA, LIMA",categoria:"inmuebles",precio_tasacion:32154.68,fecha:"26/02/2026",dependencia:"Lima",convocatoria:"3ra",url:"https://rematestributarios.sunat.gob.pe/node/1773"},
+    {id:"sunat_1121",fuente:"SUNAT",titulo:"INMUEBLE PROYECTO PREDIOS DE PATIVILCA VALLE PATIVILCA - CODIGO CATASTRAL 016861",categoria:"inmuebles",precio_tasacion:415575.54,fecha:"14/04/2026",dependencia:"Huacho",convocatoria:"3ra",url:"https://rematestributarios.sunat.gob.pe/node/1121"},
+    {id:"sunat_1801",fuente:"SUNAT",titulo:"LOTE 16 CASA HABITACIÓN 50.00 m2 - MZ D LT 03 RESIDENCIAL LOS ANGELES DE SAN JOSE, PACASMAYO, LA LIBERTAD",categoria:"inmuebles",precio_tasacion:14040.25,fecha:"19/02/2026",dependencia:"La Libertad",convocatoria:"1ra",url:"https://rematestributarios.sunat.gob.pe/node/1801"},
+    {id:"sunat_964",fuente:"SUNAT",titulo:"MZ. I LOTE 7 ASENTAMIENTO HUMANO LAS DELICIAS – PARAMONGA – BARRANCA – LIMA",categoria:"inmuebles",precio_tasacion:402739.20,fecha:"17/02/2026",dependencia:"Huacho",convocatoria:"2da",url:"https://rematestributarios.sunat.gob.pe/node/964"},
+    {id:"sunat_1596",fuente:"SUNAT",titulo:"AUTOMOVIL NISSAN MARCH, CARROCERÍA HATCH BACK, PLACA Z1U570",categoria:"vehiculos",precio_tasacion:8071.20,fecha:"24/02/2026",dependencia:"Tacna",convocatoria:"1ra",url:"https://rematestributarios.sunat.gob.pe/node/1596"},
+    {id:"sunat_1389",fuente:"SUNAT",titulo:"INMUEBLE INDUSTRIAL DOS PISOS 2,100 M2, MZ. G LT. 1 PARQUE INDUSTRIAL DE TACNA",categoria:"inmuebles",precio_tasacion:4513747.45,fecha:"24/02/2026",dependencia:"Tacna",convocatoria:"1ra",url:"https://rematestributarios.sunat.gob.pe/node/1389"},
+    {id:"remaju_surco_0904",fuente:"REMAJU",titulo:"REMATE SIMPLE - SANTIAGO DE SURCO",categoria:"inmuebles",precio_tasacion:0,fecha:"09/04/2026",dependencia:"Santiago de Surco",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"remaju_sanisidro_0904",fuente:"REMAJU",titulo:"REMATE SIMPLE - SAN ISIDRO",categoria:"inmuebles",precio_tasacion:0,fecha:"09/04/2026",dependencia:"San Isidro",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"remaju_miraflores_0904",fuente:"REMAJU",titulo:"REMATE SIMPLE - MIRAFLORES",categoria:"inmuebles",precio_tasacion:0,fecha:"09/04/2026",dependencia:"Miraflores",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"remaju_molina_0904",fuente:"REMAJU",titulo:"REMATE SIMPLE - LA MOLINA",categoria:"inmuebles",precio_tasacion:0,fecha:"12/04/2026",dependencia:"La Molina",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"remaju_sjl_0904",fuente:"REMAJU",titulo:"REMATE SIMPLE - SAN JUAN DE LURIGANCHO",categoria:"inmuebles",precio_tasacion:0,fecha:"10/04/2026",dependencia:"San Juan de Lurigancho",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"remaju_ate_0904",fuente:"REMAJU",titulo:"REMATE SIMPLE - ATE",categoria:"inmuebles",precio_tasacion:0,fecha:"10/04/2026",dependencia:"Ate",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"remaju_comas_0904",fuente:"REMAJU",titulo:"REMATE SIMPLE - COMAS",categoria:"inmuebles",precio_tasacion:0,fecha:"09/04/2026",dependencia:"Comas",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"remaju_callao_1004",fuente:"REMAJU",titulo:"REMATE SIMPLE - CALLAO",categoria:"inmuebles",precio_tasacion:0,fecha:"10/04/2026",dependencia:"Callao",convocatoria:"",url:"https://remaju.pj.gob.pe/remaju/"},
+    {id:"pronabi_sub01",fuente:"PRONABI",titulo:"SUBASTA PÚBLICA N° 001-2026 - 37 INMUEBLES INCAUTADOS NIVEL NACIONAL",categoria:"varios",precio_tasacion:0,fecha:"22/04/2026",dependencia:"Nacional",convocatoria:"",url:"https://www.gob.pe/institucion/minjus/campa%C3%B1as/98749-subastas-publicas"},
+    {id:"pronabi_sub02",fuente:"PRONABI",titulo:"SUBASTA PÚBLICA N° 002-2026 - 23 VEHÍCULOS DECOMISADOS",categoria:"vehiculos",precio_tasacion:0,fecha:"23/04/2026",dependencia:"Nacional",convocatoria:"",url:"https://www.gob.pe/institucion/minjus/campa%C3%B1as/98749-subastas-publicas"},
+  ]
+};
+
+// ═══ APP ═══
+let data = null;
+let filters = { fuente: 'todos', categoria: 'todos', search: '', convocatoria: 'todos' };
+
+async function init() {
+  // Intentar cargar datos reales del scraper
+  try {
+    const resp = await fetch('data/remates.json');
+    if (resp.ok) {
+      data = await resp.json();
+    } else {
+      data = DEMO_DATA;
+    }
+  } catch(e) {
+    data = DEMO_DATA;
+  }
+  render();
+}
+
+function getFiltered() {
+  return data.remates.filter(r => {
+    if (filters.fuente !== 'todos' && r.fuente !== filters.fuente) return false;
+    if (filters.categoria !== 'todos' && r.categoria !== filters.categoria) return false;
+    if (filters.convocatoria !== 'todos' && r.convocatoria !== filters.convocatoria) return false;
+    if (filters.search) {
+      const q = filters.search.toLowerCase();
+      const haystack = `${r.titulo} ${r.dependencia}`.toLowerCase();
+      if (!haystack.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function formatPrice(n) {
+  if (!n || n === 0) return 'Ver detalle';
+  return 'S/ ' + n.toLocaleString('es-PE', {minimumFractionDigits:2, maximumFractionDigits:2});
+}
+
+function render() {
+  const filtered = getFiltered();
+  const stats = {
+    total: data.remates.length,
+    sunat: data.remates.filter(r=>r.fuente==='SUNAT').length,
+    remaju: data.remates.filter(r=>r.fuente==='REMAJU').length,
+    hot: data.remates.filter(r=>r.convocatoria==='3ra').length,
+  };
+
+  document.getElementById('app').innerHTML = `
+    <!-- HEADER -->
+    <div class="header">
+      <div class="header-icon">📡</div>
+      <div>
+        <h1>Radar Remates</h1>
+        <div class="subtitle">SUNAT · REMAJU · PRONABI</div>
+      </div>
+      <div class="live-dot"></div>
+      <div class="last-update">UPD ${data.last_update || '—'}</div>
+    </div>
+
+    <!-- STATS -->
+    <div class="stats">
+      <div class="stat green">
+        <div class="stat-icon">📡</div>
+        <div class="stat-value">${stats.total}</div>
+        <div class="stat-label">Total activos</div>
+      </div>
+      <div class="stat blue">
+        <div class="stat-icon">🏛️</div>
+        <div class="stat-value">${stats.sunat}</div>
+        <div class="stat-label">SUNAT</div>
+      </div>
+      <div class="stat amber">
+        <div class="stat-icon">⚖️</div>
+        <div class="stat-value">${stats.remaju}</div>
+        <div class="stat-label">REMAJU</div>
+      </div>
+      <div class="stat red">
+        <div class="stat-icon">🔥</div>
+        <div class="stat-value">${stats.hot}</div>
+        <div class="stat-label">3ra Convocatoria</div>
+      </div>
+    </div>
+
+    <!-- FILTERS -->
+    <div class="filters">
+      <div class="filter-group">
+        <label>Buscar</label>
+        <input type="text" placeholder="Zona, dirección..." id="f-search" value="${filters.search}" />
+      </div>
+      <div class="filter-group">
+        <label>Fuente</label>
+        <select id="f-fuente">
+          <option value="todos" ${filters.fuente==='todos'?'selected':''}>Todas</option>
+          <option value="SUNAT" ${filters.fuente==='SUNAT'?'selected':''}>SUNAT</option>
+          <option value="REMAJU" ${filters.fuente==='REMAJU'?'selected':''}>REMAJU</option>
+          <option value="PRONABI" ${filters.fuente==='PRONABI'?'selected':''}>PRONABI</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>Categoría</label>
+        <select id="f-cat">
+          <option value="todos" ${filters.categoria==='todos'?'selected':''}>Todas</option>
+          <option value="inmuebles" ${filters.categoria==='inmuebles'?'selected':''}>Inmuebles</option>
+          <option value="vehiculos" ${filters.categoria==='vehiculos'?'selected':''}>Vehículos</option>
+          <option value="varios" ${filters.categoria==='varios'?'selected':''}>Varios</option>
+        </select>
+      </div>
+      <div class="filter-tags">
+        <div class="tag ${filters.convocatoria==='todos'?'active':''}" onclick="setConv('todos')">TODOS</div>
+        <div class="tag ${filters.convocatoria==='3ra'?'active red':''}" onclick="setConv('3ra')">🔥 3RA CONV</div>
+        <div class="tag ${filters.convocatoria==='2da'?'active amber':''}" onclick="setConv('2da')">⚡ 2DA</div>
+        <div class="tag ${filters.convocatoria==='1ra'?'active':''}" onclick="setConv('1ra')">1RA</div>
+      </div>
+    </div>
+
+    <!-- RESULTS -->
+    ${filtered.length > 0 ? `
+      <div style="font-family:var(--font-mono);font-size:11px;color:var(--text-dim);margin-top:16px;margin-bottom:-8px;">
+        ${filtered.length} RESULTADO${filtered.length!==1?'S':''}
+      </div>
+      <div class="grid">
+        ${filtered.map((r, i) => renderCard(r, i)).join('')}
+      </div>
+    ` : `
+      <div class="empty">
+        <div class="empty-icon">📡</div>
+        <div class="empty-text">Sin resultados para estos filtros</div>
+      </div>
+    `}
+  `;
+
+  // Event listeners
+  document.getElementById('f-search').addEventListener('input', e => {
+    filters.search = e.target.value; render();
+  });
+  document.getElementById('f-fuente').addEventListener('change', e => {
+    filters.fuente = e.target.value; render();
+  });
+  document.getElementById('f-cat').addEventListener('change', e => {
+    filters.categoria = e.target.value; render();
+  });
+
+  // Focus search if had value
+  if (filters.search) {
+    const el = document.getElementById('f-search');
+    el.focus();
+    el.setSelectionRange(el.value.length, el.value.length);
+  }
+}
+
+function setConv(val) {
+  filters.convocatoria = val;
+  render();
+}
+
+function renderCard(r, i) {
+  const isHot = r.convocatoria === '3ra';
+  const isSegunda = r.convocatoria === '2da';
+  const srcClass = r.fuente.toLowerCase();
+  
+  return `
+    <div class="card ${isHot?'hot':''} ${isSegunda?'segunda':''}" style="animation-delay:${i*40}ms">
+      <span class="card-source ${srcClass}">${r.fuente}</span>
+      <div class="card-title">${r.titulo}</div>
+      <div class="card-meta">
+        <div class="card-meta-item">📍 <span>${r.dependencia || '—'}</span></div>
+        <div class="card-meta-item price">💰 <span>${formatPrice(r.precio_tasacion)}</span></div>
+        <div class="card-meta-item">📅 <span>${r.fecha || '—'}</span></div>
+      </div>
+      <a class="card-link" href="${r.url}" target="_blank" rel="noopener">
+        → VER DETALLE EN ${r.fuente}
+      </a>
+    </div>
+  `;
+}
+
+// ═══ INIT ═══
+init();
+</script>
+</body>
+</html>
