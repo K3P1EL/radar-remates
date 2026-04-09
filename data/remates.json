@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-09 19:54",
-  "total": 161,
-  "nuevos": 0,
+  "last_update": "2026-04-09 20:59",
+  "total": 162,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1193",
@@ -2732,6 +2732,24 @@
       "fecha": "18/04/2026",
       "hora": "",
       "dependencia": "LINCE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_perene_19042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PERENE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "19/04/2026",
+      "hora": "",
+      "dependencia": "PERENE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
