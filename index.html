@@ -133,9 +133,26 @@ body::after {
 
 .card {
   background:var(--surface); border:1px solid var(--border); border-radius:10px;
-  padding:18px; position:relative; overflow:hidden;
+  padding:0; position:relative; overflow:hidden;
   transition: transform 0.2s, border-color 0.3s, box-shadow 0.3s;
   animation: card-in 0.4s ease-out both;
+  display:flex; flex-direction:column;
+}
+.card-body { padding:18px; display:flex; flex-direction:column; flex:1; }
+.card-image {
+  width:100%; height:160px; object-fit:cover; background:var(--surface2);
+  border-bottom:1px solid var(--border);
+}
+.card-image-placeholder {
+  width:100%; height:80px; background:linear-gradient(135deg,var(--surface2),var(--surface));
+  display:flex; align-items:center; justify-content:center;
+  font-size:32px; opacity:0.3; border-bottom:1px solid var(--border);
+}
+.discount-badge {
+  position:absolute; top:12px; left:12px; z-index:2;
+  background:var(--green); color:#000; font-family:var(--font-mono);
+  font-size:11px; font-weight:700; padding:4px 8px; border-radius:4px;
+  box-shadow:0 2px 8px rgba(0,230,118,0.4);
 }
 .card:hover {
   transform:translateY(-2px); border-color:var(--green);
@@ -414,19 +431,48 @@ function renderCard(r, i) {
   const isHot = r.convocatoria === '3ra';
   const isSegunda = r.convocatoria === '2da';
   const srcClass = r.fuente.toLowerCase();
-  
+  const fechaStr = (r.fecha || '—') + (r.hora ? ' ' + r.hora : '');
+
+  // Imagen o placeholder
+  const imageHtml = r.imagen
+    ? `<img class="card-image" src="${r.imagen}" alt="" loading="lazy" onerror="this.style.display='none'">`
+    : `<div class="card-image-placeholder">${r.fuente==='SUNAT'?'🏛️':r.fuente==='REMAJU'?'⚖️':'🔒'}</div>`;
+
+  // Precio: si hay base + descuento, mostrar ambos
+  let precioHtml = '';
+  if (r.precio_base && r.descuento_pct) {
+    precioHtml = `
+      <div class="card-meta-item price">💰 <span>${formatPrice(r.precio_base)}</span></div>
+      <div class="card-meta-item" style="text-decoration:line-through;opacity:0.5">
+        <span>${formatPrice(r.precio_tasacion)}</span>
+      </div>`;
+  } else {
+    precioHtml = `<div class="card-meta-item price">💰 <span>${formatPrice(r.precio_tasacion)}</span></div>`;
+  }
+
+  const discountBadge = r.descuento_pct ? `<div class="discount-badge">-${r.descuento_pct}%</div>` : '';
+  const deudorHtml = r.deudor ? `<div class="card-meta-item">👤 <span>${r.deudor.slice(0,40)}</span></div>` : '';
+  const expHtml = r.expediente ? `<div class="card-meta-item">📋 <span>EXP ${r.expediente}</span></div>` : '';
+  const pdfHtml = r.pdf ? ` · <a href="${r.pdf}" target="_blank" rel="noopener" style="color:var(--amber)">PDF</a>` : '';
+
   return `
     <div class="card ${isHot?'hot':''} ${isSegunda?'segunda':''}" style="animation-delay:${i*40}ms">
-      <span class="card-source ${srcClass}">${r.fuente}</span>
-      <div class="card-title">${r.titulo}</div>
-      <div class="card-meta">
-        <div class="card-meta-item">📍 <span>${r.dependencia || '—'}</span></div>
-        <div class="card-meta-item price">💰 <span>${formatPrice(r.precio_tasacion)}</span></div>
-        <div class="card-meta-item">📅 <span>${r.fecha || '—'}</span></div>
+      ${discountBadge}
+      ${imageHtml}
+      <div class="card-body">
+        <span class="card-source ${srcClass}">${r.fuente}</span>
+        <div class="card-title">${r.titulo}</div>
+        <div class="card-meta">
+          <div class="card-meta-item">📍 <span>${r.dependencia || '—'}</span></div>
+          ${precioHtml}
+          <div class="card-meta-item">📅 <span>${fechaStr}</span></div>
+          ${deudorHtml}
+          ${expHtml}
+        </div>
+        <a class="card-link" href="${r.url}" target="_blank" rel="noopener">
+          → VER DETALLE EN ${r.fuente}${pdfHtml}
+        </a>
       </div>
-      <a class="card-link" href="${r.url}" target="_blank" rel="noopener">
-        → VER DETALLE EN ${r.fuente}
-      </a>
     </div>
   `;
 }

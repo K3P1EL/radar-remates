@@ -1,0 +1,61 @@
+{
+  "last_update": "2026-04-08 19:11",
+  "total": 3,
+  "nuevos": 0,
+  "remates": [
+    {
+      "id": "sunat_1193",
+      "fuente": "SUNAT",
+      "titulo": "Predio Rural La Providencia Código Catastral 12126 Proyecto La Providencia, U.C. 12126 - PATIVILCA - BARRANCA.",
+      "categoria": "inmuebles",
+      "precio_tasacion": 591030.0,
+      "precio_base": 284679.45,
+      "descuento_pct": 52,
+      "fecha": "14/04/2026",
+      "hora": "11:10",
+      "dependencia": "Barranca",
+      "expediente": "1730060291867",
+      "deudor": "",
+      "convocatoria": "3ra",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2025-04/Imagen2_0.png",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-03/INF%20DE%20DETALLE%20DEL%20ITEM%20PROVIDENCIA%20140426.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/1193"
+    },
+    {
+      "id": "sunat_1192",
+      "fuente": "SUNAT",
+      "titulo": "CASA Ubicada en Calle Arequipa Nro 502 – 504 - Barranca – Barranca – Lima",
+      "categoria": "inmuebles",
+      "precio_tasacion": 740007.92,
+      "precio_base": 356437.15,
+      "descuento_pct": 52,
+      "fecha": "14/04/2026",
+      "hora": "11:20",
+      "dependencia": "Lima",
+      "expediente": "1730060291867",
+      "deudor": "",
+      "convocatoria": "3ra",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2025-04/IMAGEN.jpg",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-03/INF%20DE%20DETALLE%20DEL%20ITEM%20CAS%20140426.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/1192"
+    },
+    {
+      "id": "sunat_1386",
+      "fuente": "SUNAT",
+      "titulo": "Terreno de cultivo PULANCACHE Parcela 166 Proyecto  San Nicolas. U.C. 13083. Supe - Barranca -Lima",
+      "categoria": "inmuebles",
+      "precio_tasacion": 1184856.0,
+      "precio_base": 671418.4,
+      "descuento_pct": 43,
+      "fecha": "14/04/2026",
+      "hora": "11:00",
+      "dependencia": "Lima",
+      "expediente": "1730601579",
+      "deudor": "",
+      "convocatoria": "2da",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2025-08/Imagen2.jpg",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-03/INF%20DE%20DETALLE%20DEL%20ITEM.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/1386"
+    }
+  ]
+}
