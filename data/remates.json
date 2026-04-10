@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-10 21:48",
+  "last_update": "2026-04-10 22:46",
   "total": 201,
-  "nuevos": 19,
+  "nuevos": 4,
   "remates": [
     {
       "id": "sunat_1193",
@@ -2506,24 +2506,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_villa_el_salvador_19042026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - VILLA EL SALVADOR",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "19/04/2026",
-      "hora": "",
-      "dependencia": "VILLA EL SALVADOR",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_san_juan_de_miraflores_19042026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - SAN JUAN DE MIRAFLORES",
@@ -2588,6 +2570,24 @@
       "fecha": "19/04/2026",
       "hora": "",
       "dependencia": "LAMBAYEQUE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_villa_el_salvador_19042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - VILLA EL SALVADOR",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "19/04/2026",
+      "hora": "",
+      "dependencia": "VILLA EL SALVADOR",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
