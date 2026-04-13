@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-13 21:34",
-  "total": 161,
-  "nuevos": 3,
+  "last_update": "2026-04-13 22:40",
+  "total": 162,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1193",
@@ -2894,6 +2894,24 @@
       "fecha": "23/04/2026",
       "hora": "",
       "dependencia": "PUNCHANA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_comas_23042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - COMAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "23/04/2026",
+      "hora": "",
+      "dependencia": "COMAS",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
