@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-14 18:46",
-  "total": 176,
-  "nuevos": 3,
+  "last_update": "2026-04-14 20:10",
+  "total": 177,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1193",
@@ -2912,6 +2912,24 @@
       "fecha": "23/04/2026",
       "hora": "",
       "dependencia": "COMAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_santiago_de_surco_24042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SANTIAGO DE SURCO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "24/04/2026",
+      "hora": "",
+      "dependencia": "SANTIAGO DE SURCO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
