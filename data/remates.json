@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-04-15 19:38",
-  "total": 191,
+  "last_update": "2026-04-15 20:32",
+  "total": 192,
   "nuevos": 1,
   "remates": [
     {
@@ -3434,6 +3434,24 @@
       "fecha": "25/04/2026",
       "hora": "",
       "dependencia": "LA MOLINA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_puente_piedra_25042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PUENTE PIEDRA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/04/2026",
+      "hora": "",
+      "dependencia": "PUENTE PIEDRA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
