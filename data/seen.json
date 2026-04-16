@@ -2,7 +2,13 @@
   "sunat": [
     "sunat_1192",
     "sunat_1386",
-    "sunat_1193"
+    "sunat_1193",
+    "sunat_1848",
+    "sunat_1773",
+    "sunat_1759",
+    "sunat_1758",
+    "sunat_1757",
+    "sunat_1755"
   ],
   "remaju": [
     "remaju_la_tinguiña_18042026",
@@ -307,7 +313,9 @@
     "remaju_trujillo_25042026",
     "remaju_san_sebastian_26042026",
     "remaju_san_miguel_26042026",
-    "remaju_alto_trujillo_26042026"
+    "remaju_alto_trujillo_26042026",
+    "remaju_wanchaq_26042026",
+    "remaju_yurimaguas_26042026"
   ],
   "pronabi": []
 }
