@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-16 17:46",
-  "total": 222,
-  "nuevos": 1,
+  "last_update": "2026-04-16 19:26",
+  "total": 221,
+  "nuevos": 0,
   "remates": [
     {
       "id": "remaju_lima_16042026",
@@ -3740,24 +3740,6 @@
       "fecha": "25/04/2026",
       "hora": "",
       "dependencia": "SANTIAGO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_puente_piedra_25042026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - PUENTE PIEDRA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "25/04/2026",
-      "hora": "",
-      "dependencia": "PUENTE PIEDRA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
