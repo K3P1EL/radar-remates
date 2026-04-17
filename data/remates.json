@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-17 12:46",
-  "total": 218,
-  "nuevos": 0,
+  "last_update": "2026-04-17 14:17",
+  "total": 216,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_carabayllo_17042026",
@@ -3082,24 +3082,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_yarinacocha_25042026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - YARINACOCHA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "25/04/2026",
-      "hora": "",
-      "dependencia": "YARINACOCHA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_chimbote_25042026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CHIMBOTE",
@@ -3892,40 +3874,22 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "sunat_1848",
-      "fuente": "SUNAT",
-      "titulo": "DEPÓSITO 4 SEMISÓTANO AVENIDA LA PAZ NÚMERO 2582, DISTRITO DE SAN MIGUEL, PROVINCIA Y DEPARTAMENTO DE LIMA",
+      "id": "remaju_monsefu_27042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MONSEFU",
       "categoria": "inmuebles",
-      "precio_tasacion": 39811.15,
-      "precio_base": 0.0,
+      "precio_tasacion": 0,
+      "precio_base": 0,
       "descuento_pct": 0,
-      "fecha": "30/04/2026",
-      "hora": "10:50",
-      "dependencia": "Lima",
-      "expediente": "0230063853496",
+      "fecha": "27/04/2026",
+      "hora": "",
+      "dependencia": "MONSEFU",
+      "expediente": "",
       "deudor": "",
       "convocatoria": "",
-      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1050_0.jpg",
-      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1050_0.pdf",
-      "url": "https://rematestributarios.sunat.gob.pe/node/1848"
-    },
-    {
-      "id": "sunat_1773",
-      "fuente": "SUNAT",
-      "titulo": "DEPOSITO 2 - SEMISÓTANO AVENIDA SAN BORJA NORTE NUMERO 1188 URBANIZACIÓN SAN BORJA (PRIMERA ETAPA / SECTOR F / SEXTA SECCIÓN), DISTRITO SAN BORJA, PROVINCIA Y DEPARTAMENTO LIMA.",
-      "categoria": "inmuebles",
-      "precio_tasacion": 32154.68,
-      "precio_base": 0.0,
-      "descuento_pct": 0,
-      "fecha": "30/04/2026",
-      "hora": "10:54",
-      "dependencia": "Lima",
-      "expediente": "0230068542299",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1054_0.jpg",
-      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1054_0.pdf",
-      "url": "https://rematestributarios.sunat.gob.pe/node/1773"
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     }
   ]
 }
