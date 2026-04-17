@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-17 15:39",
+  "last_update": "2026-04-17 16:38",
   "total": 219,
-  "nuevos": 3,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_carabayllo_17042026",
@@ -3460,24 +3460,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_san_sebastian_26042026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SAN SEBASTIAN",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "26/04/2026",
-      "hora": "",
-      "dependencia": "SAN SEBASTIAN",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_san_miguel_26042026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - SAN MIGUEL",
@@ -3938,6 +3920,24 @@
       "fecha": "27/04/2026",
       "hora": "",
       "dependencia": "MONSEFU",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_juan_de_lurigancho_27042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN JUAN DE LURIGANCHO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/04/2026",
+      "hora": "",
+      "dependencia": "SAN JUAN DE LURIGANCHO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
