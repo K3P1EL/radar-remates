@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-04-17 18:38",
-  "total": 224,
+  "last_update": "2026-04-17 19:47",
+  "total": 225,
   "nuevos": 2,
   "remates": [
     {
@@ -3856,6 +3856,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_bagua_27042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - BAGUA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/04/2026",
+      "hora": "",
+      "dependencia": "BAGUA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_copallin_27042026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - COPALLIN",
@@ -3964,16 +3982,16 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_lima_27042026",
+      "id": "remaju_san_juan_de_miraflores_27042026",
       "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - LIMA",
+      "titulo": "REMATE SIMPLE - SAN JUAN DE MIRAFLORES",
       "categoria": "inmuebles",
       "precio_tasacion": 0,
       "precio_base": 0,
       "descuento_pct": 0,
       "fecha": "27/04/2026",
       "hora": "",
-      "dependencia": "LIMA",
+      "dependencia": "SAN JUAN DE MIRAFLORES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
