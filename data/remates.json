@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-04-16 23:05",
-  "total": 242,
+  "last_update": "2026-04-17 00:00",
+  "total": 243,
   "nuevos": 1,
   "remates": [
     {
@@ -4298,6 +4298,24 @@
       "fecha": "26/04/2026",
       "hora": "",
       "dependencia": "MANANTAY",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_lima_26042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LIMA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "26/04/2026",
+      "hora": "",
+      "dependencia": "LIMA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
