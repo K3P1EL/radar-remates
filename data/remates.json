@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-20 19:36",
-  "total": 148,
-  "nuevos": 0,
+  "last_update": "2026-04-20 20:30",
+  "total": 150,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_viru_20042026",
@@ -2630,6 +2630,42 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1238.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1238.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/1883"
+    },
+    {
+      "id": "remaju_copallin_30042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - COPALLIN",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/04/2026",
+      "hora": "",
+      "dependencia": "COPALLIN",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_santa_anita_30042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SANTA ANITA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/04/2026",
+      "hora": "",
+      "dependencia": "SANTA ANITA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_surquillo_30042026",
