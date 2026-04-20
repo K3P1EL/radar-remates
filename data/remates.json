@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-20 15:46",
-  "total": 146,
-  "nuevos": 0,
+  "last_update": "2026-04-20 17:14",
+  "total": 148,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_viru_20042026",
@@ -2630,6 +2630,42 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1238.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/1238.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/1883"
+    },
+    {
+      "id": "remaju_surquillo_30042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SURQUILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/04/2026",
+      "hora": "",
+      "dependencia": "SURQUILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_comas_30042026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - COMAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/04/2026",
+      "hora": "",
+      "dependencia": "COMAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     }
   ]
 }
