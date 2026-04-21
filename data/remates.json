@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-21 22:11",
+  "last_update": "2026-04-21 23:01",
   "total": 135,
   "nuevos": 0,
   "remates": [
@@ -40,24 +40,6 @@
       "url": "https://rematestributarios.sunat.gob.pe/node/1982"
     },
     {
-      "id": "remaju_asia_01052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - ASIA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "01/05/2026",
-      "hora": "",
-      "dependencia": "ASIA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_trujillo_01052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - TRUJILLO",
@@ -68,6 +50,24 @@
       "fecha": "01/05/2026",
       "hora": "",
       "dependencia": "TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_asia_01052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ASIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "01/05/2026",
+      "hora": "",
+      "dependencia": "ASIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
