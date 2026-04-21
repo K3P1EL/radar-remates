@@ -1,8 +1,26 @@
 {
-  "last_update": "2026-04-21 15:45",
-  "total": 128,
-  "nuevos": 7,
+  "last_update": "2026-04-21 16:45",
+  "total": 129,
+  "nuevos": 1,
   "remates": [
+    {
+      "id": "remaju_lurigancho_01052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LURIGANCHO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "01/05/2026",
+      "hora": "",
+      "dependencia": "LURIGANCHO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
     {
       "id": "remaju_iquitos_01052026",
       "fuente": "REMAJU",
