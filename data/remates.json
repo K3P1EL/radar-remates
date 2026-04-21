@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-04-21 20:28",
-  "total": 134,
+  "last_update": "2026-04-21 21:25",
+  "total": 135,
   "nuevos": 1,
   "remates": [
     {
@@ -38,6 +38,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/Foto_Taricuarima.JPG",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/PUBLICACION%20REGION_2.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/1982"
+    },
+    {
+      "id": "remaju_asia_01052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ASIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "01/05/2026",
+      "hora": "",
+      "dependencia": "ASIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_trujillo_01052026",
