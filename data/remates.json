@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-21 17:47",
-  "total": 132,
-  "nuevos": 3,
+  "last_update": "2026-04-21 19:23",
+  "total": 133,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1981",
@@ -38,6 +38,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/Foto_Taricuarima.JPG",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/PUBLICACION%20REGION_2.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/1982"
+    },
+    {
+      "id": "remaju_pachangara_01052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PACHANGARA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "01/05/2026",
+      "hora": "",
+      "dependencia": "PACHANGARA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_chimbote_01052026",
