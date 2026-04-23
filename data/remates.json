@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-23 21:34",
+  "last_update": "2026-04-23 22:29",
   "total": 235,
-  "nuevos": 45,
+  "nuevos": 31,
   "remates": [
     {
       "id": "sunat_1981",
@@ -778,24 +778,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_cerro_colorado_02052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CERRO COLORADO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "02/05/2026",
-      "hora": "",
-      "dependencia": "CERRO COLORADO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_la_victoria_02052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - LA VICTORIA",
@@ -914,6 +896,24 @@
       "fecha": "02/05/2026",
       "hora": "",
       "dependencia": "CHACLACAYO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_guadalupe_03052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - GUADALUPE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "03/05/2026",
+      "hora": "",
+      "dependencia": "GUADALUPE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
