@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-23 00:05",
+  "last_update": "2026-04-23 03:49",
   "total": 168,
   "nuevos": 0,
   "remates": [
@@ -310,24 +310,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_carabayllo_02052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CARABAYLLO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "02/05/2026",
-      "hora": "",
-      "dependencia": "CARABAYLLO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_san_ramon_02052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - SAN RAMON",
@@ -338,6 +320,24 @@
       "fecha": "02/05/2026",
       "hora": "",
       "dependencia": "SAN RAMON",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_carabayllo_02052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CARABAYLLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "02/05/2026",
+      "hora": "",
+      "dependencia": "CARABAYLLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
