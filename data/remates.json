@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-23 18:11",
-  "total": 184,
-  "nuevos": 3,
+  "last_update": "2026-04-23 19:43",
+  "total": 185,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1981",
@@ -932,6 +932,24 @@
       "fecha": "02/05/2026",
       "hora": "",
       "dependencia": "CHACLACAYO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_huancayo_03052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - HUANCAYO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "03/05/2026",
+      "hora": "",
+      "dependencia": "HUANCAYO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
