@@ -33,8 +33,6 @@
     "sunat_1981"
   ],
   "remaju": [
-    "remaju_parco_18042026",
-    "remaju_magdalena_del_mar_18042026",
     "remaju_san_miguel_18042026",
     "remaju_san_sebastian_18042026",
     "remaju_carabayllo_17042026",
@@ -532,7 +530,9 @@
     "remaju_el_agustino_04052026",
     "remaju_cerro_colorado_04052026",
     "remaju_san_juan_de_lurigancho_04052026",
-    "remaju_villa_el_salvador_04052026"
+    "remaju_villa_el_salvador_04052026",
+    "remaju_lince_04052026",
+    "remaju_san_miguel_04052026"
   ],
   "pronabi": []
 }

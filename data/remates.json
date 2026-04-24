@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-24 21:08",
+  "last_update": "2026-04-24 22:05",
   "total": 252,
-  "nuevos": 17,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_1981",
@@ -544,24 +544,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_villa_maria_del_triunfo_02052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - VILLA MARIA DEL TRIUNFO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "02/05/2026",
-      "hora": "",
-      "dependencia": "VILLA MARIA DEL TRIUNFO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_chincha_alta_02052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CHINCHA ALTA",
@@ -590,6 +572,24 @@
       "fecha": "02/05/2026",
       "hora": "",
       "dependencia": "EL TAMBO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_villa_maria_del_triunfo_02052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - VILLA MARIA DEL TRIUNFO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "02/05/2026",
+      "hora": "",
+      "dependencia": "VILLA MARIA DEL TRIUNFO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
