@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-24 22:05",
-  "total": 252,
-  "nuevos": 2,
+  "last_update": "2026-04-24 23:01",
+  "total": 251,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_1981",
@@ -2480,24 +2480,6 @@
       "fecha": "04/05/2026",
       "hora": "",
       "dependencia": "INDEPENDENCIA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_pocollay_04052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - POCOLLAY",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "04/05/2026",
-      "hora": "",
-      "dependencia": "POCOLLAY",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
