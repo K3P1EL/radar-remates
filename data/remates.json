@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-04-27 22:28",
-  "total": 185,
+  "last_update": "2026-04-27 23:31",
+  "total": 186,
   "nuevos": 1,
   "remates": [
     {
@@ -2642,6 +2642,24 @@
       "fecha": "04/05/2026",
       "hora": "",
       "dependencia": "SAN MIGUEL",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_chepen_07052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CHEPEN",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "07/05/2026",
+      "hora": "",
+      "dependencia": "CHEPEN",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
