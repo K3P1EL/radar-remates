@@ -33,9 +33,6 @@
     "sunat_1981"
   ],
   "remaju": [
-    "remaju_chanchamayo_17042026",
-    "remaju_moquegua_17042026",
-    "remaju_santiago_18042026",
     "remaju_san_jose_de_los_molinos_18042026",
     "remaju_jesus_maria_17042026",
     "remaju_razuri_17042026",
@@ -532,7 +529,10 @@
     "remaju_independencia_07052026",
     "remaju_san_juan_de_miraflores_07052026",
     "remaju_coronel_gregorio_albarracin_lanchipa_07052026",
-    "remaju_san_andres_07052026"
+    "remaju_san_andres_07052026",
+    "remaju_nuevo_chimbote_07052026",
+    "remaju_trujillo_07052026",
+    "remaju_ate_07052026"
   ],
   "pronabi": []
 }
