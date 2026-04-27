@@ -30,11 +30,11 @@
     "sunat_1925",
     "sunat_1922",
     "sunat_1982",
-    "sunat_1981"
+    "sunat_1981",
+    "sunat_1980",
+    "sunat_1949"
   ],
   "remaju": [
-    "remaju_san_jose_de_los_molinos_18042026",
-    "remaju_jesus_maria_17042026",
     "remaju_razuri_17042026",
     "remaju_chimbote_17042026",
     "remaju_lurin_17042026",
@@ -532,7 +532,9 @@
     "remaju_san_andres_07052026",
     "remaju_nuevo_chimbote_07052026",
     "remaju_trujillo_07052026",
-    "remaju_ate_07052026"
+    "remaju_ate_07052026",
+    "remaju_samuel_pastor_07052026",
+    "remaju_laredo_07052026"
   ],
   "pronabi": []
 }

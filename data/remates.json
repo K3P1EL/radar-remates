@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-27 17:09",
-  "total": 179,
-  "nuevos": 3,
+  "last_update": "2026-04-27 18:43",
+  "total": 182,
+  "nuevos": 4,
   "remates": [
     {
       "id": "sunat_1981",
@@ -22,22 +22,22 @@
       "url": "https://rematestributarios.sunat.gob.pe/node/1981"
     },
     {
-      "id": "sunat_1982",
+      "id": "sunat_1980",
       "fuente": "SUNAT",
-      "titulo": "PRIMER REMATE PÚBLICO/ TARICUARIMA VARGAS PEDRO /RUC: 10052445944",
+      "titulo": "SEGUNDO REMATE PÚBLICO/ GUZMAN ESTRADA CARMELA/DERECHOS Y ACCIONES 50%.",
       "categoria": "inmuebles",
-      "precio_tasacion": 43860.4,
+      "precio_tasacion": 157596.0,
       "precio_base": 0.0,
       "descuento_pct": 0,
       "fecha": "27/04/2026",
-      "hora": "15:10",
+      "hora": "15:00",
       "dependencia": "",
-      "expediente": "1230060071830",
+      "expediente": "1530060360068",
       "deudor": "",
-      "convocatoria": "1ra",
-      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/Foto_Taricuarima.JPG",
-      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/PUBLICACION%20REGION_2.pdf",
-      "url": "https://rematestributarios.sunat.gob.pe/node/1982"
+      "convocatoria": "2da",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/Carmela%20Guzman_0_0.JPG",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/PUBLICACION%20REGION_0.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/1980"
     },
     {
       "id": "remaju_trujillo_01052026",
@@ -2704,6 +2704,42 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_samuel_pastor_07052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAMUEL PASTOR",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "07/05/2026",
+      "hora": "",
+      "dependencia": "SAMUEL PASTOR",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_laredo_07052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LAREDO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "07/05/2026",
+      "hora": "",
+      "dependencia": "LAREDO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_nuevo_chimbote_07052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - NUEVO CHIMBOTE",
@@ -3134,6 +3170,24 @@
       "imagen": "",
       "pdf": "",
       "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "sunat_1949",
+      "fuente": "SUNAT",
+      "titulo": "Inmueble ubicado en Mza AW Lote 17 Urb. Miraflores Country Club IV Etapa, distrito de Castilla, provincia y departamento de Piura. Área 120.00m2. Partida Registral N° 11114227 de la Oficina Registral Piura",
+      "categoria": "inmuebles",
+      "precio_tasacion": 485922.82,
+      "precio_base": 0.0,
+      "descuento_pct": 0,
+      "fecha": "30/04/2026",
+      "hora": "10:35",
+      "dependencia": "Miraflores",
+      "expediente": "0830061075110",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/acuimarine.png",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-04/ACUIMARINE.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/1949"
     },
     {
       "id": "remaju_padre_abad_30042026",
