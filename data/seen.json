@@ -35,11 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_razuri_17042026",
-    "remaju_chimbote_17042026",
-    "remaju_lurin_17042026",
-    "remaju_ventanilla_17042026",
-    "remaju_chaclacayo_17042026",
     "remaju_huaricolca_17042026",
     "remaju_lima_16042026",
     "remaju_santiago_de_surco_16042026",
@@ -534,7 +529,12 @@
     "remaju_trujillo_07052026",
     "remaju_ate_07052026",
     "remaju_samuel_pastor_07052026",
-    "remaju_laredo_07052026"
+    "remaju_laredo_07052026",
+    "remaju_chincha_alta_07052026",
+    "remaju_papayal_07052026",
+    "remaju_zorritos_07052026",
+    "remaju_yanaoca_07052026",
+    "remaju_chimbote_07052026"
   ],
   "pronabi": []
 }
