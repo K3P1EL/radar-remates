@@ -33,12 +33,6 @@
     "sunat_1981"
   ],
   "remaju": [
-    "remaju_san_miguel_18042026",
-    "remaju_san_sebastian_18042026",
-    "remaju_carabayllo_17042026",
-    "remaju_san_ramon_17042026",
-    "remaju_jose_leonardo_ortiz_17042026",
-    "remaju_pueblo_nuevo_17042026",
     "remaju_chanchamayo_17042026",
     "remaju_moquegua_17042026",
     "remaju_santiago_18042026",
@@ -532,7 +526,13 @@
     "remaju_san_juan_de_lurigancho_04052026",
     "remaju_villa_el_salvador_04052026",
     "remaju_lince_04052026",
-    "remaju_san_miguel_04052026"
+    "remaju_san_miguel_04052026",
+    "remaju_san_jeronimo_07052026",
+    "remaju_huancayo_07052026",
+    "remaju_independencia_07052026",
+    "remaju_san_juan_de_miraflores_07052026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_07052026",
+    "remaju_san_andres_07052026"
   ],
   "pronabi": []
 }
