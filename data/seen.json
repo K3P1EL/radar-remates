@@ -35,8 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_calleria_16042026",
-    "remaju_alto_trujillo_16042026",
     "remaju_punchana_16042026",
     "remaju_san_juan_de_lurigancho_16042026",
     "remaju_paracas_16042026",
@@ -534,7 +532,9 @@
     "remaju_chivay_08052026",
     "remaju_san_juan_bautista_08052026",
     "remaju_trujillo_08052026",
-    "remaju_sachaca_08052026"
+    "remaju_sachaca_08052026",
+    "remaju_san_sebastian_08052026",
+    "remaju_jacobo_hunter_08052026"
   ],
   "pronabi": []
 }
