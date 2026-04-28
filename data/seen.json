@@ -35,14 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_ventanilla_16042026",
-    "remaju_desaguadero_16042026",
-    "remaju_independencia_16042026",
-    "remaju_manantay_16042026",
-    "remaju_santo_tomas_16042026",
-    "remaju_san_juan_bautista_16042026",
-    "remaju_san_borja_16042026",
-    "remaju_iquitos_16042026",
     "remaju_calleria_16042026",
     "remaju_alto_trujillo_16042026",
     "remaju_punchana_16042026",
@@ -534,7 +526,15 @@
     "remaju_chimbote_07052026",
     "remaju_matapalo_07052026",
     "remaju_chepen_07052026",
-    "remaju_chanchamayo_07052026"
+    "remaju_chanchamayo_07052026",
+    "remaju_ate_08052026",
+    "remaju_villa_el_salvador_08052026",
+    "remaju_nauta_08052026",
+    "remaju_ventanilla_08052026",
+    "remaju_chivay_08052026",
+    "remaju_san_juan_bautista_08052026",
+    "remaju_trujillo_08052026",
+    "remaju_sachaca_08052026"
   ],
   "pronabi": []
 }
