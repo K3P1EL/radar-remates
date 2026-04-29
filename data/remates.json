@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-29 00:13",
-  "total": 187,
-  "nuevos": 0,
+  "last_update": "2026-04-29 04:06",
+  "total": 188,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1981",
@@ -2984,6 +2984,24 @@
       "fecha": "07/05/2026",
       "hora": "",
       "dependencia": "SAN ANDRES",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_miguel_08052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN MIGUEL",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "08/05/2026",
+      "hora": "",
+      "dependencia": "SAN MIGUEL",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
