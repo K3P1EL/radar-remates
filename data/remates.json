@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-29 18:51",
-  "total": 195,
-  "nuevos": 0,
+  "last_update": "2026-04-29 20:16",
+  "total": 196,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1981",
@@ -3272,6 +3272,24 @@
       "fecha": "08/05/2026",
       "hora": "",
       "dependencia": "SACHACA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_calleria_09052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CALLERIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "09/05/2026",
+      "hora": "",
+      "dependencia": "CALLERIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
