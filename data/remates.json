@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-29 17:07",
+  "last_update": "2026-04-29 18:51",
   "total": 195,
-  "nuevos": 3,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_1981",
@@ -1102,24 +1102,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_coronel_gregorio_albarracin_lanchipa_03052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CORONEL GREGORIO ALBARRACIN LANCHIPA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "03/05/2026",
-      "hora": "",
-      "dependencia": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_breña_03052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - BREÑA",
@@ -1166,6 +1148,24 @@
       "fecha": "03/05/2026",
       "hora": "",
       "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_coronel_gregorio_albarracin_lanchipa_03052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CORONEL GREGORIO ALBARRACIN LANCHIPA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "03/05/2026",
+      "hora": "",
+      "dependencia": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
