@@ -35,10 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_chaclacayo_16042026",
-    "remaju_sachaca_16042026",
-    "remaju_san_martin_de_porres_16042026",
-    "remaju_cerro_colorado_16042026",
     "remaju_la_victoria_16042026",
     "remaju_los_aquijes_16042026",
     "remaju_cusco_16042026",
@@ -534,7 +530,11 @@
     "remaju_lurin_08052026",
     "remaju_calleria_08052026",
     "remaju_chanchamayo_08052026",
-    "remaju_san_miguel_08052026"
+    "remaju_san_miguel_08052026",
+    "remaju_san_juan_de_lurigancho_09052026",
+    "remaju_parcona_09052026",
+    "remaju_callao_09052026",
+    "remaju_carabayllo_09052026"
   ],
   "pronabi": []
 }
