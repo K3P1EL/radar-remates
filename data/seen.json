@@ -35,9 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_calleria_10042026",
-    "remaju_trujillo_10042026",
-    "remaju_villa_maria_del_triunfo_10042026",
     "remaju_san_juan_de_lurigancho_10042026",
     "remaju_chiclayo_10042026",
     "remaju_callao_10042026",
@@ -534,7 +531,10 @@
     "remaju_iquitos_10052026",
     "remaju_perene_10052026",
     "remaju_nauta_10052026",
-    "remaju_san_ramon_10052026"
+    "remaju_san_ramon_10052026",
+    "remaju_tacna_10052026",
+    "remaju_los_olivos_10052026",
+    "remaju_tambo_grande_10052026"
   ],
   "pronabi": []
 }
