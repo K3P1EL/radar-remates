@@ -35,8 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_san_juan_de_lurigancho_10042026",
-    "remaju_chiclayo_10042026",
     "remaju_callao_10042026",
     "remaju_huancayo_10042026",
     "remaju_san_martin_de_porres_10042026",
@@ -534,7 +532,9 @@
     "remaju_san_ramon_10052026",
     "remaju_tacna_10052026",
     "remaju_los_olivos_10052026",
-    "remaju_tambo_grande_10052026"
+    "remaju_tambo_grande_10052026",
+    "remaju_chorrillos_10052026",
+    "remaju_rimac_10052026"
   ],
   "pronabi": []
 }
