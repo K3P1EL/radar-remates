@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-30 18:20",
+  "last_update": "2026-04-30 19:58",
   "total": 213,
-  "nuevos": 2,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_1981",
@@ -3532,6 +3532,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_los_olivos_10052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LOS OLIVOS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "10/05/2026",
+      "hora": "",
+      "dependencia": "LOS OLIVOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_chorrillos_10052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CHORRILLOS",
@@ -3578,24 +3596,6 @@
       "fecha": "10/05/2026",
       "hora": "",
       "dependencia": "TACNA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_los_olivos_10052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - LOS OLIVOS",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "10/05/2026",
-      "hora": "",
-      "dependencia": "LOS OLIVOS",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
