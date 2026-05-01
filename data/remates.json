@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-01 00:10",
+  "last_update": "2026-05-01 04:20",
   "total": 257,
-  "nuevos": 1,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_1981",
@@ -3496,6 +3496,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_la_victoria_10052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LA VICTORIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "10/05/2026",
+      "hora": "",
+      "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_26_de_octubre_10052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - 26 DE OCTUBRE",
@@ -3902,24 +3920,6 @@
       "fecha": "10/05/2026",
       "hora": "",
       "dependencia": "NUEVO CHIMBOTE",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_la_victoria_10052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - LA VICTORIA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "10/05/2026",
-      "hora": "",
-      "dependencia": "LA VICTORIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
