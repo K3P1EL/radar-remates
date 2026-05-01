@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-04-30 23:14",
-  "total": 256,
-  "nuevos": 15,
+  "last_update": "2026-05-01 00:10",
+  "total": 257,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1981",
@@ -3488,6 +3488,24 @@
       "fecha": "09/05/2026",
       "hora": "",
       "dependencia": "PUNCHANA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_26_de_octubre_10052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - 26 DE OCTUBRE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "10/05/2026",
+      "hora": "",
+      "dependencia": "26 DE OCTUBRE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
