@@ -35,14 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_chorrillos_17042026",
-    "remaju_wanchaq_12042026",
-    "remaju_la_molina_12042026",
-    "remaju_la_perla_12042026",
-    "remaju_chimbote_12042026",
-    "remaju_paijan_19042026",
-    "remaju_calleria_19042026",
-    "remaju_la_victoria_12042026",
     "remaju_moquegua_12042026",
     "remaju_san_juan_de_lurigancho_13042026",
     "remaju_villa_maria_del_triunfo_12042026",
@@ -534,7 +526,15 @@
     "remaju_oxapampa_10052026",
     "remaju_saposoa_10052026",
     "remaju_chontabamba_10052026",
-    "remaju_26_de_octubre_10052026"
+    "remaju_26_de_octubre_10052026",
+    "remaju_wanchaq_11052026",
+    "remaju_chimbote_11052026",
+    "remaju_callao_11052026",
+    "remaju_villa_el_salvador_11052026",
+    "remaju_monsefu_11052026",
+    "remaju_san_juan_de_lurigancho_11052026",
+    "remaju_san_isidro_11052026",
+    "remaju_lima_11052026"
   ],
   "pronabi": []
 }
