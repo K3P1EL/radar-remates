@@ -35,13 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_sullana_12042026",
-    "remaju_piura_17042026",
-    "remaju_iquitos_12042026",
-    "remaju_morales_12042026",
-    "remaju_trujillo_12042026",
-    "remaju_iquitos_11042026",
-    "remaju_morales_11042026",
     "remaju_calleria_11042026",
     "remaju_jose_leonardo_ortiz_11042026",
     "remaju_pocollay_19042026",
@@ -534,7 +527,14 @@
     "remaju_lima_11052026",
     "remaju_manantay_14052026",
     "remaju_punchana_14052026",
-    "remaju_victor_larco_herrera_14052026"
+    "remaju_victor_larco_herrera_14052026",
+    "remaju_san_jeronimo_14052026",
+    "remaju_san_juan_de_lurigancho_14052026",
+    "remaju_tarapoto_14052026",
+    "remaju_subtanjalla_14052026",
+    "remaju_chimbote_14052026",
+    "remaju_huancaya_14052026",
+    "remaju_nuevo_chimbote_14052026"
   ],
   "pronabi": []
 }
