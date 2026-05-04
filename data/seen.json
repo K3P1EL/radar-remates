@@ -35,9 +35,6 @@
     "sunat_1949"
   ],
   "remaju": [
-    "remaju_moquegua_12042026",
-    "remaju_san_juan_de_lurigancho_13042026",
-    "remaju_villa_maria_del_triunfo_12042026",
     "remaju_sullana_12042026",
     "remaju_piura_17042026",
     "remaju_iquitos_12042026",
@@ -534,7 +531,10 @@
     "remaju_monsefu_11052026",
     "remaju_san_juan_de_lurigancho_11052026",
     "remaju_san_isidro_11052026",
-    "remaju_lima_11052026"
+    "remaju_lima_11052026",
+    "remaju_manantay_14052026",
+    "remaju_punchana_14052026",
+    "remaju_victor_larco_herrera_14052026"
   ],
   "pronabi": []
 }
