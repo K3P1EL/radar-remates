@@ -32,11 +32,12 @@
     "sunat_1982",
     "sunat_1981",
     "sunat_1980",
-    "sunat_1949"
+    "sunat_1949",
+    "sunat_1715",
+    "sunat_965",
+    "sunat_964"
   ],
   "remaju": [
-    "remaju_santiago_09042026",
-    "remaju_los_baños_del_inca_12042026",
     "remaju_los_aquijes_12042026",
     "remaju_santiago_12042026",
     "remaju_pimentel_12042026",
@@ -534,7 +535,9 @@
     "remaju_alto_selva_alegre_14052026",
     "remaju_la_esperanza_14052026",
     "remaju_trujillo_14052026",
-    "remaju_huanchaco_14052026"
+    "remaju_huanchaco_14052026",
+    "remaju_samanco_14052026",
+    "remaju_piura_14052026"
   ],
   "pronabi": []
 }
