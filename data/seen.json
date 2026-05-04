@@ -38,8 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_santiago_12042026",
-    "remaju_pimentel_12042026",
     "remaju_mochumi_12042026",
     "remaju_pacanga_12042026",
     "remaju_san_juan_de_miraflores_12042026",
@@ -537,7 +535,9 @@
     "remaju_huanchaco_14052026",
     "remaju_samanco_14052026",
     "remaju_piura_14052026",
-    "remaju_saylla_14052026"
+    "remaju_saylla_14052026",
+    "remaju_chicama_14052026",
+    "remaju_huanuco_14052026"
   ],
   "pronabi": []
 }
