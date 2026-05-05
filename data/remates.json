@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-05 20:47",
-  "total": 150,
-  "nuevos": 0,
+  "last_update": "2026-05-05 22:07",
+  "total": 152,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_1715",
@@ -2542,6 +2542,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_jaen_15052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - JAEN",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/05/2026",
+      "hora": "",
+      "dependencia": "JAEN",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_parcona_15052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - PARCONA",
@@ -2696,6 +2714,24 @@
       "fecha": "15/05/2026",
       "hora": "",
       "dependencia": "VENTANILLA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_villa_el_salvador_15052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - VILLA EL SALVADOR",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/05/2026",
+      "hora": "",
+      "dependencia": "VILLA EL SALVADOR",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
