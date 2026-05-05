@@ -38,9 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_surquillo_10042026",
-    "remaju_san_juan_de_lurigancho_12042026",
-    "remaju_san_miguel_16042026",
     "remaju_lince_18042026",
     "remaju_chorrillos_09042026",
     "remaju_juanjui_12042026",
@@ -537,7 +534,10 @@
     "remaju_barranco_21052026",
     "remaju_ventanilla_21052026",
     "remaju_carabayllo_21052026",
-    "remaju_san_juan_bautista_15052026"
+    "remaju_san_juan_bautista_15052026",
+    "remaju_san_juan_de_lurigancho_15052026",
+    "remaju_san_sebastian_15052026",
+    "remaju_el_agustino_15052026"
   ],
   "pronabi": []
 }
