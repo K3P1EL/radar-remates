@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-04 23:39",
-  "total": 172,
-  "nuevos": 2,
+  "last_update": "2026-05-05 01:21",
+  "total": 173,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1715",
@@ -2678,6 +2678,24 @@
       "fecha": "11/05/2026",
       "hora": "",
       "dependencia": "LIMA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_paijan_14052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PAIJAN",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "14/05/2026",
+      "hora": "",
+      "dependencia": "PAIJAN",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
