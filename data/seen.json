@@ -38,12 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_pacanga_12042026",
-    "remaju_san_juan_de_miraflores_12042026",
-    "remaju_mañazo_12042026",
-    "remaju_carabayllo_13042026",
-    "remaju_asia_12042026",
-    "remaju_san_hilarion_12042026",
     "remaju_breña_16042026",
     "remaju_surquillo_10042026",
     "remaju_san_juan_de_lurigancho_12042026",
@@ -537,7 +531,13 @@
     "remaju_saylla_14052026",
     "remaju_chicama_14052026",
     "remaju_huanuco_14052026",
-    "remaju_paijan_14052026"
+    "remaju_paijan_14052026",
+    "remaju_barranco_15052026",
+    "remaju_ventanilla_15052026",
+    "remaju_carabayllo_15052026",
+    "remaju_barranco_21052026",
+    "remaju_ventanilla_21052026",
+    "remaju_carabayllo_21052026"
   ],
   "pronabi": []
 }
