@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-05-06 06:47",
-  "total": 157,
+  "last_update": "2026-05-06 09:30",
+  "total": 158,
   "nuevos": 1,
   "remates": [
     {
@@ -2822,6 +2822,24 @@
       "fecha": "15/05/2026",
       "hora": "",
       "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_martin_de_porres_21052026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 23309 - PRIMERA CONVOCATORIA - SAN MARTIN DE PORRES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "21/05/2026",
+      "hora": "",
+      "dependencia": "SAN MARTIN DE PORRES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
