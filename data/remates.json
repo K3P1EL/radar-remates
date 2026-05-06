@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-06 00:08",
-  "total": 155,
-  "nuevos": 2,
+  "last_update": "2026-05-06 04:13",
+  "total": 156,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1715",
@@ -2786,6 +2786,24 @@
       "fecha": "15/05/2026",
       "hora": "",
       "dependencia": "VILLA EL SALVADOR",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_la_victoria_15052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LA VICTORIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/05/2026",
+      "hora": "",
+      "dependencia": "LA VICTORIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
