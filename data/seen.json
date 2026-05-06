@@ -38,12 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_ate_19042026",
-    "remaju_ica_19042026",
-    "remaju_lambayeque_19042026",
-    "remaju_breña_19042026",
-    "remaju_tipan_19042026",
-    "remaju_tucume_19042026",
     "remaju_chorrillos_19042026",
     "remaju_nuevo_chimbote_19042026",
     "remaju_san_martin_de_porres_19042026",
@@ -537,7 +531,13 @@
     "remaju_pichanaqui_15052026",
     "remaju_la_victoria_15052026",
     "remaju_san_martin_de_porres_15052026",
-    "remaju_san_martin_de_porres_21052026"
+    "remaju_san_martin_de_porres_21052026",
+    "remaju_chilca_16052026",
+    "remaju_barranquita_16052026",
+    "remaju_san_juan_bautista_16052026",
+    "remaju_nauta_16052026",
+    "remaju_paucarpata_16052026",
+    "remaju_san_juan_de_miraflores_16052026"
   ],
   "pronabi": []
 }
