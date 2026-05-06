@@ -38,11 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_satipo_19042026",
-    "remaju_sullana_19042026",
-    "remaju_jose_leonardo_ortiz_19042026",
-    "remaju_san_juan_bautista_19042026",
-    "remaju_san_sebastian_19042026",
     "remaju_paucarpata_19042026",
     "remaju_iquitos_19042026",
     "remaju_wanchaq_19042026",
@@ -537,7 +532,12 @@
     "remaju_callao_21052026",
     "remaju_santiago_de_surco_21052026",
     "remaju_jacobo_hunter_21052026",
-    "remaju_cieneguilla_21052026"
+    "remaju_cieneguilla_21052026",
+    "remaju_cusco_16052026",
+    "remaju_jesus_maria_16052026",
+    "remaju_salaverry_16052026",
+    "remaju_cusco_21052026",
+    "remaju_jesus_maria_21052026"
   ],
   "pronabi": []
 }
