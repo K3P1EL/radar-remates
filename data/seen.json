@@ -38,9 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_chorrillos_19042026",
-    "remaju_nuevo_chimbote_19042026",
-    "remaju_san_martin_de_porres_19042026",
     "remaju_la_molina_19042026",
     "remaju_el_tambo_19042026",
     "remaju_sunampe_19042026",
@@ -537,7 +534,10 @@
     "remaju_san_juan_bautista_16052026",
     "remaju_nauta_16052026",
     "remaju_paucarpata_16052026",
-    "remaju_san_juan_de_miraflores_16052026"
+    "remaju_san_juan_de_miraflores_16052026",
+    "remaju_jacobo_hunter_16052026",
+    "remaju_cieneguilla_16052026",
+    "remaju_cajamarca_16052026"
   ],
   "pronabi": []
 }
