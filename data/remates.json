@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-05-05 23:14",
-  "total": 154,
+  "last_update": "2026-05-06 00:08",
+  "total": 155,
   "nuevos": 2,
   "remates": [
     {
@@ -2542,6 +2542,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_ica_15052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ICA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/05/2026",
+      "hora": "",
+      "dependencia": "ICA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_puente_piedra_15052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - PUENTE PIEDRA",
@@ -2614,16 +2632,16 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_satipo_15052026",
+      "id": "remaju_pichanaqui_15052026",
       "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SATIPO",
+      "titulo": "REMATE SIMPLE - PICHANAQUI",
       "categoria": "inmuebles",
       "precio_tasacion": 0,
       "precio_base": 0,
       "descuento_pct": 0,
       "fecha": "15/05/2026",
       "hora": "",
-      "dependencia": "SATIPO",
+      "dependencia": "PICHANAQUI",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
