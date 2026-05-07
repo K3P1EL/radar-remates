@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-06 23:08",
-  "total": 171,
-  "nuevos": 0,
+  "last_update": "2026-05-07 00:08",
+  "total": 172,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_1715",
@@ -2768,6 +2768,24 @@
       "fecha": "15/05/2026",
       "hora": "",
       "dependencia": "VILLA EL SALVADOR",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_ica_16052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ICA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "16/05/2026",
+      "hora": "",
+      "dependencia": "ICA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
