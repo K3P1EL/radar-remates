@@ -38,11 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_nauta_19042026",
-    "remaju_paramonga_19042026",
-    "remaju_independencia_19042026",
-    "remaju_tumbaden_19042026",
-    "remaju_jesus_maria_19042026",
     "remaju_lince_19042026",
     "remaju_huamachuco_19042026",
     "remaju_mariano_melgar_20042026",
@@ -537,7 +532,12 @@
     "remaju_san_jeronimo_17052026",
     "remaju_cerro_colorado_17052026",
     "remaju_wanchaq_17052026",
-    "remaju_paracas_17052026"
+    "remaju_paracas_17052026",
+    "remaju_ciudad_nueva_17052026",
+    "remaju_san_juan_bautista_17052026",
+    "remaju_san_isidro_17052026",
+    "remaju_chaclacayo_17052026",
+    "remaju_la_victoria_17052026"
   ],
   "pronabi": []
 }
