@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-07 19:02",
-  "total": 182,
-  "nuevos": 2,
+  "last_update": "2026-05-07 20:41",
+  "total": 181,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_1715",
@@ -572,24 +572,6 @@
       "fecha": "08/05/2026",
       "hora": "",
       "dependencia": "VENTANILLA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_chivay_08052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CHIVAY",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "08/05/2026",
-      "hora": "",
-      "dependencia": "CHIVAY",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
