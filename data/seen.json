@@ -38,8 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_lince_19042026",
-    "remaju_huamachuco_19042026",
     "remaju_mariano_melgar_20042026",
     "remaju_chiclayo_20042026",
     "remaju_tarapoto_20042026",
@@ -537,7 +535,9 @@
     "remaju_san_juan_bautista_17052026",
     "remaju_san_isidro_17052026",
     "remaju_chaclacayo_17052026",
-    "remaju_la_victoria_17052026"
+    "remaju_la_victoria_17052026",
+    "remaju_trujillo_17052026",
+    "remaju_iquitos_17052026"
   ],
   "pronabi": []
 }
