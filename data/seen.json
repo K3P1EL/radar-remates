@@ -38,10 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_chiclayo_19042026",
-    "remaju_mi_peru_19042026",
-    "remaju_la_perla_19042026",
-    "remaju_huaral_19042026",
     "remaju_nauta_19042026",
     "remaju_paramonga_19042026",
     "remaju_independencia_19042026",
@@ -537,7 +533,11 @@
     "remaju_chiclayo_16052026",
     "remaju_san_borja_16052026",
     "remaju_camana_16052026",
-    "remaju_ica_16052026"
+    "remaju_ica_16052026",
+    "remaju_san_jeronimo_17052026",
+    "remaju_cerro_colorado_17052026",
+    "remaju_wanchaq_17052026",
+    "remaju_paracas_17052026"
   ],
   "pronabi": []
 }
