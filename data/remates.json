@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-05-08 17:56",
-  "total": 225,
+  "last_update": "2026-05-08 19:40",
+  "total": 226,
   "nuevos": 1,
   "remates": [
     {
@@ -3884,6 +3884,24 @@
       "fecha": "17/05/2026",
       "hora": "",
       "dependencia": "LA MOLINA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_ica_18052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ICA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "18/05/2026",
+      "hora": "",
+      "dependencia": "ICA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
