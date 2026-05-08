@@ -38,8 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_san_juan_de_miraflores_25042026",
-    "remaju_ica_25042026",
     "remaju_subtanjalla_25042026",
     "remaju_san_martin_de_porres_25042026",
     "remaju_campanilla_25042026",
@@ -537,7 +535,9 @@
     "remaju_ventanilla_18052026",
     "remaju_junin_18052026",
     "remaju_pisco_18052026",
-    "remaju_independencia_18052026"
+    "remaju_independencia_18052026",
+    "remaju_trujillo_18052026",
+    "remaju_viru_18052026"
   ],
   "pronabi": []
 }

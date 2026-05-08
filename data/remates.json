@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-08 22:41",
-  "total": 236,
-  "nuevos": 0,
+  "last_update": "2026-05-08 23:41",
+  "total": 238,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_1715",
@@ -3874,6 +3874,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_trujillo_18052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TRUJILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "18/05/2026",
+      "hora": "",
+      "dependencia": "TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_yarinacocha_18052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - YARINACOCHA",
@@ -4226,6 +4244,24 @@
       "fecha": "18/05/2026",
       "hora": "",
       "dependencia": "INDEPENDENCIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_viru_18052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - VIRU",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "18/05/2026",
+      "hora": "",
+      "dependencia": "VIRU",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
