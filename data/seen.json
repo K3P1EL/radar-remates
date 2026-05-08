@@ -38,9 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_lima_24042026",
-    "remaju_san_juan_de_lurigancho_24042026",
-    "remaju_chiclayo_24042026",
     "remaju_tambopata_24042026",
     "remaju_wanchaq_24042026",
     "remaju_la_tinguiña_24042026",
@@ -537,7 +534,10 @@
     "remaju_cusco_17052026",
     "remaju_bellavista_17052026",
     "remaju_pueblo_libre_17052026",
-    "remaju_la_molina_17052026"
+    "remaju_la_molina_17052026",
+    "remaju_ate_21052026",
+    "remaju_chimbote_21052026",
+    "remaju_calleria_21052026"
   ],
   "pronabi": []
 }
