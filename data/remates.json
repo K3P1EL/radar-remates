@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-08 21:44",
-  "total": 237,
-  "nuevos": 10,
+  "last_update": "2026-05-08 22:41",
+  "total": 236,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_1715",
@@ -1058,24 +1058,6 @@
       "fecha": "10/05/2026",
       "hora": "",
       "dependencia": "TRUJILLO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_subtanjalla_10052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SUBTANJALLA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "10/05/2026",
-      "hora": "",
-      "dependencia": "SUBTANJALLA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
