@@ -38,13 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_salas_25042026",
-    "remaju_tiabaya_25042026",
-    "remaju_comas_25042026",
-    "remaju_amarilis_25042026",
-    "remaju_puente_piedra_25042026",
-    "remaju_yura_25042026",
-    "remaju_jose_crespo_y_castillo_25042026",
     "remaju_san_juan_de_lurigancho_25042026",
     "remaju_villa_maria_del_triunfo_25042026",
     "remaju_perene_25042026",
@@ -537,7 +530,14 @@
     "remaju_bellavista_22052026",
     "remaju_lima_22052026",
     "remaju_la_victoria_22052026",
-    "remaju_arequipa_22052026"
+    "remaju_arequipa_22052026",
+    "remaju_cayma_18052026",
+    "remaju_el_agustino_18052026",
+    "remaju_iquitos_18052026",
+    "remaju_coishco_18052026",
+    "remaju_cayma_22052026",
+    "remaju_el_agustino_22052026",
+    "remaju_iquitos_22052026"
   ],
   "pronabi": []
 }
