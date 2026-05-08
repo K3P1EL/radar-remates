@@ -38,17 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_villa_el_salvador_24042026",
-    "remaju_jayanca_24042026",
-    "remaju_el_porvenir_24042026",
-    "remaju_castilla_24042026",
-    "remaju_cusco_24042026",
-    "remaju_trujillo_24042026",
-    "remaju_aplao_24042026",
-    "remaju_perene_24042026",
-    "remaju_pichanaqui_24042026",
-    "remaju_satipo_24042026",
-    "remaju_santiago_de_surco_24042026",
     "remaju_lima_24042026",
     "remaju_san_juan_de_lurigancho_24042026",
     "remaju_chiclayo_24042026",
@@ -537,7 +526,18 @@
     "remaju_jose_leonardo_ortiz_17052026",
     "remaju_chanchamayo_17052026",
     "remaju_razuri_17052026",
-    "remaju_lurin_17052026"
+    "remaju_lurin_17052026",
+    "remaju_ate_17052026",
+    "remaju_ventanilla_17052026",
+    "remaju_independencia_17052026",
+    "remaju_santo_tomas_17052026",
+    "remaju_san_borja_17052026",
+    "remaju_punchana_17052026",
+    "remaju_los_aquijes_17052026",
+    "remaju_cusco_17052026",
+    "remaju_bellavista_17052026",
+    "remaju_pueblo_libre_17052026",
+    "remaju_la_molina_17052026"
   ],
   "pronabi": []
 }
