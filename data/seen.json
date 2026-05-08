@@ -38,16 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_bellavista_25042026",
-    "remaju_levanto_25042026",
-    "remaju_yarinacocha_25042026",
-    "remaju_chimbote_25042026",
-    "remaju_aguas_verdes_25042026",
-    "remaju_el_porvenir_25042026",
-    "remaju_santiago_de_surco_25042026",
-    "remaju_el_tambo_25042026",
-    "remaju_oxapampa_25042026",
-    "remaju_morales_25042026",
     "remaju_san_juan_de_miraflores_25042026",
     "remaju_ica_25042026",
     "remaju_subtanjalla_25042026",
@@ -537,7 +527,17 @@
     "remaju_iquitos_22052026",
     "remaju_jose_leonardo_ortiz_18052026",
     "remaju_ica_18052026",
-    "remaju_yarinacocha_18052026"
+    "remaju_yarinacocha_18052026",
+    "remaju_amarilis_18052026",
+    "remaju_tarapoto_18052026",
+    "remaju_santa_anita_18052026",
+    "remaju_comas_18052026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_18052026",
+    "remaju_la_perla_18052026",
+    "remaju_ventanilla_18052026",
+    "remaju_junin_18052026",
+    "remaju_pisco_18052026",
+    "remaju_independencia_18052026"
   ],
   "pronabi": []
 }
