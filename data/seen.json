@@ -38,8 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_villa_maria_del_triunfo_26042026",
-    "remaju_san_martin_de_porres_26042026",
     "remaju_chimbote_26042026",
     "remaju_surquillo_26042026",
     "remaju_la_victoria_26042026",
@@ -537,7 +535,9 @@
     "remaju_capacmarca_21052026",
     "remaju_chiclayo_27052026",
     "remaju_cusco_27052026",
-    "remaju_capacmarca_27052026"
+    "remaju_capacmarca_27052026",
+    "remaju_barranca_21052026",
+    "remaju_junin_21052026"
   ],
   "pronabi": []
 }
