@@ -38,11 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_san_juan_de_lurigancho_26042026",
-    "remaju_carabayllo_26042026",
-    "remaju_ate_26042026",
-    "remaju_miraflores_26042026",
-    "remaju_calleria_26042026",
     "remaju_villa_maria_del_triunfo_26042026",
     "remaju_san_martin_de_porres_26042026",
     "remaju_chimbote_26042026",
@@ -537,7 +532,12 @@
     "remaju_ica_21052026",
     "remaju_eten_27052026",
     "remaju_moquegua_27052026",
-    "remaju_ica_27052026"
+    "remaju_ica_27052026",
+    "remaju_chiclayo_21052026",
+    "remaju_capacmarca_21052026",
+    "remaju_chiclayo_27052026",
+    "remaju_cusco_27052026",
+    "remaju_capacmarca_27052026"
   ],
   "pronabi": []
 }
