@@ -38,12 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_perene_26042026",
-    "remaju_chiguata_26042026",
-    "remaju_coporaque_26042026",
-    "remaju_san_isidro_26042026",
-    "remaju_monsefu_26042026",
-    "remaju_trujillo_26042026",
     "remaju_san_juan_de_lurigancho_26042026",
     "remaju_carabayllo_26042026",
     "remaju_ate_26042026",
@@ -537,7 +531,13 @@
     "remaju_punchana_21052026",
     "remaju_la_victoria_21052026",
     "remaju_ventanilla_27052026",
-    "remaju_villa_maria_del_triunfo_27052026"
+    "remaju_villa_maria_del_triunfo_27052026",
+    "remaju_eten_21052026",
+    "remaju_moquegua_21052026",
+    "remaju_ica_21052026",
+    "remaju_eten_27052026",
+    "remaju_moquegua_27052026",
+    "remaju_ica_27052026"
   ],
   "pronabi": []
 }
