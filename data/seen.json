@@ -38,10 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_villa_el_salvador_27042026",
-    "remaju_copallin_27042026",
-    "remaju_villa_maria_del_triunfo_27042026",
-    "remaju_bagua_27042026",
     "remaju_san_juan_de_miraflores_27042026",
     "remaju_chimbote_27042026",
     "remaju_callao_27042026",
@@ -537,7 +533,11 @@
     "remaju_jose_leonardo_ortiz_22052026",
     "remaju_calleria_22052026",
     "remaju_san_jeronimo_28052026",
-    "remaju_barranca_28052026"
+    "remaju_barranca_28052026",
+    "remaju_wanchaq_22052026",
+    "remaju_carabayllo_22052026",
+    "remaju_ica_22052026",
+    "remaju_jaen_22052026"
   ],
   "pronabi": []
 }
