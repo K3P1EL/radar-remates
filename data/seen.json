@@ -38,12 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_iquitos_26042026",
-    "remaju_morales_26042026",
-    "remaju_manantay_26042026",
-    "remaju_juanjui_26042026",
-    "remaju_nuevo_chimbote_26042026",
-    "remaju_lima_26042026",
     "remaju_monsefu_27042026",
     "remaju_la_molina_27042026",
     "remaju_lima_27042026",
@@ -537,7 +531,13 @@
     "remaju_chiclayo_22052026",
     "remaju_tarma_22052026",
     "remaju_chicama_22052026",
-    "remaju_chimbote_22052026"
+    "remaju_chimbote_22052026",
+    "remaju_el_tambo_22052026",
+    "remaju_santiago_22052026",
+    "remaju_el_tambo_28052026",
+    "remaju_callao_28052026",
+    "remaju_ventanilla_28052026",
+    "remaju_chiclayo_28052026"
   ],
   "pronabi": []
 }
