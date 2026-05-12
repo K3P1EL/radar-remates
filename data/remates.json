@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-05-12 00:14",
-  "total": 177,
+  "last_update": "2026-05-12 04:11",
+  "total": 178,
   "nuevos": 0,
   "remates": [
     {
@@ -2768,6 +2768,24 @@
       "fecha": "18/05/2026",
       "hora": "",
       "dependencia": "COISHCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_calleria_21052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CALLERIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "21/05/2026",
+      "hora": "",
+      "dependencia": "CALLERIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
