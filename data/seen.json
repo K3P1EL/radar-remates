@@ -38,12 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_san_juan_de_miraflores_27042026",
-    "remaju_chimbote_27042026",
-    "remaju_callao_27042026",
-    "remaju_san_miguel_27042026",
-    "remaju_wanchaq_27042026",
-    "remaju_san_isidro_27042026",
     "remaju_surquillo_30042026",
     "remaju_comas_30042026",
     "remaju_copallin_30042026",
@@ -537,7 +531,13 @@
     "remaju_wanchaq_22052026",
     "remaju_carabayllo_22052026",
     "remaju_ica_22052026",
-    "remaju_jaen_22052026"
+    "remaju_jaen_22052026",
+    "remaju_ilave_22052026",
+    "remaju_miraflores_22052026",
+    "remaju_yura_22052026",
+    "remaju_ilave_28052026",
+    "remaju_miraflores_28052026",
+    "remaju_yura_28052026"
   ],
   "pronabi": []
 }
