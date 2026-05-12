@@ -38,13 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_monsefu_27042026",
-    "remaju_la_molina_27042026",
-    "remaju_lima_27042026",
-    "remaju_comas_27042026",
-    "remaju_san_juan_de_lurigancho_27042026",
-    "remaju_san_sebastian_27042026",
-    "remaju_pocollay_27042026",
     "remaju_villa_el_salvador_27042026",
     "remaju_copallin_27042026",
     "remaju_villa_maria_del_triunfo_27042026",
@@ -537,7 +530,14 @@
     "remaju_el_tambo_28052026",
     "remaju_callao_28052026",
     "remaju_ventanilla_28052026",
-    "remaju_chiclayo_28052026"
+    "remaju_chiclayo_28052026",
+    "remaju_san_jeronimo_22052026",
+    "remaju_barranca_22052026",
+    "remaju_san_martin_de_porres_22052026",
+    "remaju_jose_leonardo_ortiz_22052026",
+    "remaju_calleria_22052026",
+    "remaju_san_jeronimo_28052026",
+    "remaju_barranca_28052026"
   ],
   "pronabi": []
 }
