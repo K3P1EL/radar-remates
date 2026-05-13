@@ -38,10 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_santa_anita_30042026",
-    "remaju_padre_abad_30042026",
-    "remaju_tarma_01052026",
-    "remaju_jesus_maria_01052026",
     "remaju_san_bartolo_01052026",
     "remaju_iquitos_01052026",
     "remaju_yura_01052026",
@@ -537,7 +533,11 @@
     "remaju_yura_28052026",
     "remaju_trujillo_22052026",
     "remaju_huambo_22052026",
-    "remaju_la_esperanza_22052026"
+    "remaju_la_esperanza_22052026",
+    "remaju_lince_23052026",
+    "remaju_camana_23052026",
+    "remaju_rupa-rupa_23052026",
+    "remaju_pucusana_23052026"
   ],
   "pronabi": []
 }
