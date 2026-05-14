@@ -38,9 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_bellavista_02052026",
-    "remaju_comas_02052026",
-    "remaju_san_ramon_02052026",
     "remaju_san_antonio_02052026",
     "remaju_miraflores_03052026",
     "remaju_uraca_03052026",
@@ -537,7 +534,10 @@
     "remaju_pichanaqui_24052026",
     "remaju_mariano_melgar_24052026",
     "remaju_tacna_24052026",
-    "remaju_chilca_24052026"
+    "remaju_chilca_24052026",
+    "remaju_pichanaqui_28052026",
+    "remaju_mariano_melgar_28052026",
+    "remaju_san_juan_bautista_28052026"
   ],
   "pronabi": []
 }
