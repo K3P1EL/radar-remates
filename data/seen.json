@@ -38,10 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_cerro_colorado_02052026",
-    "remaju_la_victoria_02052026",
-    "remaju_los_aquijes_02052026",
-    "remaju_cusco_02052026",
     "remaju_bellavista_02052026",
     "remaju_comas_02052026",
     "remaju_san_ramon_02052026",
@@ -537,7 +533,11 @@
     "remaju_lince_28052026",
     "remaju_san_jeronimo_24052026",
     "remaju_jose_leonardo_ortiz_24052026",
-    "remaju_san_juan_bautista_24052026"
+    "remaju_san_juan_bautista_24052026",
+    "remaju_pichanaqui_24052026",
+    "remaju_mariano_melgar_24052026",
+    "remaju_tacna_24052026",
+    "remaju_chilca_24052026"
   ],
   "pronabi": []
 }
