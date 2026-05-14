@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-13 23:12",
-  "total": 221,
-  "nuevos": 10,
+  "last_update": "2026-05-14 00:18",
+  "total": 222,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_paijan_14052026",
@@ -3650,6 +3650,24 @@
       "fecha": "23/05/2026",
       "hora": "",
       "dependencia": "PUCUSANA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_miraflores_23052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MIRAFLORES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "23/05/2026",
+      "hora": "",
+      "dependencia": "MIRAFLORES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
