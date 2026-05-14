@@ -38,12 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_calleria_02052026",
-    "remaju_imperial_02052026",
-    "remaju_santiago_de_surco_02052026",
-    "remaju_independencia_02052026",
-    "remaju_santo_tomas_02052026",
-    "remaju_san_juan_bautista_02052026",
     "remaju_san_borja_02052026",
     "remaju_iquitos_02052026",
     "remaju_punchana_02052026",
@@ -537,7 +531,13 @@
     "remaju_nuevo_chimbote_28052026",
     "remaju_padre_abad_28052026",
     "remaju_pucyura_28052026",
-    "remaju_miraflores_23052026"
+    "remaju_miraflores_23052026",
+    "remaju_la_molina_23052026",
+    "remaju_callao_23052026",
+    "remaju_jacobo_hunter_23052026",
+    "remaju_la_molina_28052026",
+    "remaju_lima_28052026",
+    "remaju_lince_28052026"
   ],
   "pronabi": []
 }
