@@ -38,9 +38,6 @@
     "sunat_964"
   ],
   "remaju": [
-    "remaju_san_borja_02052026",
-    "remaju_iquitos_02052026",
-    "remaju_punchana_02052026",
     "remaju_cerro_colorado_02052026",
     "remaju_la_victoria_02052026",
     "remaju_los_aquijes_02052026",
@@ -537,7 +534,10 @@
     "remaju_jacobo_hunter_23052026",
     "remaju_la_molina_28052026",
     "remaju_lima_28052026",
-    "remaju_lince_28052026"
+    "remaju_lince_28052026",
+    "remaju_san_jeronimo_24052026",
+    "remaju_jose_leonardo_ortiz_24052026",
+    "remaju_san_juan_bautista_24052026"
   ],
   "pronabi": []
 }
