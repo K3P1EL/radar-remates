@@ -41,10 +41,6 @@
     "sunat_1867"
   ],
   "remaju": [
-    "remaju_yurimaguas_03052026",
-    "remaju_ate_03052026",
-    "remaju_ica_03052026",
-    "remaju_lambayeque_03052026",
     "remaju_tipan_03052026",
     "remaju_tucume_03052026",
     "remaju_la_molina_03052026",
@@ -540,7 +536,11 @@
     "remaju_casitas_28052026",
     "remaju_zorritos_28052026",
     "remaju_coronel_gregorio_albarracin_lanchipa_28052026",
-    "remaju_la_molina_24052026"
+    "remaju_la_molina_24052026",
+    "remaju_corrales_25052026",
+    "remaju_san_juan_de_lurigancho_25052026",
+    "remaju_tacna_25052026",
+    "remaju_santiago_de_surco_25052026"
   ],
   "pronabi": []
 }
