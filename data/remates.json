@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-15 22:39",
-  "total": 263,
-  "nuevos": 2,
+  "last_update": "2026-05-15 23:40",
+  "total": 264,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_san_martin_de_porres_15052026",
@@ -4388,6 +4388,24 @@
       "fecha": "24/05/2026",
       "hora": "",
       "dependencia": "ALTO TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_jesus_maria_25052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - JESUS MARIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/05/2026",
+      "hora": "",
+      "dependencia": "JESUS MARIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
