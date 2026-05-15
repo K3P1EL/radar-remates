@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-15 17:02",
-  "total": 259,
-  "nuevos": 3,
+  "last_update": "2026-05-15 18:57",
+  "total": 260,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_san_martin_de_porres_15052026",
@@ -4388,6 +4388,24 @@
       "fecha": "24/05/2026",
       "hora": "",
       "dependencia": "ALTO TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_viru_25052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - VIRU",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/05/2026",
+      "hora": "",
+      "dependencia": "VIRU",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
