@@ -35,21 +35,12 @@
     "sunat_1949",
     "sunat_1715",
     "sunat_965",
-    "sunat_964"
+    "sunat_964",
+    "sunat_1869",
+    "sunat_1868",
+    "sunat_1867"
   ],
   "remaju": [
-    "remaju_arequipa_03052026",
-    "remaju_parco_03052026",
-    "remaju_san_sebastian_03052026",
-    "remaju_carabayllo_03052026",
-    "remaju_chanchamayo_03052026",
-    "remaju_moquegua_03052026",
-    "remaju_guadalupe_03052026",
-    "remaju_razuri_03052026",
-    "remaju_lurin_03052026",
-    "remaju_ventanilla_03052026",
-    "remaju_huaricolca_03052026",
-    "remaju_trujillo_03052026",
     "remaju_san_miguel_03052026",
     "remaju_yurimaguas_03052026",
     "remaju_ate_03052026",
@@ -537,7 +528,19 @@
     "remaju_wanchaq_24052026",
     "remaju_yurimaguas_24052026",
     "remaju_santiago_de_surco_24052026",
-    "remaju_jose_crespo_y_castillo_24052026"
+    "remaju_jose_crespo_y_castillo_24052026",
+    "remaju_villa_maria_del_triunfo_24052026",
+    "remaju_comas_24052026",
+    "remaju_lima_24052026",
+    "remaju_perene_24052026",
+    "remaju_castilla_24052026",
+    "remaju_aplao_24052026",
+    "remaju_irazola_24052026",
+    "remaju_cusco_24052026",
+    "remaju_alto_trujillo_24052026",
+    "remaju_casitas_28052026",
+    "remaju_zorritos_28052026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_28052026"
   ],
   "pronabi": []
 }
