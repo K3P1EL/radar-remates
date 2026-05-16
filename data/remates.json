@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-16 01:26",
-  "total": 264,
-  "nuevos": 0,
+  "last_update": "2026-05-16 04:58",
+  "total": 265,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_san_martin_de_porres_15052026",
@@ -4388,6 +4388,24 @@
       "fecha": "24/05/2026",
       "hora": "",
       "dependencia": "ALTO TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_jose_de_los_molinos_25052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN JOSE DE LOS MOLINOS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/05/2026",
+      "hora": "",
+      "dependencia": "SAN JOSE DE LOS MOLINOS",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
