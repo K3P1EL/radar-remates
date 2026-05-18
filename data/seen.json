@@ -41,9 +41,6 @@
     "sunat_1867"
   ],
   "remaju": [
-    "remaju_independencia_03052026",
-    "remaju_iquitos_03052026",
-    "remaju_belen_03052026",
     "remaju_nauta_03052026",
     "remaju_piura_03052026",
     "remaju_dean_valdivia_04052026",
@@ -540,7 +537,10 @@
     "remaju_tarma_25052026",
     "remaju_junin_25052026",
     "remaju_jesus_maria_25052026",
-    "remaju_san_jose_de_los_molinos_25052026"
+    "remaju_san_jose_de_los_molinos_25052026",
+    "remaju_san_juan_de_lurigancho_28052026",
+    "remaju_pueblo_libre_28052026",
+    "remaju_san_jeronimo_03062026"
   ],
   "pronabi": []
 }
