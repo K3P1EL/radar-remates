@@ -41,13 +41,11 @@
     "sunat_1867",
     "sunat_2074",
     "sunat_2070",
-    "sunat_2062"
+    "sunat_2062",
+    "sunat_2077",
+    "sunat_2075"
   ],
   "remaju": [
-    "remaju_independencia_04052026",
-    "remaju_pocollay_04052026",
-    "remaju_parcona_04052026",
-    "remaju_sunampe_04052026",
     "remaju_calleria_04052026",
     "remaju_ascope_04052026",
     "remaju_lima_04052026",
@@ -543,7 +541,11 @@
     "remaju_rimac_29052026",
     "remaju_santiago_de_surco_29052026",
     "remaju_lima_29052026",
-    "remaju_huasahuasi_29052026"
+    "remaju_huasahuasi_29052026",
+    "remaju_independencia_29052026",
+    "remaju_santiago_de_surco_04062026",
+    "remaju_independencia_04062026",
+    "remaju_lima_04062026"
   ],
   "pronabi": []
 }
