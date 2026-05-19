@@ -46,9 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_calleria_04052026",
-    "remaju_ascope_04052026",
-    "remaju_lima_04052026",
     "remaju_manantay_04052026",
     "remaju_el_agustino_04052026",
     "remaju_cerro_colorado_04052026",
@@ -545,7 +542,10 @@
     "remaju_independencia_29052026",
     "remaju_santiago_de_surco_04062026",
     "remaju_independencia_04062026",
-    "remaju_lima_04062026"
+    "remaju_lima_04062026",
+    "remaju_chiclayo_29052026",
+    "remaju_yura_29052026",
+    "remaju_chiclayo_04062026"
   ],
   "pronabi": []
 }
