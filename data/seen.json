@@ -41,9 +41,6 @@
     "sunat_1867"
   ],
   "remaju": [
-    "remaju_comas_04052026",
-    "remaju_los_olivos_04052026",
-    "remaju_trujillo_04052026",
     "remaju_amarilis_04052026",
     "remaju_viru_04052026",
     "remaju_pisco_04052026",
@@ -540,7 +537,10 @@
     "remaju_simon_bolivar_03062026",
     "remaju_carhuamayo_03062026",
     "remaju_chorrillos_03062026",
-    "remaju_san_miguel_03062026"
+    "remaju_san_miguel_03062026",
+    "remaju_los_olivos_29052026",
+    "remaju_asia_29052026",
+    "remaju_rimac_29052026"
   ],
   "pronabi": []
 }
