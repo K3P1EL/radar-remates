@@ -46,8 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_coronel_gregorio_albarracin_lanchipa_07052026",
-    "remaju_san_andres_07052026",
     "remaju_nuevo_chimbote_07052026",
     "remaju_trujillo_07052026",
     "remaju_ate_07052026",
@@ -545,7 +543,9 @@
     "remaju_iquitos_30052026",
     "remaju_subtanjalla_30052026",
     "remaju_san_martin_30052026",
-    "remaju_comas_30052026"
+    "remaju_comas_30052026",
+    "remaju_san_jeronimo_30052026",
+    "remaju_bellavista_30052026"
   ],
   "pronabi": []
 }
