@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-21 18:24",
-  "total": 207,
-  "nuevos": 3,
+  "last_update": "2026-05-21 20:23",
+  "total": 205,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_2077",
@@ -38,42 +38,6 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-05/Multimedia%20%28199%29.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-05/INF%20DE%20DETALLE%20DEL%20ITEM%20VEHICULO.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2075"
-    },
-    {
-      "id": "remaju_ventanilla_04062026",
-      "fuente": "REMAJU",
-      "titulo": "Remate N° 23784 - PRIMERA CONVOCATORIA - VENTANILLA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "04/06/2026",
-      "hora": "",
-      "dependencia": "VENTANILLA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_san_jeronimo_04062026",
-      "fuente": "REMAJU",
-      "titulo": "Remate N° 23783 - PRIMERA CONVOCATORIA - SAN JERONIMO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "04/06/2026",
-      "hora": "",
-      "dependencia": "SAN JERONIMO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_calleria_21052026",
