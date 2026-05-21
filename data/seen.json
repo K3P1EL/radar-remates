@@ -46,9 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_chanchamayo_08052026",
-    "remaju_san_miguel_08052026",
-    "remaju_san_juan_de_lurigancho_09052026",
     "remaju_parcona_09052026",
     "remaju_callao_09052026",
     "remaju_carabayllo_09052026",
@@ -545,7 +542,10 @@
     "remaju_anco_huallo_31052026",
     "remaju_san_juan_de_lurigancho_31052026",
     "remaju_puente_piedra_31052026",
-    "remaju_villa_maria_del_triunfo_31052026"
+    "remaju_villa_maria_del_triunfo_31052026",
+    "remaju_ventanilla_31052026",
+    "remaju_ventanilla_04062026",
+    "remaju_san_jeronimo_04062026"
   ],
   "pronabi": []
 }
