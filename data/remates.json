@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-20 23:41",
+  "last_update": "2026-05-21 01:49",
   "total": 196,
-  "nuevos": 1,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_2077",
@@ -3118,6 +3118,24 @@
       "url": "https://rematestributarios.sunat.gob.pe/node/2062"
     },
     {
+      "id": "remaju_trujillo_30052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TRUJILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/05/2026",
+      "hora": "",
+      "dependencia": "TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_chiclayo_30052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CHICLAYO",
@@ -3344,24 +3362,6 @@
       "fecha": "30/05/2026",
       "hora": "",
       "dependencia": "HUANUCO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_trujillo_30052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - TRUJILLO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "30/05/2026",
-      "hora": "",
-      "dependencia": "TRUJILLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
