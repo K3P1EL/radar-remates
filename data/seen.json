@@ -46,13 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_pichanaqui_10052026",
-    "remaju_castilla_10052026",
-    "remaju_aplao_10052026",
-    "remaju_irazola_10052026",
-    "remaju_alto_trujillo_10052026",
-    "remaju_coporaque_10052026",
-    "remaju_san_isidro_10052026",
     "remaju_monsefu_10052026",
     "remaju_carabayllo_10052026",
     "remaju_ate_10052026",
@@ -545,7 +538,14 @@
     "remaju_monsefu_01062026",
     "remaju_cerro_colorado_01062026",
     "remaju_san_martin_de_porres_01062026",
-    "remaju_chachapoyas_01062026"
+    "remaju_chachapoyas_01062026",
+    "remaju_los_aquijes_01062026",
+    "remaju_camana_01062026",
+    "remaju_miraflores_01062026",
+    "remaju_la_victoria_01062026",
+    "remaju_jose_leonardo_ortiz_01062026",
+    "remaju_chimbote_01062026",
+    "remaju_sabandia_01062026"
   ],
   "pronabi": []
 }
