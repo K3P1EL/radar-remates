@@ -46,11 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_villa_maria_del_triunfo_10052026",
-    "remaju_amarilis_10052026",
-    "remaju_tiabaya_10052026",
-    "remaju_chiclayo_10052026",
-    "remaju_san_juan_de_lurigancho_10052026",
     "remaju_pichanaqui_10052026",
     "remaju_castilla_10052026",
     "remaju_aplao_10052026",
@@ -545,7 +540,12 @@
     "remaju_chaclacayo_31052026",
     "remaju_la_molina_31052026",
     "remaju_jose_luis_bustamante_y_rivero_31052026",
-    "remaju_salaverry_31052026"
+    "remaju_salaverry_31052026",
+    "remaju_san_luis_01062026",
+    "remaju_monsefu_01062026",
+    "remaju_cerro_colorado_01062026",
+    "remaju_san_martin_de_porres_01062026",
+    "remaju_chachapoyas_01062026"
   ],
   "pronabi": []
 }
