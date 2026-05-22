@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-22 19:14",
-  "total": 242,
-  "nuevos": 0,
+  "last_update": "2026-05-22 20:52",
+  "total": 243,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2077",
@@ -38,6 +38,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-05/Multimedia%20%28199%29.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-05/INF%20DE%20DETALLE%20DEL%20ITEM%20VEHICULO.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2075"
+    },
+    {
+      "id": "remaju_mala_01062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MALA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "01/06/2026",
+      "hora": "",
+      "dependencia": "MALA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_camana_01062026",
@@ -3532,24 +3550,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_san_juan_de_lurigancho_31052026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SAN JUAN DE LURIGANCHO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "31/05/2026",
-      "hora": "",
-      "dependencia": "SAN JUAN DE LURIGANCHO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_chimbote_31052026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CHIMBOTE",
@@ -3830,6 +3830,24 @@
       "fecha": "31/05/2026",
       "hora": "",
       "dependencia": "SAN SEBASTIAN",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_juan_de_lurigancho_31052026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN JUAN DE LURIGANCHO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "31/05/2026",
+      "hora": "",
+      "dependencia": "SAN JUAN DE LURIGANCHO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
