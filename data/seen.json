@@ -46,13 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_villa_el_salvador_11052026",
-    "remaju_monsefu_11052026",
-    "remaju_san_juan_de_lurigancho_11052026",
-    "remaju_san_isidro_11052026",
-    "remaju_lima_11052026",
-    "remaju_manantay_14052026",
-    "remaju_punchana_14052026",
     "remaju_victor_larco_herrera_14052026",
     "remaju_san_jeronimo_14052026",
     "remaju_san_juan_de_lurigancho_14052026",
@@ -545,7 +538,14 @@
     "remaju_coronel_gregorio_albarracin_lanchipa_01062026",
     "remaju_la_perla_01062026",
     "remaju_ventanilla_01062026",
-    "remaju_junin_01062026"
+    "remaju_junin_01062026",
+    "remaju_carabayllo_01062026",
+    "remaju_viru_01062026",
+    "remaju_coishco_01062026",
+    "remaju_surquillo_05062026",
+    "remaju_sullana_05062026",
+    "remaju_mala_05062026",
+    "remaju_camana_05062026"
   ],
   "pronabi": []
 }
