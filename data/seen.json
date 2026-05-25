@@ -46,10 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_pisuquia_14052026",
-    "remaju_andahuaylas_14052026",
-    "remaju_san_martin_de_porres_14052026",
-    "remaju_alto_selva_alegre_14052026",
     "remaju_la_esperanza_14052026",
     "remaju_trujillo_14052026",
     "remaju_huanchaco_14052026",
@@ -545,7 +541,11 @@
     "remaju_el_porvenir_04062026",
     "remaju_los_olivos_04062026",
     "remaju_miraflores_04062026",
-    "remaju_ate_04062026"
+    "remaju_ate_04062026",
+    "remaju_pueblo_libre_10062026",
+    "remaju_el_porvenir_10062026",
+    "remaju_los_olivos_10062026",
+    "remaju_lima_10062026"
   ],
   "pronabi": []
 }
