@@ -46,9 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_huanchaco_14052026",
-    "remaju_samanco_14052026",
-    "remaju_piura_14052026",
     "remaju_saylla_14052026",
     "remaju_chicama_14052026",
     "remaju_huanuco_14052026",
@@ -545,7 +542,10 @@
     "remaju_los_olivos_10062026",
     "remaju_lima_10062026",
     "remaju_26_de_octubre_04062026",
-    "remaju_manantay_04062026"
+    "remaju_manantay_04062026",
+    "remaju_chorrillos_04062026",
+    "remaju_puente_piedra_04062026",
+    "remaju_mollendo_04062026"
   ],
   "pronabi": []
 }
