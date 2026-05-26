@@ -46,8 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_jaen_15052026",
-    "remaju_villa_el_salvador_15052026",
     "remaju_puente_piedra_15052026",
     "remaju_ilo_15052026",
     "remaju_ica_15052026",
@@ -545,7 +543,9 @@
     "remaju_yanaquihua_05062026",
     "remaju_nuevo_chimbote_05062026",
     "remaju_moquegua_05062026",
-    "remaju_san_clemente_05062026"
+    "remaju_san_clemente_05062026",
+    "remaju_chulucanas_05062026",
+    "remaju_yurimaguas_05062026"
   ],
   "pronabi": []
 }
