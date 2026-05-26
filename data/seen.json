@@ -46,11 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_barranco_21052026",
-    "remaju_ventanilla_21052026",
-    "remaju_carabayllo_21052026",
-    "remaju_san_juan_bautista_15052026",
-    "remaju_san_juan_de_lurigancho_15052026",
     "remaju_san_sebastian_15052026",
     "remaju_el_agustino_15052026",
     "remaju_parcona_15052026",
@@ -545,7 +540,12 @@
     "remaju_chorrillos_10062026",
     "remaju_puente_piedra_10062026",
     "remaju_mollendo_10062026",
-    "remaju_la_perla_04062026"
+    "remaju_la_perla_04062026",
+    "remaju_arequipa_04062026",
+    "remaju_viru_04062026",
+    "remaju_arequipa_10062026",
+    "remaju_viru_10062026",
+    "remaju_la_perla_10062026"
   ],
   "pronabi": []
 }
