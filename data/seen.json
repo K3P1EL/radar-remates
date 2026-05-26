@@ -46,9 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_el_agustino_15052026",
-    "remaju_parcona_15052026",
-    "remaju_satipo_15052026",
     "remaju_jaen_15052026",
     "remaju_villa_el_salvador_15052026",
     "remaju_puente_piedra_15052026",
@@ -545,7 +542,10 @@
     "remaju_arequipa_10062026",
     "remaju_viru_10062026",
     "remaju_la_perla_10062026",
-    "remaju_yanaquihua_05062026"
+    "remaju_yanaquihua_05062026",
+    "remaju_nuevo_chimbote_05062026",
+    "remaju_moquegua_05062026",
+    "remaju_san_clemente_05062026"
   ],
   "pronabi": []
 }
