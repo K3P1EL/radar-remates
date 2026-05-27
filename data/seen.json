@@ -46,12 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_jacobo_hunter_16052026",
-    "remaju_cieneguilla_16052026",
-    "remaju_cajamarca_16052026",
-    "remaju_callao_16052026",
-    "remaju_santiago_de_surco_16052026",
-    "remaju_callao_21052026",
     "remaju_santiago_de_surco_21052026",
     "remaju_jacobo_hunter_21052026",
     "remaju_cieneguilla_21052026",
@@ -545,7 +539,13 @@
     "remaju_chimbote_06062026",
     "remaju_carabayllo_06062026",
     "remaju_san_borja_06062026",
-    "remaju_trujillo_06062026"
+    "remaju_trujillo_06062026",
+    "remaju_independencia_06062026",
+    "remaju_arequipa_06062026",
+    "remaju_independencia_11062026",
+    "remaju_arequipa_11062026",
+    "remaju_paucarpata_11062026",
+    "remaju_alto_selva_alegre_11062026"
   ],
   "pronabi": []
 }
