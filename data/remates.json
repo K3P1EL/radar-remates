@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-05-27 21:30",
-  "total": 192,
-  "nuevos": 16,
+  "last_update": "2026-05-27 23:03",
+  "total": 193,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_965",
@@ -1148,6 +1148,24 @@
       "fecha": "05/06/2026",
       "hora": "",
       "dependencia": "YANAQUIHUA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_tumbes_06062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TUMBES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "06/06/2026",
+      "hora": "",
+      "dependencia": "TUMBES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",

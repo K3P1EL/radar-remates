@@ -46,8 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_paracas_17052026",
-    "remaju_ciudad_nueva_17052026",
     "remaju_san_juan_bautista_17052026",
     "remaju_san_isidro_17052026",
     "remaju_chaclacayo_17052026",
@@ -545,7 +543,9 @@
     "remaju_lima_06062026",
     "remaju_iquitos_06062026",
     "remaju_comas_06062026",
-    "remaju_punchana_06062026"
+    "remaju_punchana_06062026",
+    "remaju_tumbes_06062026",
+    "remaju_la_victoria_06062026"
   ],
   "pronabi": []
 }
