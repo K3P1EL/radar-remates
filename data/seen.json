@@ -46,15 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_san_juan_bautista_17052026",
-    "remaju_san_isidro_17052026",
-    "remaju_chaclacayo_17052026",
-    "remaju_la_victoria_17052026",
-    "remaju_trujillo_17052026",
-    "remaju_iquitos_17052026",
-    "remaju_calleria_17052026",
-    "remaju_la_esperanza_17052026",
-    "remaju_ancon_17052026",
     "remaju_tambo_grande_17052026",
     "remaju_san_juan_de_lurigancho_17052026",
     "remaju_huancayo_17052026",
@@ -545,7 +536,16 @@
     "remaju_comas_06062026",
     "remaju_punchana_06062026",
     "remaju_tumbes_06062026",
-    "remaju_la_victoria_06062026"
+    "remaju_la_victoria_06062026",
+    "remaju_pueblo_nuevo_07062026",
+    "remaju_pichanaqui_07062026",
+    "remaju_san_martin_de_porres_07062026",
+    "remaju_ate_07062026",
+    "remaju_chiclayo_07062026",
+    "remaju_san_juan_de_lurigancho_07062026",
+    "remaju_carabayllo_07062026",
+    "remaju_wanchaq_07062026",
+    "remaju_los_olivos_07062026"
   ],
   "pronabi": []
 }
