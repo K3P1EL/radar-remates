@@ -46,9 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_tambo_grande_17052026",
-    "remaju_san_juan_de_lurigancho_17052026",
-    "remaju_huancayo_17052026",
     "remaju_san_andres_17052026",
     "remaju_ayacucho_17052026",
     "remaju_moyobamba_17052026",
@@ -545,7 +542,10 @@
     "remaju_san_juan_de_lurigancho_07062026",
     "remaju_carabayllo_07062026",
     "remaju_wanchaq_07062026",
-    "remaju_los_olivos_07062026"
+    "remaju_los_olivos_07062026",
+    "remaju_la_tinguiña_07062026",
+    "remaju_independencia_07062026",
+    "remaju_lima_07062026"
   ],
   "pronabi": []
 }
