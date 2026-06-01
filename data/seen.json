@@ -46,11 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_villa_maria_del_triunfo_27052026",
-    "remaju_eten_21052026",
-    "remaju_moquegua_21052026",
-    "remaju_ica_21052026",
-    "remaju_eten_27052026",
     "remaju_moquegua_27052026",
     "remaju_ica_27052026",
     "remaju_chiclayo_21052026",
@@ -545,7 +540,12 @@
     "remaju_rimac_11062026",
     "remaju_san_juan_bautista_11062026",
     "remaju_miraflores_11062026",
-    "remaju_huanchaco_11062026"
+    "remaju_huanchaco_11062026",
+    "remaju_chiclayo_11062026",
+    "remaju_pimentel_11062026",
+    "remaju_chiclayo_17062026",
+    "remaju_putina_17062026",
+    "remaju_pimentel_17062026"
   ],
   "pronabi": []
 }
