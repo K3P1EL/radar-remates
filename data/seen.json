@@ -46,8 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_santiago_22052026",
-    "remaju_el_tambo_28052026",
     "remaju_callao_28052026",
     "remaju_ventanilla_28052026",
     "remaju_chiclayo_28052026",
@@ -545,7 +543,9 @@
     "remaju_lurin_12062026",
     "remaju_humay_12062026",
     "remaju_jequetepeque_12062026",
-    "remaju_chimbote_12062026"
+    "remaju_chimbote_12062026",
+    "remaju_morropon_12062026",
+    "remaju_paijan_12062026"
   ],
   "pronabi": []
 }
