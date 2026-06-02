@@ -46,11 +46,6 @@
     "sunat_2075"
   ],
   "remaju": [
-    "remaju_chiclayo_22052026",
-    "remaju_tarma_22052026",
-    "remaju_chicama_22052026",
-    "remaju_chimbote_22052026",
-    "remaju_el_tambo_22052026",
     "remaju_santiago_22052026",
     "remaju_el_tambo_28052026",
     "remaju_callao_28052026",
@@ -545,7 +540,12 @@
     "remaju_miraflores_12062026",
     "remaju_san_juan_de_lurigancho_12062026",
     "remaju_barranca_12062026",
-    "remaju_alto_selva_alegre_12062026"
+    "remaju_alto_selva_alegre_12062026",
+    "remaju_san_clemente_12062026",
+    "remaju_lurin_12062026",
+    "remaju_humay_12062026",
+    "remaju_jequetepeque_12062026",
+    "remaju_chimbote_12062026"
   ],
   "pronabi": []
 }
