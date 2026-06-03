@@ -43,10 +43,10 @@
     "sunat_2070",
     "sunat_2062",
     "sunat_2077",
-    "sunat_2075"
+    "sunat_2075",
+    "sunat_1777"
   ],
   "remaju": [
-    "remaju_calleria_22052026",
     "remaju_san_jeronimo_28052026",
     "remaju_barranca_28052026",
     "remaju_wanchaq_22052026",
@@ -545,7 +545,8 @@
     "remaju_santiago_de_surco_13062026",
     "remaju_iguain_18062026",
     "remaju_santiago_de_surco_18062026",
-    "remaju_san_miguel_18062026"
+    "remaju_san_miguel_18062026",
+    "remaju_nuevo_chimbote_13062026"
   ],
   "pronabi": []
 }
