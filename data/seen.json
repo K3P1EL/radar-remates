@@ -47,20 +47,6 @@
     "sunat_1777"
   ],
   "remaju": [
-    "remaju_san_jeronimo_28052026",
-    "remaju_barranca_28052026",
-    "remaju_wanchaq_22052026",
-    "remaju_carabayllo_22052026",
-    "remaju_ica_22052026",
-    "remaju_jaen_22052026",
-    "remaju_ilave_22052026",
-    "remaju_miraflores_22052026",
-    "remaju_yura_22052026",
-    "remaju_ilave_28052026",
-    "remaju_miraflores_28052026",
-    "remaju_yura_28052026",
-    "remaju_trujillo_22052026",
-    "remaju_huambo_22052026",
     "remaju_la_esperanza_22052026",
     "remaju_lince_23052026",
     "remaju_camana_23052026",
@@ -546,7 +532,21 @@
     "remaju_iguain_18062026",
     "remaju_santiago_de_surco_18062026",
     "remaju_san_miguel_18062026",
-    "remaju_nuevo_chimbote_13062026"
+    "remaju_nuevo_chimbote_13062026",
+    "remaju_comas_13062026",
+    "remaju_lima_13062026",
+    "remaju_la_joya_13062026",
+    "remaju_paucartambo_13062026",
+    "remaju_callao_13062026",
+    "remaju_jose_luis_bustamante_y_rivero_13062026",
+    "remaju_carhuamayo_13062026",
+    "remaju_san_jeronimo_13062026",
+    "remaju_villa_el_salvador_13062026",
+    "remaju_san_juan_de_lurigancho_13062026",
+    "remaju_comas_18062026",
+    "remaju_lima_18062026",
+    "remaju_la_joya_18062026",
+    "remaju_paucartambo_18062026"
   ],
   "pronabi": []
 }
