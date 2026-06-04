@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-04 21:15",
-  "total": 246,
-  "nuevos": 47,
+  "last_update": "2026-06-04 22:49",
+  "total": 247,
+  "nuevos": 33,
   "remates": [
     {
       "id": "sunat_2077",
@@ -3442,6 +3442,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_moquegua_14062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MOQUEGUA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "14/06/2026",
+      "hora": "",
+      "dependencia": "MOQUEGUA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_miraflores_14062026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - MIRAFLORES",
@@ -4360,6 +4378,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_moquegua_18062026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 24048 - PRIMERA CONVOCATORIA - MOQUEGUA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "18/06/2026",
+      "hora": "",
+      "dependencia": "MOQUEGUA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_miraflores_18062026",
       "fuente": "REMAJU",
       "titulo": "Remate N° 24047 - PRIMERA CONVOCATORIA - MIRAFLORES",
@@ -4406,24 +4442,6 @@
       "fecha": "18/06/2026",
       "hora": "",
       "dependencia": "JOSE LEONARDO ORTIZ",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_tumbes_18062026",
-      "fuente": "REMAJU",
-      "titulo": "Remate N° 24040 - PRIMERA CONVOCATORIA - TUMBES",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "18/06/2026",
-      "hora": "",
-      "dependencia": "TUMBES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
