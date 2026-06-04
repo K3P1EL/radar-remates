@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-04 16:57",
-  "total": 202,
-  "nuevos": 9,
+  "last_update": "2026-06-04 19:29",
+  "total": 204,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_2077",
@@ -3460,6 +3460,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_callao_14062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CALLAO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "14/06/2026",
+      "hora": "",
+      "dependencia": "CALLAO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_carabayllo_14062026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CARABAYLLO",
@@ -3578,6 +3596,24 @@
       "fecha": "14/06/2026",
       "hora": "",
       "dependencia": "CASTILLA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_callao_18062026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 24026 - PRIMERA CONVOCATORIA - CALLAO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "18/06/2026",
+      "hora": "",
+      "dependencia": "CALLAO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
