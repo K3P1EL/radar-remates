@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-05 22:37",
-  "total": 261,
-  "nuevos": 10,
+  "last_update": "2026-06-05 23:52",
+  "total": 262,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2075",
@@ -4046,6 +4046,24 @@
       "fecha": "14/06/2026",
       "hora": "",
       "dependencia": "VILLA MARIA DEL TRIUNFO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_26_de_octubre_15062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - 26 DE OCTUBRE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/06/2026",
+      "hora": "",
+      "dependencia": "26 DE OCTUBRE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
