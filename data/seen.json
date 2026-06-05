@@ -44,20 +44,10 @@
     "sunat_2062",
     "sunat_2077",
     "sunat_2075",
-    "sunat_1777"
+    "sunat_1777",
+    "sunat_2096"
   ],
   "remaju": [
-    "remaju_yarinacocha_24052026",
-    "remaju_san_juan_de_miraflores_24052026",
-    "remaju_chincha_baja_24052026",
-    "remaju_los_olivos_24052026",
-    "remaju_tambo_grande_24052026",
-    "remaju_iquitos_24052026",
-    "remaju_punchana_24052026",
-    "remaju_callao_24052026",
-    "remaju_pisco_24052026",
-    "remaju_parcona_24052026",
-    "remaju_san_juan_de_lurigancho_24052026",
     "remaju_calleria_24052026",
     "remaju_chanchamayo_24052026",
     "remaju_manantay_24052026",
@@ -546,7 +536,18 @@
     "remaju_moquegua_18062026",
     "remaju_miraflores_18062026",
     "remaju_san_isidro_18062026",
-    "remaju_jose_leonardo_ortiz_18062026"
+    "remaju_jose_leonardo_ortiz_18062026",
+    "remaju_la_joya_15062026",
+    "remaju_marco_15062026",
+    "remaju_santiago_de_surco_15062026",
+    "remaju_pancan_15062026",
+    "remaju_tarma_15062026",
+    "remaju_leonor_ordoñez_15062026",
+    "remaju_manantay_15062026",
+    "remaju_la_joya_19062026",
+    "remaju_marco_19062026",
+    "remaju_santiago_de_surco_19062026",
+    "remaju_pancan_19062026"
   ],
   "pronabi": []
 }
