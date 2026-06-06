@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-06 17:21",
-  "total": 264,
-  "nuevos": 0,
+  "last_update": "2026-06-06 18:50",
+  "total": 268,
+  "nuevos": 4,
   "remates": [
     {
       "id": "sunat_2075",
@@ -4720,6 +4720,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_yurimaguas_16062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - YURIMAGUAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "16/06/2026",
+      "hora": "",
+      "dependencia": "YURIMAGUAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_pisco_16062026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - PISCO",
@@ -4754,6 +4772,60 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/P14179646.jpeg",
       "pdf": "",
       "url": "https://rematestributarios.sunat.gob.pe/node/2096"
+    },
+    {
+      "id": "remaju_viru_19062026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 24093 - PRIMERA CONVOCATORIA - VIRU",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "19/06/2026",
+      "hora": "",
+      "dependencia": "VIRU",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_yurimaguas_20062026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 24095 - PRIMERA CONVOCATORIA - YURIMAGUAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "20/06/2026",
+      "hora": "",
+      "dependencia": "YURIMAGUAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_pisco_20062026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 24094 - PRIMERA CONVOCATORIA - PISCO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "20/06/2026",
+      "hora": "",
+      "dependencia": "PISCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     }
   ]
 }
