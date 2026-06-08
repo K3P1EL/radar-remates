@@ -45,13 +45,16 @@
     "sunat_2077",
     "sunat_2075",
     "sunat_1777",
-    "sunat_2096"
+    "sunat_2096",
+    "sunat_2143",
+    "sunat_2142",
+    "sunat_2138",
+    "sunat_2137",
+    "sunat_2136",
+    "sunat_2135",
+    "sunat_2134"
   ],
   "remaju": [
-    "remaju_monsefu_25052026",
-    "remaju_tarma_25052026",
-    "remaju_junin_25052026",
-    "remaju_jesus_maria_25052026",
     "remaju_san_jose_de_los_molinos_25052026",
     "remaju_san_juan_de_lurigancho_28052026",
     "remaju_pueblo_libre_28052026",
@@ -547,7 +550,11 @@
     "remaju_barranca_18062026",
     "remaju_comas_24062026",
     "remaju_santa_anita_24062026",
-    "remaju_jose_leonardo_ortiz_24062026"
+    "remaju_jose_leonardo_ortiz_24062026",
+    "remaju_san_borja_18062026",
+    "remaju_carabayllo_24062026",
+    "remaju_san_juan_de_miraflores_24062026",
+    "remaju_san_borja_24062026"
   ],
   "pronabi": []
 }
