@@ -62,12 +62,6 @@
     "sunat_2193"
   ],
   "remaju": [
-    "remaju_villa_el_salvador_28052026",
-    "remaju_santiago_de_surco_03062026",
-    "remaju_oxapampa_28052026",
-    "remaju_simon_bolivar_28052026",
-    "remaju_carhuamayo_28052026",
-    "remaju_chorrillos_28052026",
     "remaju_san_miguel_28052026",
     "remaju_trujillo_28052026",
     "remaju_simon_bolivar_03062026",
@@ -561,7 +555,13 @@
     "remaju_pisco_18062026",
     "remaju_ferreñafe_18062026",
     "remaju_yurimaguas_18062026",
-    "remaju_viru_18062026"
+    "remaju_viru_18062026",
+    "remaju_bella_union_18062026",
+    "remaju_rimac_18062026",
+    "remaju_bella_union_24062026",
+    "remaju_san_miguel_24062026",
+    "remaju_miraflores_24062026",
+    "remaju_rimac_24062026"
   ],
   "pronabi": []
 }
