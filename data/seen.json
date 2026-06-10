@@ -62,10 +62,6 @@
     "sunat_2193"
   ],
   "remaju": [
-    "remaju_surquillo_29052026",
-    "remaju_iquitos_29052026",
-    "remaju_san_isidro_29052026",
-    "remaju_surquillo_04062026",
     "remaju_iquitos_04062026",
     "remaju_el_porvenir_29052026",
     "remaju_tarapoto_30052026",
@@ -561,7 +557,11 @@
     "remaju_independencia_19062026",
     "remaju_chincha_baja_25062026",
     "remaju_chincha_alta_25062026",
-    "remaju_nueva_cajamarca_25062026"
+    "remaju_nueva_cajamarca_25062026",
+    "remaju_pilcomayo_20062026",
+    "remaju_san_juan_bautista_20062026",
+    "remaju_pilcomayo_25062026",
+    "remaju_san_juan_bautista_25062026"
   ],
   "pronabi": []
 }
