@@ -62,9 +62,6 @@
     "sunat_2193"
   ],
   "remaju": [
-    "remaju_chiclayo_29052026",
-    "remaju_yura_29052026",
-    "remaju_chiclayo_04062026",
     "remaju_surquillo_29052026",
     "remaju_iquitos_29052026",
     "remaju_san_isidro_29052026",
@@ -561,7 +558,10 @@
     "remaju_chincha_baja_19062026",
     "remaju_chincha_alta_19062026",
     "remaju_nueva_cajamarca_19062026",
-    "remaju_independencia_19062026"
+    "remaju_independencia_19062026",
+    "remaju_chincha_baja_25062026",
+    "remaju_chincha_alta_25062026",
+    "remaju_nueva_cajamarca_25062026"
   ],
   "pronabi": []
 }
