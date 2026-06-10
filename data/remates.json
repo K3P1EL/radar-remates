@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-10 22:18",
+  "last_update": "2026-06-10 23:58",
   "total": 205,
-  "nuevos": 12,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_2075",
@@ -2650,24 +2650,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_miraflores_18062026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - MIRAFLORES",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "18/06/2026",
-      "hora": "",
-      "dependencia": "MIRAFLORES",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_rimac_18062026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - RIMAC",
@@ -3190,6 +3172,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_yurimaguas_20062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - YURIMAGUAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "20/06/2026",
+      "hora": "",
+      "dependencia": "YURIMAGUAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_san_hilarion_20062026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - SAN HILARION",
@@ -3640,6 +3640,24 @@
       "url": "https://rematestributarios.sunat.gob.pe/node/2193"
     },
     {
+      "id": "remaju_yurimaguas_25062026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 24163 - PRIMERA CONVOCATORIA - YURIMAGUAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/06/2026",
+      "hora": "",
+      "dependencia": "YURIMAGUAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_san_hilarion_25062026",
       "fuente": "REMAJU",
       "titulo": "Remate N° 24162 - PRIMERA CONVOCATORIA - SAN HILARION",
@@ -3668,24 +3686,6 @@
       "fecha": "25/06/2026",
       "hora": "",
       "dependencia": "SAN RAFAEL",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_subtanjalla_25062026",
-      "fuente": "REMAJU",
-      "titulo": "Remate N° 24159 - PRIMERA CONVOCATORIA - SUBTANJALLA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "25/06/2026",
-      "hora": "",
-      "dependencia": "SUBTANJALLA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
