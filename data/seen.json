@@ -62,11 +62,6 @@
     "sunat_2193"
   ],
   "remaju": [
-    "remaju_subtanjalla_30052026",
-    "remaju_san_martin_30052026",
-    "remaju_comas_30052026",
-    "remaju_san_jeronimo_30052026",
-    "remaju_bellavista_30052026",
     "remaju_piura_30052026",
     "remaju_la_victoria_30052026",
     "remaju_pichanaqui_30052026",
@@ -561,7 +556,12 @@
     "remaju_puente_piedra_20062026",
     "remaju_villa_el_salvador_20062026",
     "remaju_magdalena_del_mar_20062026",
-    "remaju_yura_20062026"
+    "remaju_yura_20062026",
+    "remaju_subtanjalla_20062026",
+    "remaju_los_olivos_20062026",
+    "remaju_subtanjalla_25062026",
+    "remaju_los_olivos_25062026",
+    "remaju_puente_piedra_25062026"
   ],
   "pronabi": []
 }
