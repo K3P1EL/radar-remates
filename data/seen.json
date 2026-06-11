@@ -62,9 +62,6 @@
     "sunat_2193"
   ],
   "remaju": [
-    "remaju_san_jeronimo_31052026",
-    "remaju_la_tinguiña_31052026",
-    "remaju_yurimaguas_31052026",
     "remaju_lima_31052026",
     "remaju_miraflores_31052026",
     "remaju_chavin_de_huantar_31052026",
@@ -561,7 +558,10 @@
     "remaju_mejia_20062026",
     "remaju_mejia_25062026",
     "remaju_sullana_21062026",
-    "remaju_san_juan_de_lurigancho_21062026"
+    "remaju_san_juan_de_lurigancho_21062026",
+    "remaju_san_miguel_21062026",
+    "remaju_los_olivos_21062026",
+    "remaju_laredo_21062026"
   ],
   "pronabi": []
 }
