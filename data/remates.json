@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-10 23:58",
-  "total": 205,
-  "nuevos": 0,
+  "last_update": "2026-06-11 04:53",
+  "total": 207,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_2075",
@@ -3172,6 +3172,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_mejia_20062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MEJIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "20/06/2026",
+      "hora": "",
+      "dependencia": "MEJIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_yurimaguas_20062026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - YURIMAGUAS",
@@ -3638,6 +3656,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/1215_2.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/1215_2.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2193"
+    },
+    {
+      "id": "remaju_mejia_25062026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 24164 - PRIMERA CONVOCATORIA - MEJIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/06/2026",
+      "hora": "",
+      "dependencia": "MEJIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_yurimaguas_25062026",
