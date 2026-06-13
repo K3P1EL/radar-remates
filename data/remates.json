@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-13 20:57",
-  "total": 267,
-  "nuevos": 0,
+  "last_update": "2026-06-13 22:14",
+  "total": 268,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2075",
@@ -4676,6 +4676,24 @@
       "fecha": "22/06/2026",
       "hora": "",
       "dependencia": "JUNIN",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_sullana_23062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SULLANA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "23/06/2026",
+      "hora": "",
+      "dependencia": "SULLANA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
