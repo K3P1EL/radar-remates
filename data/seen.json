@@ -62,15 +62,10 @@
     "sunat_2193",
     "sunat_2213",
     "sunat_2212",
-    "sunat_2211"
+    "sunat_2211",
+    "sunat_2220"
   ],
   "remaju": [
-    "remaju_el_porvenir_10062026",
-    "remaju_los_olivos_10062026",
-    "remaju_lima_10062026",
-    "remaju_26_de_octubre_04062026",
-    "remaju_manantay_04062026",
-    "remaju_chorrillos_04062026",
     "remaju_puente_piedra_04062026",
     "remaju_mollendo_04062026",
     "remaju_huanuco_04062026",
@@ -564,7 +559,13 @@
     "remaju_coronel_gregorio_albarracin_lanchipa_26062026",
     "remaju_pisco_26062026",
     "remaju_satipo_26062026",
-    "remaju_barranca_26062026"
+    "remaju_barranca_26062026",
+    "remaju_chorrillos_26062026",
+    "remaju_cerro_colorado_26062026",
+    "remaju_ica_26062026",
+    "remaju_tacna_26062026",
+    "remaju_san_borja_26062026",
+    "remaju_el_agustino_26062026"
   ],
   "pronabi": []
 }
