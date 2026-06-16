@@ -65,9 +65,6 @@
     "sunat_2211"
   ],
   "remaju": [
-    "remaju_pueblo_libre_04062026",
-    "remaju_el_porvenir_04062026",
-    "remaju_los_olivos_04062026",
     "remaju_miraflores_04062026",
     "remaju_ate_04062026",
     "remaju_pueblo_libre_10062026",
@@ -564,7 +561,10 @@
     "remaju_chiclayo_25062026",
     "remaju_san_isidro_25062026",
     "remaju_magdalena_del_mar_02072026",
-    "remaju_surquillo_02072026"
+    "remaju_surquillo_02072026",
+    "remaju_amarilis_26062026",
+    "remaju_comas_26062026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_26062026"
   ],
   "pronabi": []
 }
