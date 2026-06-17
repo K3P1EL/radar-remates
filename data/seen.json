@@ -72,9 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_yanaquihua_05062026",
-    "remaju_nuevo_chimbote_05062026",
-    "remaju_moquegua_05062026",
     "remaju_san_clemente_05062026",
     "remaju_chulucanas_05062026",
     "remaju_yurimaguas_05062026",
@@ -571,7 +568,10 @@
     "remaju_sullana_27062026",
     "remaju_la_victoria_27062026",
     "remaju_carabayllo_27062026",
-    "remaju_subtanjalla_27062026"
+    "remaju_subtanjalla_27062026",
+    "remaju_yurimaguas_27062026",
+    "remaju_yurimaguas_03072026",
+    "remaju_miraflores_03072026"
   ],
   "pronabi": []
 }
