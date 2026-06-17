@@ -72,10 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_paucarpata_06062026",
-    "remaju_alto_selva_alegre_06062026",
-    "remaju_nuevo_chimbote_06062026",
-    "remaju_chimbote_06062026",
     "remaju_carabayllo_06062026",
     "remaju_san_borja_06062026",
     "remaju_trujillo_06062026",
@@ -571,7 +567,11 @@
     "remaju_san_juan_de_lurigancho_27062026",
     "remaju_puente_piedra_27062026",
     "remaju_nauta_27062026",
-    "remaju_la_molina_27062026"
+    "remaju_la_molina_27062026",
+    "remaju_amarilis_27062026",
+    "remaju_comas_27062026",
+    "remaju_amarilis_03072026",
+    "remaju_comas_03072026"
   ],
   "pronabi": []
 }
