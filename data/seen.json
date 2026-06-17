@@ -72,12 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_puente_piedra_04062026",
-    "remaju_mollendo_04062026",
-    "remaju_huanuco_04062026",
-    "remaju_alto_trujillo_04062026",
-    "remaju_huanuco_10062026",
-    "remaju_chorrillos_10062026",
     "remaju_puente_piedra_10062026",
     "remaju_mollendo_10062026",
     "remaju_la_perla_04062026",
@@ -571,7 +565,13 @@
     "remaju_ica_26062026",
     "remaju_tacna_26062026",
     "remaju_san_borja_26062026",
-    "remaju_el_agustino_26062026"
+    "remaju_el_agustino_26062026",
+    "remaju_santiago_de_surco_27062026",
+    "remaju_breña_27062026",
+    "remaju_santiago_de_surco_03072026",
+    "remaju_breña_03072026",
+    "remaju_chorrillos_03072026",
+    "remaju_cerro_colorado_03072026"
   ],
   "pronabi": []
 }
