@@ -72,15 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_chincha_alta_07062026",
-    "remaju_papayal_07062026",
-    "remaju_nuevo_chimbote_07062026",
-    "remaju_san_andres_07062026",
-    "remaju_sachaca_07062026",
-    "remaju_santiago_07062026",
-    "remaju_jaen_07062026",
-    "remaju_comandante_noel_11062026",
-    "remaju_callao_11062026",
     "remaju_chimbote_11062026",
     "remaju_el_mantaro_11062026",
     "remaju_moquegua_08062026",
@@ -571,7 +562,16 @@
     "remaju_san_martin_de_porres_29062026",
     "remaju_lima_29062026",
     "remaju_mala_29062026",
-    "remaju_la_victoria_29062026"
+    "remaju_la_victoria_29062026",
+    "remaju_honoria_29062026",
+    "remaju_jose_leonardo_ortiz_29062026",
+    "remaju_monsefu_29062026",
+    "remaju_chachapoyas_29062026",
+    "remaju_piura_29062026",
+    "remaju_surquillo_29062026",
+    "remaju_villa_maria_del_triunfo_29062026",
+    "remaju_alto_selva_alegre_29062026",
+    "remaju_puente_piedra_29062026"
   ],
   "pronabi": []
 }
