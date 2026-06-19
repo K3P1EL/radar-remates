@@ -72,8 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_huambo_07062026",
-    "remaju_la_esperanza_07062026",
     "remaju_ilave_07062026",
     "remaju_ica_07062026",
     "remaju_el_tambo_07062026",
@@ -571,7 +569,9 @@
     "remaju_imperial_29062026",
     "remaju_coronel_gregorio_albarracin_lanchipa_29062026",
     "remaju_chimbote_29062026",
-    "remaju_nuevo_chimbote_29062026"
+    "remaju_nuevo_chimbote_29062026",
+    "remaju_santiago_de_surco_29062026",
+    "remaju_la_molina_29062026"
   ],
   "pronabi": []
 }
