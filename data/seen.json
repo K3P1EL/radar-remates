@@ -72,10 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_manantay_07062026",
-    "remaju_cerro_colorado_07062026",
-    "remaju_lince_07062026",
-    "remaju_pucusana_07062026",
     "remaju_huambo_07062026",
     "remaju_la_esperanza_07062026",
     "remaju_ilave_07062026",
@@ -571,7 +567,11 @@
     "remaju_pueblo_nuevo_28062026",
     "remaju_san_juan_de_lurigancho_28062026",
     "remaju_sullana_29062026",
-    "remaju_paucarpata_29062026"
+    "remaju_paucarpata_29062026",
+    "remaju_imperial_29062026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_29062026",
+    "remaju_chimbote_29062026",
+    "remaju_nuevo_chimbote_29062026"
   ],
   "pronabi": []
 }
