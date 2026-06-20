@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-19 23:06",
-  "total": 248,
-  "nuevos": 9,
+  "last_update": "2026-06-20 01:31",
+  "total": 249,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2225",
@@ -3830,6 +3830,24 @@
       "fecha": "28/06/2026",
       "hora": "",
       "dependencia": "SAN JUAN DE LURIGANCHO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_salaverry_29062026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SALAVERRY",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "29/06/2026",
+      "hora": "",
+      "dependencia": "SALAVERRY",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
