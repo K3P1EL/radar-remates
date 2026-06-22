@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-22 15:58",
-  "total": 172,
+  "last_update": "2026-06-22 19:38",
+  "total": 174,
   "nuevos": 2,
   "remates": [
     {
@@ -146,6 +146,42 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/SERVICIOS%20GENERALES%20PARA%20LA%20INDUSTRIA.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/jun_loreto_6.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2226"
+    },
+    {
+      "id": "remaju_alto_selva_alegre_02072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ALTO SELVA ALEGRE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "02/07/2026",
+      "hora": "",
+      "dependencia": "ALTO SELVA ALEGRE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_santiago_de_surco_02072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SANTIAGO DE SURCO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "02/07/2026",
+      "hora": "",
+      "dependencia": "SANTIAGO DE SURCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_los_olivos_02072026",

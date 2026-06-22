@@ -72,8 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_villa_el_salvador_08062026",
-    "remaju_chiclayo_08062026",
     "remaju_cerro_colorado_08062026",
     "remaju_san_martin_de_porres_08062026",
     "remaju_omia_08062026",
@@ -571,7 +569,9 @@
     "remaju_yurimaguas_30062026",
     "remaju_pisco_30062026",
     "remaju_los_olivos_02072026",
-    "remaju_sullana_02072026"
+    "remaju_sullana_02072026",
+    "remaju_alto_selva_alegre_02072026",
+    "remaju_santiago_de_surco_02072026"
   ],
   "pronabi": []
 }
