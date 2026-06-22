@@ -72,9 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_lima_08062026",
-    "remaju_pisco_08062026",
-    "remaju_trujillo_08062026",
     "remaju_pisco_12062026",
     "remaju_sullana_08062026",
     "remaju_subtanjalla_08062026",
@@ -571,7 +568,10 @@
     "remaju_santiago_de_surco_02072026",
     "remaju_manantay_02072026",
     "remaju_san_isidro_02072026",
-    "remaju_cayalti_02072026"
+    "remaju_cayalti_02072026",
+    "remaju_eten_02072026",
+    "remaju_lima_02072026",
+    "remaju_jose_leonardo_ortiz_02072026"
   ],
   "pronabi": []
 }
