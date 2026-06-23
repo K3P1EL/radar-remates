@@ -72,12 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_san_jose_de_los_molinos_08062026",
-    "remaju_la_victoria_08062026",
-    "remaju_independencia_08062026",
-    "remaju_salas_08062026",
-    "remaju_yurimaguas_08062026",
-    "remaju_zarumilla_08062026",
     "remaju_tumbes_08062026",
     "remaju_corrales_08062026",
     "remaju_san_juan_de_lurigancho_08062026",
@@ -571,7 +565,13 @@
     "remaju_jose_leonardo_ortiz_02072026",
     "remaju_chorrillos_02072026",
     "remaju_san_juan_de_lurigancho_02072026",
-    "remaju_paucarpata_03072026"
+    "remaju_paucarpata_03072026",
+    "remaju_chimbote_03072026",
+    "remaju_chincha_baja_03072026",
+    "remaju_san_clemente_03072026",
+    "remaju_humay_03072026",
+    "remaju_chiclayo_03072026",
+    "remaju_majes_03072026"
   ],
   "pronabi": []
 }
