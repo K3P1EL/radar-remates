@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-23 01:33",
-  "total": 180,
-  "nuevos": 0,
+  "last_update": "2026-06-23 05:53",
+  "total": 182,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_2225",
@@ -146,6 +146,42 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/SERVICIOS%20GENERALES%20PARA%20LA%20INDUSTRIA.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/jun_loreto_6.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2226"
+    },
+    {
+      "id": "remaju_chorrillos_02072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CHORRILLOS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "02/07/2026",
+      "hora": "",
+      "dependencia": "CHORRILLOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_juan_de_lurigancho_02072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN JUAN DE LURIGANCHO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "02/07/2026",
+      "hora": "",
+      "dependencia": "SAN JUAN DE LURIGANCHO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_eten_02072026",

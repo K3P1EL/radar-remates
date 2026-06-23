@@ -72,8 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_pisco_12062026",
-    "remaju_sullana_08062026",
     "remaju_subtanjalla_08062026",
     "remaju_san_jose_de_los_molinos_08062026",
     "remaju_la_victoria_08062026",
@@ -571,7 +569,9 @@
     "remaju_cayalti_02072026",
     "remaju_eten_02072026",
     "remaju_lima_02072026",
-    "remaju_jose_leonardo_ortiz_02072026"
+    "remaju_jose_leonardo_ortiz_02072026",
+    "remaju_chorrillos_02072026",
+    "remaju_san_juan_de_lurigancho_02072026"
   ],
   "pronabi": []
 }
