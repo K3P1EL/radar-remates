@@ -72,9 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_san_juan_de_lurigancho_11062026",
-    "remaju_puente_piedra_11062026",
-    "remaju_nauta_11062026",
     "remaju_breña_11062026",
     "remaju_san_isidro_11062026",
     "remaju_magdalena_del_mar_11062026",
@@ -571,7 +568,10 @@
     "remaju_chincha_alta_03072026",
     "remaju_el_porvenir_03072026",
     "remaju_trujillo_03072026",
-    "remaju_paijan_04072026"
+    "remaju_paijan_04072026",
+    "remaju_oyotun_04072026",
+    "remaju_chepen_04072026",
+    "remaju_tacna_04072026"
   ],
   "pronabi": []
 }
