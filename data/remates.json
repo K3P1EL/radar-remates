@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-25 19:35",
-  "total": 6,
+  "last_update": "2026-06-25 21:19",
+  "total": 7,
   "nuevos": 0,
   "remates": [
     {
@@ -110,6 +110,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/COMERCIAL%20INDUSTRIAL%20SELVA.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/jun_loreto.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2220"
+    },
+    {
+      "id": "sunat_2226",
+      "fuente": "SUNAT",
+      "titulo": "PRIMER REMATE PÚBLICO/ SERVICIOS GENERALES PARA LA INDUSTRIA S.A.C",
+      "categoria": "vehiculos",
+      "precio_tasacion": 109040.0,
+      "precio_base": 72693.33,
+      "descuento_pct": 33,
+      "fecha": "22/06/2026",
+      "hora": "15:35",
+      "dependencia": "",
+      "expediente": "1210060030324",
+      "deudor": "",
+      "convocatoria": "1ra",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/SERVICIOS%20GENERALES%20PARA%20LA%20INDUSTRIA.jpg",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/jun_loreto_6.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/2226"
     }
   ]
 }
