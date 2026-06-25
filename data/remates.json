@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-25 12:08",
-  "total": 8,
+  "last_update": "2026-06-25 15:19",
+  "total": 7,
   "nuevos": 0,
   "remates": [
     {
@@ -20,24 +20,6 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/GUZMAN%20ESTRADA%20CARMELA.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-06/jun_loreto_5.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2225"
-    },
-    {
-      "id": "sunat_2075",
-      "fuente": "SUNAT",
-      "titulo": "Remate de vehículo - ITI Huacho.",
-      "categoria": "vehiculos",
-      "precio_tasacion": 86926.0,
-      "precio_base": 68381.78,
-      "descuento_pct": 21,
-      "fecha": "16/06/2026",
-      "hora": "11:30",
-      "dependencia": "Huacho",
-      "expediente": "1730060223569",
-      "deudor": "",
-      "convocatoria": "1ra",
-      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-05/Multimedia%20%28199%29.jpg",
-      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-05/INF%20DE%20DETALLE%20DEL%20ITEM%20VEHICULO.pdf",
-      "url": "https://rematestributarios.sunat.gob.pe/node/2075"
     },
     {
       "id": "sunat_2224",
