@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-26 13:51",
-  "total": 181,
+  "last_update": "2026-06-26 16:23",
+  "total": 179,
   "nuevos": 0,
   "remates": [
     {
@@ -2794,24 +2794,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_paucarpata_29062026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - PAUCARPATA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "29/06/2026",
-      "hora": "",
-      "dependencia": "PAUCARPATA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_viru_29062026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - VIRU",
@@ -2966,24 +2948,6 @@
       "fecha": "29/06/2026",
       "hora": "",
       "dependencia": "TARMA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_leonor_ordoñez_29062026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - LEONOR ORDOÑEZ",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "29/06/2026",
-      "hora": "",
-      "dependencia": "LEONOR ORDOÑEZ",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
