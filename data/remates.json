@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-26 21:45",
-  "total": 225,
-  "nuevos": 46,
+  "last_update": "2026-06-26 22:55",
+  "total": 224,
+  "nuevos": 31,
   "remates": [
     {
       "id": "sunat_2225",
@@ -2732,24 +2732,6 @@
       "fecha": "28/06/2026",
       "hora": "",
       "dependencia": "CUSCO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_chimbote_28062026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CHIMBOTE",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "28/06/2026",
-      "hora": "",
-      "dependencia": "CHIMBOTE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
