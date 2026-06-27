@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-26 22:55",
-  "total": 224,
-  "nuevos": 31,
+  "last_update": "2026-06-27 00:15",
+  "total": 223,
+  "nuevos": 16,
   "remates": [
     {
       "id": "sunat_2225",
@@ -1292,24 +1292,6 @@
       "fecha": "06/07/2026",
       "hora": "",
       "dependencia": "SAN JUAN DE LURIGANCHO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_mejia_06072026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - MEJIA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "06/07/2026",
-      "hora": "",
-      "dependencia": "MEJIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
