@@ -72,9 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_iquitos_14062026",
-    "remaju_moquegua_14062026",
-    "remaju_tarapoto_14062026",
     "remaju_subtanjalla_14062026",
     "remaju_el_porvenir_14062026",
     "remaju_yura_14062026",
@@ -571,7 +568,10 @@
     "remaju_santa_teresa_10072026",
     "remaju_jose_maria_quimper_10072026",
     "remaju_san_jeronimo_10072026",
-    "remaju_wanchaq_10072026"
+    "remaju_wanchaq_10072026",
+    "remaju_piura_10072026",
+    "remaju_castilla_10072026",
+    "remaju_ignacio_escudero_10072026"
   ],
   "pronabi": []
 }
