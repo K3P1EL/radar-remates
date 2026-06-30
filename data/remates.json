@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-06-30 12:25",
-  "total": 107,
-  "nuevos": 0,
+  "last_update": "2026-06-30 15:14",
+  "total": 108,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2225",
@@ -1886,6 +1886,24 @@
       "fecha": "06/07/2026",
       "hora": "",
       "dependencia": "PAUCARA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_la_esperanza_10072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LA ESPERANZA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "10/07/2026",
+      "hora": "",
+      "dependencia": "LA ESPERANZA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
