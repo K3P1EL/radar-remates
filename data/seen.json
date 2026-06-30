@@ -72,13 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_miraflores_14062026",
-    "remaju_san_isidro_14062026",
-    "remaju_jose_leonardo_ortiz_14062026",
-    "remaju_tumbes_14062026",
-    "remaju_comas_14062026",
-    "remaju_sullana_14062026",
-    "remaju_ventanilla_14062026",
     "remaju_san_jeronimo_14062026",
     "remaju_la_tinguiña_14062026",
     "remaju_yurimaguas_14062026",
@@ -571,7 +564,14 @@
     "remaju_miraflores_06072026",
     "remaju_omia_06072026",
     "remaju_paucara_06072026",
-    "remaju_la_esperanza_10072026"
+    "remaju_la_esperanza_10072026",
+    "remaju_ate_10072026",
+    "remaju_cabanaconde_10072026",
+    "remaju_comas_10072026",
+    "remaju_el_tambo_10072026",
+    "remaju_jacobo_hunter_10072026",
+    "remaju_characato_10072026",
+    "remaju_lima_10072026"
   ],
   "pronabi": []
 }
