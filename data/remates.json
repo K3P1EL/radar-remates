@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-01 15:15",
-  "total": 128,
-  "nuevos": 5,
+  "last_update": "2026-07-01 17:26",
+  "total": 129,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2225",
@@ -2210,6 +2210,24 @@
       "fecha": "10/07/2026",
       "hora": "",
       "dependencia": "LA ESPERANZA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_26_de_octubre_11072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - 26 DE OCTUBRE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "11/07/2026",
+      "hora": "",
+      "dependencia": "26 DE OCTUBRE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
