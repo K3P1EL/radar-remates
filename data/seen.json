@@ -72,8 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_chilca_14062026",
-    "remaju_barranquita_14062026",
     "remaju_san_martin_de_porres_14062026",
     "remaju_ica_14062026",
     "remaju_puente_piedra_14062026",
@@ -571,7 +569,9 @@
     "remaju_chilcaymarca_11072026",
     "remaju_subtanjalla_11072026",
     "remaju_san_clemente_11072026",
-    "remaju_independencia_11072026"
+    "remaju_independencia_11072026",
+    "remaju_parcona_11072026",
+    "remaju_san_borja_11072026"
   ],
   "pronabi": []
 }
