@@ -72,9 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_chimbote_14062026",
-    "remaju_san_juan_bautista_14062026",
-    "remaju_cajamarca_14062026",
     "remaju_chilca_14062026",
     "remaju_barranquita_14062026",
     "remaju_san_martin_de_porres_14062026",
@@ -571,7 +568,10 @@
     "remaju_el_agustino_11072026",
     "remaju_callao_11072026",
     "remaju_26_de_octubre_11072026",
-    "remaju_chilcaymarca_11072026"
+    "remaju_chilcaymarca_11072026",
+    "remaju_subtanjalla_11072026",
+    "remaju_san_clemente_11072026",
+    "remaju_independencia_11072026"
   ],
   "pronabi": []
 }
