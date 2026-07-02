@@ -72,9 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_parcona_14062026",
-    "remaju_san_sebastian_14062026",
-    "remaju_san_juan_de_lurigancho_14062026",
     "remaju_chicama_14062026",
     "remaju_huanuco_14062026",
     "remaju_la_esperanza_14062026",
@@ -571,7 +568,10 @@
     "remaju_puente_piedra_12072026",
     "remaju_trujillo_12072026",
     "remaju_santiago_de_surco_12072026",
-    "remaju_san_juan_de_lurigancho_12072026"
+    "remaju_san_juan_de_lurigancho_12072026",
+    "remaju_ica_12072026",
+    "remaju_san_sebastian_12072026",
+    "remaju_yurimaguas_12072026"
   ],
   "pronabi": []
 }
