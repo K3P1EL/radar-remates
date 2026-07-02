@@ -72,8 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_chicama_14062026",
-    "remaju_huanuco_14062026",
     "remaju_la_esperanza_14062026",
     "remaju_pisuquia_14062026",
     "remaju_andahuaylas_14062026",
@@ -571,7 +569,9 @@
     "remaju_san_juan_de_lurigancho_12072026",
     "remaju_ica_12072026",
     "remaju_san_sebastian_12072026",
-    "remaju_yurimaguas_12072026"
+    "remaju_yurimaguas_12072026",
+    "remaju_campoverde_12072026",
+    "remaju_campanilla_12072026"
   ],
   "pronabi": []
 }
