@@ -72,14 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_pisuquia_14062026",
-    "remaju_andahuaylas_14062026",
-    "remaju_manantay_14062026",
-    "remaju_salaverry_14062026",
-    "remaju_villa_maria_del_triunfo_14062026",
-    "remaju_moquegua_18062026",
-    "remaju_miraflores_18062026",
-    "remaju_san_isidro_18062026",
     "remaju_jose_leonardo_ortiz_18062026",
     "remaju_la_joya_15062026",
     "remaju_marco_15062026",
@@ -571,7 +563,15 @@
     "remaju_yurimaguas_12072026",
     "remaju_campoverde_12072026",
     "remaju_campanilla_12072026",
-    "remaju_san_andres_12072026"
+    "remaju_san_andres_12072026",
+    "remaju_calleria_12072026",
+    "remaju_chimbote_12072026",
+    "remaju_carabayllo_12072026",
+    "remaju_manantay_12072026",
+    "remaju_chiclayo_12072026",
+    "remaju_pisco_12072026",
+    "remaju_palcazu_12072026",
+    "remaju_viru_12072026"
   ],
   "pronabi": []
 }
