@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-03 17:00",
-  "total": 147,
-  "nuevos": 0,
+  "last_update": "2026-07-03 18:22",
+  "total": 148,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2225",
@@ -2516,6 +2516,24 @@
       "fecha": "12/07/2026",
       "hora": "",
       "dependencia": "VIRU",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_llalli_13072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LLALLI",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "13/07/2026",
+      "hora": "",
+      "dependencia": "LLALLI",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
