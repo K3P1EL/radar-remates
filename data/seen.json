@@ -72,9 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_junin_19062026",
-    "remaju_chincha_baja_19062026",
-    "remaju_chincha_alta_19062026",
     "remaju_nueva_cajamarca_19062026",
     "remaju_independencia_19062026",
     "remaju_chincha_baja_25062026",
@@ -571,7 +568,10 @@
     "remaju_comas_16072026",
     "remaju_santiago_de_surco_16072026",
     "remaju_villa_el_salvador_16072026",
-    "remaju_huaura_16072026"
+    "remaju_huaura_16072026",
+    "remaju_cayma_16072026",
+    "remaju_huaraz_16072026",
+    "remaju_sullana_16072026"
   ],
   "pronabi": []
 }
