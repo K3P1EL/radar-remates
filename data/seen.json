@@ -72,18 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_san_miguel_24062026",
-    "remaju_miraflores_24062026",
-    "remaju_rimac_24062026",
-    "remaju_puente_piedra_19062026",
-    "remaju_sullana_19062026",
-    "remaju_yurimaguas_19062026",
-    "remaju_buena_vista_alta_19062026",
-    "remaju_pisco_19062026",
-    "remaju_orcopampa_19062026",
-    "remaju_rupa-rupa_19062026",
-    "remaju_sullana_25062026",
-    "remaju_yurimaguas_25062026",
     "remaju_buena_vista_alta_25062026",
     "remaju_pisco_25062026",
     "remaju_junin_19062026",
@@ -571,7 +559,19 @@
     "remaju_yurimaguas_14072026",
     "remaju_pisco_14072026",
     "remaju_lurin_14072026",
-    "remaju_san_martin_de_porres_14072026"
+    "remaju_san_martin_de_porres_14072026",
+    "remaju_cajamarca_16072026",
+    "remaju_miraflores_16072026",
+    "remaju_tacna_16072026",
+    "remaju_chiclayo_16072026",
+    "remaju_surquillo_16072026",
+    "remaju_san_borja_16072026",
+    "remaju_viru_16072026",
+    "remaju_la_victoria_16072026",
+    "remaju_jayanca_16072026",
+    "remaju_san_martin_de_porres_16072026",
+    "remaju_comas_16072026",
+    "remaju_santiago_de_surco_16072026"
   ],
   "pronabi": []
 }
