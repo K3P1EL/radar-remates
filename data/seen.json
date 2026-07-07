@@ -72,14 +72,6 @@
     "sunat_2226"
   ],
   "remaju": [
-    "remaju_nueva_cajamarca_19062026",
-    "remaju_independencia_19062026",
-    "remaju_chincha_baja_25062026",
-    "remaju_chincha_alta_25062026",
-    "remaju_nueva_cajamarca_25062026",
-    "remaju_pilcomayo_20062026",
-    "remaju_san_juan_bautista_20062026",
-    "remaju_pilcomayo_25062026",
     "remaju_san_juan_bautista_25062026",
     "remaju_puente_piedra_20062026",
     "remaju_villa_el_salvador_20062026",
@@ -571,7 +563,15 @@
     "remaju_huaura_16072026",
     "remaju_cayma_16072026",
     "remaju_huaraz_16072026",
-    "remaju_sullana_16072026"
+    "remaju_sullana_16072026",
+    "remaju_lince_17072026",
+    "remaju_moquegua_17072026",
+    "remaju_breña_17072026",
+    "remaju_paucarpata_17072026",
+    "remaju_chiclayo_17072026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_17072026",
+    "remaju_jose_leonardo_ortiz_17072026",
+    "remaju_reque_17072026"
   ],
   "pronabi": []
 }
