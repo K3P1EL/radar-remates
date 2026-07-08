@@ -73,13 +73,6 @@
     "sunat_2229"
   ],
   "remaju": [
-    "remaju_subtanjalla_25062026",
-    "remaju_los_olivos_25062026",
-    "remaju_puente_piedra_25062026",
-    "remaju_san_hilarion_20062026",
-    "remaju_san_rafael_20062026",
-    "remaju_viru_20062026",
-    "remaju_la_perla_20062026",
     "remaju_26_de_octubre_20062026",
     "remaju_manantay_20062026",
     "remaju_alto_trujillo_20062026",
@@ -572,7 +565,14 @@
     "remaju_bellavista_17072026",
     "remaju_lima_17072026",
     "remaju_san_martin_de_porres_17072026",
-    "remaju_ica_18072026"
+    "remaju_ica_18072026",
+    "remaju_el_tambo_18072026",
+    "remaju_la_victoria_18072026",
+    "remaju_huancan_18072026",
+    "remaju_lima_18072026",
+    "remaju_breña_18072026",
+    "remaju_chiclayo_18072026",
+    "remaju_santiago_de_surco_18072026"
   ],
   "pronabi": []
 }
