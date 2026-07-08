@@ -70,17 +70,10 @@
     "sunat_2222",
     "sunat_2221",
     "sunat_2226",
-    "sunat_2229"
+    "sunat_2229",
+    "sunat_2238"
   ],
   "remaju": [
-    "remaju_26_de_octubre_20062026",
-    "remaju_manantay_20062026",
-    "remaju_alto_trujillo_20062026",
-    "remaju_lima_20062026",
-    "remaju_miraflores_20062026",
-    "remaju_breña_20062026",
-    "remaju_san_hilarion_25062026",
-    "remaju_san_rafael_25062026",
     "remaju_mejia_20062026",
     "remaju_mejia_25062026",
     "remaju_sullana_21062026",
@@ -572,7 +565,15 @@
     "remaju_lima_18072026",
     "remaju_breña_18072026",
     "remaju_chiclayo_18072026",
-    "remaju_santiago_de_surco_18072026"
+    "remaju_santiago_de_surco_18072026",
+    "remaju_urcos_18072026",
+    "remaju_carabayllo_18072026",
+    "remaju_lince_18072026",
+    "remaju_ate_18072026",
+    "remaju_san_juan_de_lurigancho_18072026",
+    "remaju_villa_maria_del_triunfo_18072026",
+    "remaju_la_molina_18072026",
+    "remaju_parcona_18072026"
   ],
   "pronabi": []
 }
