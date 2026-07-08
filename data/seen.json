@@ -74,14 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_sullana_21062026",
-    "remaju_san_juan_de_lurigancho_21062026",
-    "remaju_san_miguel_21062026",
-    "remaju_los_olivos_21062026",
-    "remaju_laredo_21062026",
-    "remaju_ocoqa_21062026",
-    "remaju_comandante_noel_21062026",
-    "remaju_comas_21062026",
     "remaju_la_tinguiña_21062026",
     "remaju_pueblo_nuevo_21062026",
     "remaju_pichanaqui_21062026",
@@ -573,7 +565,15 @@
     "remaju_la_molina_18072026",
     "remaju_parcona_18072026",
     "remaju_santa_ana_de_tusi_18072026",
-    "remaju_los_olivos_18072026"
+    "remaju_los_olivos_18072026",
+    "remaju_iquitos_18072026",
+    "remaju_sullana_18072026",
+    "remaju_satipo_18072026",
+    "remaju_chorrillos_18072026",
+    "remaju_eten_18072026",
+    "remaju_jose_leonardo_ortiz_18072026",
+    "remaju_manantay_18072026",
+    "remaju_cayalti_18072026"
   ],
   "pronabi": []
 }
