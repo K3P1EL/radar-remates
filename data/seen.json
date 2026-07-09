@@ -74,10 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_tumbes_21062026",
-    "remaju_islay_21062026",
-    "remaju_independencia_21062026",
-    "remaju_alto_selva_alegre_21062026",
     "remaju_nuevo_chimbote_21062026",
     "remaju_lima_21062026",
     "remaju_chulucanas_21062026",
@@ -573,7 +569,11 @@
     "remaju_yurimaguas_18072026",
     "remaju_punchana_19072026",
     "remaju_la_victoria_19072026",
-    "remaju_lambayeque_19072026"
+    "remaju_lambayeque_19072026",
+    "remaju_nuevo_chimbote_19072026",
+    "remaju_el_tambo_19072026",
+    "remaju_lima_19072026",
+    "remaju_chimbote_19072026"
   ],
   "pronabi": []
 }
