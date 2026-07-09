@@ -74,11 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_nuevo_chimbote_21062026",
-    "remaju_lima_21062026",
-    "remaju_chulucanas_21062026",
-    "remaju_yurimaguas_21062026",
-    "remaju_moquegua_21062026",
     "remaju_san_clemente_21062026",
     "remaju_yanaquihua_21062026",
     "remaju_casitas_21062026",
@@ -573,7 +568,12 @@
     "remaju_nuevo_chimbote_19072026",
     "remaju_el_tambo_19072026",
     "remaju_lima_19072026",
-    "remaju_chimbote_19072026"
+    "remaju_chimbote_19072026",
+    "remaju_carabayllo_19072026",
+    "remaju_lince_19072026",
+    "remaju_ate_19072026",
+    "remaju_san_juan_de_lurigancho_19072026",
+    "remaju_villa_maria_del_triunfo_19072026"
   ],
   "pronabi": []
 }
