@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-09 10:46",
-  "total": 175,
-  "nuevos": 0,
+  "last_update": "2026-07-09 13:38",
+  "total": 176,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_piura_10072026",
@@ -3128,6 +3128,24 @@
       "fecha": "18/07/2026",
       "hora": "",
       "dependencia": "SANTIAGO DE SURCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_punchana_19072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PUNCHANA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "19/07/2026",
+      "hora": "",
+      "dependencia": "PUNCHANA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
