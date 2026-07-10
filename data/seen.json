@@ -74,10 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_punchana_21062026",
-    "remaju_santiago_21062026",
-    "remaju_la_victoria_21062026",
-    "remaju_jaen_21062026",
     "remaju_san_martin_de_porres_25062026",
     "remaju_ocoqa_25062026",
     "remaju_san_miguel_25062026",
@@ -573,7 +569,11 @@
     "remaju_rimac_19072026",
     "remaju_ferreñafe_19072026",
     "remaju_viru_19072026",
-    "remaju_paucarpata_19072026"
+    "remaju_paucarpata_19072026",
+    "remaju_moquegua_20072026",
+    "remaju_marcara_20072026",
+    "remaju_san_juan_de_miraflores_20072026",
+    "remaju_iquitos_20072026"
   ],
   "pronabi": []
 }
