@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-10 17:11",
-  "total": 212,
-  "nuevos": 0,
+  "last_update": "2026-07-10 18:47",
+  "total": 213,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_piura_10072026",
@@ -3722,6 +3722,24 @@
       "fecha": "19/07/2026",
       "hora": "",
       "dependencia": "PAUCARPATA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_villa_el_salvador_20072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - VILLA EL SALVADOR",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "20/07/2026",
+      "hora": "",
+      "dependencia": "VILLA EL SALVADOR",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
