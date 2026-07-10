@@ -74,10 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_ocoqa_25062026",
-    "remaju_san_miguel_25062026",
-    "remaju_moquegua_22062026",
-    "remaju_coronel_gregorio_albarracin_lanchipa_22062026",
     "remaju_lima_22062026",
     "remaju_villa_el_salvador_22062026",
     "remaju_tarma_22062026",
@@ -573,7 +569,11 @@
     "remaju_marcara_20072026",
     "remaju_san_juan_de_miraflores_20072026",
     "remaju_iquitos_20072026",
-    "remaju_villa_el_salvador_20072026"
+    "remaju_villa_el_salvador_20072026",
+    "remaju_independencia_20072026",
+    "remaju_pisco_20072026",
+    "remaju_lima_20072026",
+    "remaju_el_agustino_20072026"
   ],
   "pronabi": []
 }
