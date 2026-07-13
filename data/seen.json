@@ -74,9 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_piura_22062026",
-    "remaju_san_juan_de_miraflores_22062026",
-    "remaju_jose_luis_bustamante_y_rivero_22062026",
     "remaju_corrales_22062026",
     "remaju_san_juan_de_lurigancho_22062026",
     "remaju_tacna_22062026",
@@ -573,7 +570,10 @@
     "remaju_trujillo_20072026",
     "remaju_moquegua_21072026",
     "remaju_san_juan_de_miraflores_21072026",
-    "remaju_comas_21072026"
+    "remaju_comas_21072026",
+    "remaju_yurimaguas_23072026",
+    "remaju_ocoqa_23072026",
+    "remaju_la_victoria_23072026"
   ],
   "pronabi": []
 }
