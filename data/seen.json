@@ -74,9 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_viru_02072026",
-    "remaju_lomas_25062026",
-    "remaju_magdalena_del_mar_25062026",
     "remaju_surquillo_25062026",
     "remaju_manantay_25062026",
     "remaju_chiclayo_25062026",
@@ -573,7 +570,10 @@
     "remaju_san_juan_de_lurigancho_24072026",
     "remaju_miraflores_24072026",
     "remaju_ciudad_nueva_24072026",
-    "remaju_chincha_alta_24072026"
+    "remaju_chincha_alta_24072026",
+    "remaju_san_miguel_24072026",
+    "remaju_chimbote_24072026",
+    "remaju_pacasmayo_24072026"
   ],
   "pronabi": []
 }
