@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-15 17:24",
-  "total": 143,
-  "nuevos": 1,
+  "last_update": "2026-07-15 18:40",
+  "total": 145,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_2229",
@@ -2560,6 +2560,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_calleria_25072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CALLERIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/07/2026",
+      "hora": "",
+      "dependencia": "CALLERIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_carabayllo_25072026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CARABAYLLO",
@@ -2570,6 +2588,24 @@
       "fecha": "25/07/2026",
       "hora": "",
       "dependencia": "CARABAYLLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_pueblo_nuevo_25072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PUEBLO NUEVO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "25/07/2026",
+      "hora": "",
+      "dependencia": "PUEBLO NUEVO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
