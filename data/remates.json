@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-15 19:54",
-  "total": 144,
+  "last_update": "2026-07-15 21:08",
+  "total": 143,
   "nuevos": 0,
   "remates": [
     {
@@ -176,24 +176,6 @@
       "fecha": "16/07/2026",
       "hora": "",
       "dependencia": "VIRU",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_jayanca_16072026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - JAYANCA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "16/07/2026",
-      "hora": "",
-      "dependencia": "JAYANCA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
