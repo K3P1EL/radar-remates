@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-16 22:40",
-  "total": 173,
-  "nuevos": 13,
+  "last_update": "2026-07-16 23:40",
+  "total": 172,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_2229",
@@ -2156,24 +2156,6 @@
       "fecha": "23/07/2026",
       "hora": "",
       "dependencia": "SAN MARTIN DE PORRES",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_lima_23072026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - LIMA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "23/07/2026",
-      "hora": "",
-      "dependencia": "LIMA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
