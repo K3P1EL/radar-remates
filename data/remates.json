@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-16 16:45",
-  "total": 143,
-  "nuevos": 0,
+  "last_update": "2026-07-16 17:56",
+  "total": 144,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2229",
@@ -2552,6 +2552,24 @@
       "fecha": "25/07/2026",
       "hora": "",
       "dependencia": "PUEBLO NUEVO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_huaral_26072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - HUARAL",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "26/07/2026",
+      "hora": "",
+      "dependencia": "HUARAL",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
