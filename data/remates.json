@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-16 21:39",
-  "total": 174,
-  "nuevos": 28,
+  "last_update": "2026-07-16 22:40",
+  "total": 173,
+  "nuevos": 13,
   "remates": [
     {
       "id": "sunat_2229",
@@ -932,24 +932,6 @@
       "fecha": "19/07/2026",
       "hora": "",
       "dependencia": "NUEVO CHIMBOTE",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_el_tambo_19072026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - EL TAMBO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "19/07/2026",
-      "hora": "",
-      "dependencia": "EL TAMBO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
