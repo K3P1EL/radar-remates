@@ -74,9 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_pisco_26062026",
-    "remaju_satipo_26062026",
-    "remaju_barranca_26062026",
     "remaju_chorrillos_26062026",
     "remaju_cerro_colorado_26062026",
     "remaju_ica_26062026",
@@ -573,7 +570,10 @@
     "remaju_pueblo_nuevo_25072026",
     "remaju_sullana_26072026",
     "remaju_huaral_26072026",
-    "remaju_chancay_26072026"
+    "remaju_chancay_26072026",
+    "remaju_trujillo_26072026",
+    "remaju_chiclayo_26072026",
+    "remaju_la_joya_26072026"
   ],
   "pronabi": []
 }
