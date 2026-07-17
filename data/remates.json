@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-17 18:36",
-  "total": 167,
-  "nuevos": 0,
+  "last_update": "2026-07-17 19:50",
+  "total": 168,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2229",
@@ -2894,6 +2894,24 @@
       "fecha": "26/07/2026",
       "hora": "",
       "dependencia": "VIRU",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_el_porvenir_27072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - EL PORVENIR",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/07/2026",
+      "hora": "",
+      "dependencia": "EL PORVENIR",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
