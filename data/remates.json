@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-18 20:58",
-  "total": 199,
-  "nuevos": 0,
+  "last_update": "2026-07-18 21:59",
+  "total": 200,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_965",
@@ -3578,6 +3578,24 @@
       "fecha": "27/07/2026",
       "hora": "",
       "dependencia": "BARRANCA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_el_agustino_28072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - EL AGUSTINO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "28/07/2026",
+      "hora": "",
+      "dependencia": "EL AGUSTINO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
