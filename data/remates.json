@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-20 20:42",
-  "total": 140,
-  "nuevos": 3,
+  "last_update": "2026-07-20 21:52",
+  "total": 141,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_965",
@@ -2246,6 +2246,24 @@
       "fecha": "29/07/2026",
       "hora": "",
       "dependencia": "SANTIAGO DE SURCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_los_aquijes_30072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LOS AQUIJES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/07/2026",
+      "hora": "",
+      "dependencia": "LOS AQUIJES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
