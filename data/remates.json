@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-20 21:52",
-  "total": 141,
+  "last_update": "2026-07-20 23:05",
+  "total": 142,
   "nuevos": 1,
   "remates": [
     {
@@ -2246,6 +2246,24 @@
       "fecha": "29/07/2026",
       "hora": "",
       "dependencia": "SANTIAGO DE SURCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_huaraz_30072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - HUARAZ",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/07/2026",
+      "hora": "",
+      "dependencia": "HUARAZ",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
