@@ -74,12 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_ventanilla_28062026",
-    "remaju_san_jeronimo_28062026",
-    "remaju_la_tinguiña_28062026",
-    "remaju_yurimaguas_28062026",
-    "remaju_la_victoria_28062026",
-    "remaju_pichanaqui_28062026",
     "remaju_iquitos_28062026",
     "remaju_tarapoto_28062026",
     "remaju_subtanjalla_28062026",
@@ -573,7 +567,13 @@
     "remaju_villa_el_salvador_30072026",
     "remaju_jose_leonardo_ortiz_30072026",
     "remaju_san_juan_de_lurigancho_30072026",
-    "remaju_lima_30072026"
+    "remaju_lima_30072026",
+    "remaju_puno_30072026",
+    "remaju_castilla_30072026",
+    "remaju_huanuco_30072026",
+    "remaju_huayllay_30072026",
+    "remaju_carabayllo_30072026",
+    "remaju_amarilis_30072026"
   ],
   "pronabi": []
 }
