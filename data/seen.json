@@ -74,9 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_paucarpata_29062026",
-    "remaju_imperial_29062026",
-    "remaju_coronel_gregorio_albarracin_lanchipa_29062026",
     "remaju_chimbote_29062026",
     "remaju_nuevo_chimbote_29062026",
     "remaju_santiago_de_surco_29062026",
@@ -573,7 +570,10 @@
     "remaju_magdalena_del_mar_31072026",
     "remaju_san_juan_de_lurigancho_31072026",
     "remaju_manantay_31072026",
-    "remaju_chimbote_31072026"
+    "remaju_chimbote_31072026",
+    "remaju_miraflores_31072026",
+    "remaju_carabayllo_31072026",
+    "remaju_chorrillos_31072026"
   ],
   "pronabi": []
 }
