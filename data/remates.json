@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-21 21:18",
-  "total": 133,
-  "nuevos": 2,
+  "last_update": "2026-07-21 22:29",
+  "total": 134,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2077",
@@ -2120,6 +2120,24 @@
       "fecha": "30/07/2026",
       "hora": "",
       "dependencia": "LIMA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_vicente_de_cañete_31072026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN VICENTE DE CAÑETE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "31/07/2026",
+      "hora": "",
+      "dependencia": "SAN VICENTE DE CAÑETE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
