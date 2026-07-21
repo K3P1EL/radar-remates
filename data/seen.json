@@ -74,9 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_chimbote_29062026",
-    "remaju_nuevo_chimbote_29062026",
-    "remaju_santiago_de_surco_29062026",
     "remaju_la_molina_29062026",
     "remaju_castilla_29062026",
     "remaju_bagua_29062026",
@@ -573,7 +570,10 @@
     "remaju_chimbote_31072026",
     "remaju_miraflores_31072026",
     "remaju_carabayllo_31072026",
-    "remaju_chorrillos_31072026"
+    "remaju_chorrillos_31072026",
+    "remaju_camana_31072026",
+    "remaju_santiago_31072026",
+    "remaju_requena_31072026"
   ],
   "pronabi": []
 }
