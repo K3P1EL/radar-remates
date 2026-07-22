@@ -74,13 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_chorrillos_29062026",
-    "remaju_pisco_29062026",
-    "remaju_paita_29062026",
-    "remaju_la_joya_29062026",
-    "remaju_marco_29062026",
-    "remaju_pancan_29062026",
-    "remaju_tarma_29062026",
     "remaju_leonor_ordoñez_29062026",
     "remaju_san_martin_de_porres_29062026",
     "remaju_lima_29062026",
@@ -573,7 +566,14 @@
     "remaju_san_martin_de_porres_31072026",
     "remaju_san_vicente_de_cañete_31072026",
     "remaju_la_victoria_01082026",
-    "remaju_piura_01082026"
+    "remaju_piura_01082026",
+    "remaju_trujillo_01082026",
+    "remaju_puno_01082026",
+    "remaju_miraflores_01082026",
+    "remaju_tacna_01082026",
+    "remaju_viru_01082026",
+    "remaju_san_martin_de_porres_01082026",
+    "remaju_santiago_de_surco_01082026"
   ],
   "pronabi": []
 }
