@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-22 17:43",
-  "total": 131,
+  "last_update": "2026-07-22 18:49",
+  "total": 132,
   "nuevos": 1,
   "remates": [
     {
@@ -38,6 +38,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2024-10/CANO.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-07/INF%20DE%20DETALLE%20DEL%20%20ITEM%2011082026.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/964"
+    },
+    {
+      "id": "remaju_piura_01082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PIURA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "01/08/2026",
+      "hora": "",
+      "dependencia": "PIURA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_la_victoria_01082026",
