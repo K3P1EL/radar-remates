@@ -74,10 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_chiclayo_03072026",
-    "remaju_majes_03072026",
-    "remaju_la_molina_03072026",
-    "remaju_pichanaqui_03072026",
     "remaju_moquegua_03072026",
     "remaju_san_pablo_03072026",
     "remaju_jose_leonardo_ortiz_03072026",
@@ -573,7 +569,11 @@
     "remaju_eten_02082026",
     "remaju_manantay_02082026",
     "remaju_sullana_02082026",
-    "remaju_paucarpata_02082026"
+    "remaju_paucarpata_02082026",
+    "remaju_mariscal_caceres_03082026",
+    "remaju_yarinacocha_03082026",
+    "remaju_ramon_castilla_03082026",
+    "remaju_iquitos_03082026"
   ],
   "pronabi": []
 }
