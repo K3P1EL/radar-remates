@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-24 15:01",
-  "total": 170,
-  "nuevos": 4,
+  "last_update": "2026-07-24 16:59",
+  "total": 169,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_2077",
@@ -1112,24 +1112,6 @@
       "fecha": "24/07/2026",
       "hora": "",
       "dependencia": "ETEN",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_carabayllo_25072026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CARABAYLLO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "25/07/2026",
-      "hora": "",
-      "dependencia": "CARABAYLLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
