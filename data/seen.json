@@ -74,10 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_chimbote_03072026",
-    "remaju_chincha_baja_03072026",
-    "remaju_san_clemente_03072026",
-    "remaju_humay_03072026",
     "remaju_chiclayo_03072026",
     "remaju_majes_03072026",
     "remaju_la_molina_03072026",
@@ -573,7 +569,11 @@
     "remaju_chimbote_02082026",
     "remaju_san_clemente_02082026",
     "remaju_humay_02082026",
-    "remaju_chorrillos_02082026"
+    "remaju_chorrillos_02082026",
+    "remaju_eten_02082026",
+    "remaju_manantay_02082026",
+    "remaju_sullana_02082026",
+    "remaju_paucarpata_02082026"
   ],
   "pronabi": []
 }
