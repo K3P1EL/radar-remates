@@ -74,9 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_chincha_alta_03072026",
-    "remaju_el_porvenir_03072026",
-    "remaju_trujillo_03072026",
     "remaju_paijan_04072026",
     "remaju_oyotun_04072026",
     "remaju_chepen_04072026",
@@ -573,7 +570,10 @@
     "remaju_iquitos_03082026",
     "remaju_trujillo_03082026",
     "remaju_chivay_03082026",
-    "remaju_los_olivos_03082026"
+    "remaju_los_olivos_03082026",
+    "remaju_aplao_03082026",
+    "remaju_carabayllo_03082026",
+    "remaju_moquegua_03082026"
   ],
   "pronabi": []
 }
