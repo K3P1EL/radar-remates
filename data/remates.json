@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-27 20:39",
-  "total": 177,
-  "nuevos": 0,
+  "last_update": "2026-07-27 21:50",
+  "total": 178,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2077",
@@ -1022,6 +1022,24 @@
       "fecha": "04/08/2026",
       "hora": "",
       "dependencia": "IQUITOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_punta_de_bombon_06082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PUNTA DE BOMBON",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "06/08/2026",
+      "hora": "",
+      "dependencia": "PUNTA DE BOMBON",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
