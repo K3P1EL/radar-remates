@@ -74,8 +74,6 @@
     "sunat_2238"
   ],
   "remaju": [
-    "remaju_luyando_04072026",
-    "remaju_miraflores_04072026",
     "remaju_bella_union_04072026",
     "remaju_rimac_04072026",
     "remaju_ferreñafe_04072026",
@@ -573,7 +571,9 @@
     "remaju_paucarpata_09082026",
     "remaju_mariscal_caceres_09082026",
     "remaju_santiago_de_surco_09082026",
-    "remaju_parcona_09082026"
+    "remaju_parcona_09082026",
+    "remaju_el_porvenir_09082026",
+    "remaju_san_juan_de_miraflores_09082026"
   ],
   "pronabi": []
 }
