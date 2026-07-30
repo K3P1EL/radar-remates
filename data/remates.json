@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-30 14:23",
+  "last_update": "2026-07-30 16:08",
   "total": 93,
   "nuevos": 1,
   "remates": [
@@ -850,24 +850,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_mariscal_caceres_03082026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - MARISCAL CACERES",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "03/08/2026",
-      "hora": "",
-      "dependencia": "MARISCAL CACERES",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_yarinacocha_03082026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - YARINACOCHA",
@@ -1040,6 +1022,24 @@
       "fecha": "06/08/2026",
       "hora": "",
       "dependencia": "PUNTA DE BOMBON",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_mariscal_caceres_09082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MARISCAL CACERES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "09/08/2026",
+      "hora": "",
+      "dependencia": "MARISCAL CACERES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
