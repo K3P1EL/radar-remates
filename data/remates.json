@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-07-31 16:59",
-  "total": 82,
-  "nuevos": 2,
+  "last_update": "2026-07-31 18:40",
+  "total": 81,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_2077",
@@ -1172,24 +1172,6 @@
       "imagen": "",
       "pdf": "",
       "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "sunat_2238",
-      "fuente": "SUNAT",
-      "titulo": "PREDIO DENOMINADO QUITA JANAN UC 8_2208950_59352, UBICACIÓN: VALLE CALLEJON DE HUAYLAS, SECTOR: CHICNEY, DISTRITO: INDEPENDENCIA, PROVINCIA: HUARAZ, DEPARTAMENTO: ANCASH. Área: 0.0480 Hectáreas.",
-      "categoria": "inmuebles",
-      "precio_tasacion": 10080.0,
-      "precio_base": 0.0,
-      "descuento_pct": 0,
-      "fecha": "22/07/2026",
-      "hora": "11:30",
-      "dependencia": "",
-      "expediente": "1710060000657",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-07/Imagen_Tahua.png",
-      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-07/DETALLE%20DEL%20ITEM%20OFERTADO_2.pdf",
-      "url": "https://rematestributarios.sunat.gob.pe/node/2238"
     },
     {
       "id": "remaju_san_vicente_de_cañete_31072026",
