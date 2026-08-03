@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-03 14:04",
-  "total": 41,
-  "nuevos": 0,
+  "last_update": "2026-08-03 16:42",
+  "total": 42,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_aplao_03082026",
@@ -608,6 +608,24 @@
       "fecha": "11/08/2026",
       "hora": "",
       "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_alto_selva_alegre_13082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ALTO SELVA ALEGRE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "13/08/2026",
+      "hora": "",
+      "dependencia": "ALTO SELVA ALEGRE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
