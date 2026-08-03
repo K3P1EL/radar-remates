@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-03 21:35",
-  "total": 43,
-  "nuevos": 0,
+  "last_update": "2026-08-03 22:43",
+  "total": 44,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_aplao_03082026",
@@ -608,6 +608,24 @@
       "fecha": "11/08/2026",
       "hora": "",
       "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_ramon_13082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN RAMON",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "13/08/2026",
+      "hora": "",
+      "dependencia": "SAN RAMON",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
