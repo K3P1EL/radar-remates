@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-03 16:42",
-  "total": 42,
+  "last_update": "2026-08-03 18:29",
+  "total": 43,
   "nuevos": 1,
   "remates": [
     {
@@ -608,6 +608,24 @@
       "fecha": "11/08/2026",
       "hora": "",
       "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_comas_13082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - COMAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "13/08/2026",
+      "hora": "",
+      "dependencia": "COMAS",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
