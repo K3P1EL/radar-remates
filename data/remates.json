@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-04 17:59",
-  "total": 46,
+  "last_update": "2026-08-04 19:50",
+  "total": 47,
   "nuevos": 1,
   "remates": [
     {
@@ -536,6 +536,24 @@
       "fecha": "13/08/2026",
       "hora": "",
       "dependencia": "ALTO SELVA ALEGRE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_lurin_14082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LURIN",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "14/08/2026",
+      "hora": "",
+      "dependencia": "LURIN",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
