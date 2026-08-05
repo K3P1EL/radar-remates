@@ -89,11 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_santa_teresa_10072026",
-    "remaju_jose_maria_quimper_10072026",
-    "remaju_san_jeronimo_10072026",
-    "remaju_wanchaq_10072026",
-    "remaju_piura_10072026",
     "remaju_castilla_10072026",
     "remaju_ignacio_escudero_10072026",
     "remaju_majes_11072026",
@@ -588,7 +583,12 @@
     "remaju_pueblo_nuevo_14082026",
     "remaju_salaverry_14082026",
     "remaju_ventanilla_15082026",
-    "remaju_26_de_octubre_15082026"
+    "remaju_26_de_octubre_15082026",
+    "remaju_san_luis_de_shuaro_15082026",
+    "remaju_perene_15082026",
+    "remaju_humay_15082026",
+    "remaju_cayma_15082026",
+    "remaju_lince_15082026"
   ],
   "pronabi": []
 }
