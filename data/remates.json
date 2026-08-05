@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-05 16:48",
-  "total": 89,
-  "nuevos": 5,
+  "last_update": "2026-08-05 18:27",
+  "total": 91,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_punta_de_bombon_06082026",
@@ -1354,6 +1354,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_huaral_15082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - HUARAL",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/08/2026",
+      "hora": "",
+      "dependencia": "HUARAL",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_san_luis_de_shuaro_15082026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - SAN LUIS DE SHUARO",
@@ -1472,6 +1490,24 @@
       "fecha": "15/08/2026",
       "hora": "",
       "dependencia": "26 DE OCTUBRE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_carabayllo_15082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CARABAYLLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/08/2026",
+      "hora": "",
+      "dependencia": "CARABAYLLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",

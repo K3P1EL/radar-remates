@@ -89,8 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_castilla_10072026",
-    "remaju_ignacio_escudero_10072026",
     "remaju_majes_11072026",
     "remaju_nuevo_chimbote_11072026",
     "remaju_sechura_11072026",
@@ -588,7 +586,9 @@
     "remaju_perene_15082026",
     "remaju_humay_15082026",
     "remaju_cayma_15082026",
-    "remaju_lince_15082026"
+    "remaju_lince_15082026",
+    "remaju_huaral_15082026",
+    "remaju_carabayllo_15082026"
   ],
   "pronabi": []
 }
