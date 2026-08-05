@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-05 18:27",
-  "total": 91,
-  "nuevos": 2,
+  "last_update": "2026-08-05 20:11",
+  "total": 92,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_punta_de_bombon_06082026",
@@ -1508,6 +1508,24 @@
       "fecha": "15/08/2026",
       "hora": "",
       "dependencia": "CARABAYLLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_sullana_15082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SULLANA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/08/2026",
+      "hora": "",
+      "dependencia": "SULLANA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
