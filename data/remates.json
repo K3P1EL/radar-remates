@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-05 23:42",
-  "total": 110,
+  "last_update": "2026-08-06 01:08",
+  "total": 111,
   "nuevos": 1,
   "remates": [
     {
@@ -1346,6 +1346,24 @@
       "fecha": "14/08/2026",
       "hora": "",
       "dependencia": "PUEBLO NUEVO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_victor_larco_herrera_15082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - VICTOR LARCO HERRERA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "15/08/2026",
+      "hora": "",
+      "dependencia": "VICTOR LARCO HERRERA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
