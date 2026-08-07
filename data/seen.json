@@ -89,9 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_chimbote_13072026",
-    "remaju_nuevo_chimbote_13072026",
-    "remaju_sunampe_13072026",
     "remaju_trujillo_13072026",
     "remaju_nuevo_imperial_13072026",
     "remaju_victor_larco_herrera_13072026",
@@ -588,7 +585,10 @@
     "remaju_viru_16082026",
     "remaju_san_martin_de_porres_16082026",
     "remaju_santiago_de_surco_16082026",
-    "remaju_chimbote_16082026"
+    "remaju_chimbote_16082026",
+    "remaju_santiago_de_surco_17082026",
+    "remaju_paucarpata_17082026",
+    "remaju_chiclayo_17082026"
   ],
   "pronabi": []
 }
