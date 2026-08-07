@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-07 17:10",
-  "total": 140,
-  "nuevos": 2,
+  "last_update": "2026-08-07 18:04",
+  "total": 141,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_el_porvenir_09082026",
@@ -2390,6 +2390,24 @@
       "fecha": "17/08/2026",
       "hora": "",
       "dependencia": "CHICLAYO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_jose_17082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN JOSE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "17/08/2026",
+      "hora": "",
+      "dependencia": "SAN JOSE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
