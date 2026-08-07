@@ -1,26 +1,8 @@
 {
-  "last_update": "2026-08-07 03:40",
-  "total": 135,
-  "nuevos": 9,
+  "last_update": "2026-08-07 05:25",
+  "total": 134,
+  "nuevos": 0,
   "remates": [
-    {
-      "id": "remaju_punta_de_bombon_06082026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - PUNTA DE BOMBON",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "06/08/2026",
-      "hora": "",
-      "dependencia": "PUNTA DE BOMBON",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
     {
       "id": "remaju_el_porvenir_09082026",
       "fuente": "REMAJU",
