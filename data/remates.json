@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-07 19:18",
+  "last_update": "2026-08-07 20:08",
   "total": 141,
-  "nuevos": 0,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_el_porvenir_09082026",
@@ -1264,24 +1264,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_characato_14082026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CHARACATO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "14/08/2026",
-      "hora": "",
-      "dependencia": "CHARACATO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_lima_14082026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - LIMA",
@@ -2282,6 +2264,24 @@
       "fecha": "16/08/2026",
       "hora": "",
       "dependencia": "CHIMBOTE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_huaraz_17082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - HUARAZ",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "17/08/2026",
+      "hora": "",
+      "dependencia": "HUARAZ",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
