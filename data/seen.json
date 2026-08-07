@@ -89,8 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_nuevo_imperial_13072026",
-    "remaju_victor_larco_herrera_13072026",
     "remaju_san_juan_de_miraflores_13072026",
     "remaju_las_piedras_13072026",
     "remaju_san_jose_13072026",
@@ -588,7 +586,9 @@
     "remaju_santiago_de_surco_17082026",
     "remaju_paucarpata_17082026",
     "remaju_chiclayo_17082026",
-    "remaju_carabayllo_17082026"
+    "remaju_carabayllo_17082026",
+    "remaju_cerro_colorado_17082026",
+    "remaju_cajamarca_17082026"
   ],
   "pronabi": []
 }
