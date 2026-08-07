@@ -89,7 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_san_jose_13072026",
     "remaju_cayma_13072026",
     "remaju_cusco_13072026",
     "remaju_salas_13072026",
@@ -588,7 +587,8 @@
     "remaju_cerro_colorado_17082026",
     "remaju_cajamarca_17082026",
     "remaju_san_jose_17082026",
-    "remaju_huaraz_17082026"
+    "remaju_huaraz_17082026",
+    "remaju_ate_17082026"
   ],
   "pronabi": []
 }
