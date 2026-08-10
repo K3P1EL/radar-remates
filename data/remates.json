@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-10 18:36",
-  "total": 150,
-  "nuevos": 0,
+  "last_update": "2026-08-10 19:43",
+  "total": 151,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_bellavista_10082026",
@@ -2390,6 +2390,24 @@
       "fecha": "18/08/2026",
       "hora": "",
       "dependencia": "IQUITOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_andrés_avelino_cáceres_dorregaray_20082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ANDRÉS AVELINO CÁCERES DORREGARAY",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "20/08/2026",
+      "hora": "",
+      "dependencia": "ANDRÉS AVELINO CÁCERES DORREGARAY",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
