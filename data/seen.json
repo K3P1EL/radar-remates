@@ -89,8 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_comas_13072026",
-    "remaju_pisco_13072026",
     "remaju_yurimaguas_13072026",
     "remaju_los_aquijes_13072026",
     "remaju_sullana_13072026",
@@ -588,7 +586,9 @@
     "remaju_villa_maria_del_triunfo_17082026",
     "remaju_aplao_18082026",
     "remaju_los_olivos_18082026",
-    "remaju_iquitos_18082026"
+    "remaju_iquitos_18082026",
+    "remaju_chorrillos_20082026",
+    "remaju_lurin_20082026"
   ],
   "pronabi": []
 }
