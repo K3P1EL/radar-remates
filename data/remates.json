@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-10 15:41",
-  "total": 147,
-  "nuevos": 5,
+  "last_update": "2026-08-10 16:35",
+  "total": 148,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_bellavista_10082026",
@@ -2390,6 +2390,24 @@
       "fecha": "18/08/2026",
       "hora": "",
       "dependencia": "IQUITOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_castilla_20082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CASTILLA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "20/08/2026",
+      "hora": "",
+      "dependencia": "CASTILLA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
