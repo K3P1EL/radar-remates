@@ -89,8 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_ica_13072026",
-    "remaju_satipo_13072026",
     "remaju_viru_13072026",
     "remaju_castilla_13072026",
     "remaju_26_de_octubre_13072026",
@@ -588,7 +586,9 @@
     "remaju_santiago_de_surco_20082026",
     "remaju_san_borja_20082026",
     "remaju_rimac_20082026",
-    "remaju_castilla_20082026"
+    "remaju_castilla_20082026",
+    "remaju_san_jose_de_ticllas_20082026",
+    "remaju_lima_20082026"
   ],
   "pronabi": []
 }
