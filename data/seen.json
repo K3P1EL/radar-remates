@@ -89,11 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_yurimaguas_13072026",
-    "remaju_los_aquijes_13072026",
-    "remaju_sullana_13072026",
-    "remaju_la_victoria_13072026",
-    "remaju_subtanjalla_13072026",
     "remaju_breña_13072026",
     "remaju_ica_13072026",
     "remaju_satipo_13072026",
@@ -588,7 +583,12 @@
     "remaju_los_olivos_18082026",
     "remaju_iquitos_18082026",
     "remaju_chorrillos_20082026",
-    "remaju_lurin_20082026"
+    "remaju_lurin_20082026",
+    "remaju_huanuco_20082026",
+    "remaju_oyotun_20082026",
+    "remaju_santiago_de_surco_20082026",
+    "remaju_san_borja_20082026",
+    "remaju_rimac_20082026"
   ],
   "pronabi": []
 }
