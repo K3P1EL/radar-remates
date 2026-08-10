@@ -89,9 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_paita_13072026",
-    "remaju_marco_13072026",
-    "remaju_pancan_13072026",
     "remaju_tarma_13072026",
     "remaju_moquegua_13072026",
     "remaju_callao_13072026",
@@ -588,7 +585,10 @@
     "remaju_lima_20082026",
     "remaju_andrés_avelino_cáceres_dorregaray_20082026",
     "remaju_surquillo_20082026",
-    "remaju_chiclayo_20082026"
+    "remaju_chiclayo_20082026",
+    "remaju_san_martin_de_porres_20082026",
+    "remaju_iquitos_20082026",
+    "remaju_calleria_20082026"
   ],
   "pronabi": []
 }
