@@ -89,9 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_surquillo_16072026",
-    "remaju_san_borja_16072026",
-    "remaju_viru_16072026",
     "remaju_la_victoria_16072026",
     "remaju_jayanca_16072026",
     "remaju_san_martin_de_porres_16072026",
@@ -588,7 +585,10 @@
     "remaju_ocoqa_21082026",
     "remaju_florencia_de_mora_21082026",
     "remaju_san_juan_de_miraflores_21082026",
-    "remaju_iquitos_21082026"
+    "remaju_iquitos_21082026",
+    "remaju_el_carmen_21082026",
+    "remaju_ciudad_nueva_21082026",
+    "remaju_ate_21082026"
   ],
   "pronabi": []
 }
