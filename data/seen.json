@@ -89,10 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_nauta_13072026",
-    "remaju_anco_huallo_13072026",
-    "remaju_miraflores_13072026",
-    "remaju_santiago_de_surco_14072026",
     "remaju_el_agustino_14072026",
     "remaju_yurimaguas_14072026",
     "remaju_pisco_14072026",
@@ -588,7 +584,11 @@
     "remaju_sicuani_21082026",
     "remaju_san_isidro_27082026",
     "remaju_lima_27082026",
-    "remaju_sicuani_27082026"
+    "remaju_sicuani_27082026",
+    "remaju_rimac_21082026",
+    "remaju_santiago_de_surco_21082026",
+    "remaju_san_martin_de_porres_21082026",
+    "remaju_pichanaqui_21082026"
   ],
   "pronabi": []
 }
