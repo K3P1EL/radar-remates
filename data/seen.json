@@ -89,12 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_san_martin_de_porres_13072026",
-    "remaju_villa_maria_del_triunfo_13072026",
-    "remaju_chiclayo_13072026",
-    "remaju_lambayeque_13072026",
-    "remaju_cacatachi_13072026",
-    "remaju_puente_piedra_13072026",
     "remaju_nauta_13072026",
     "remaju_anco_huallo_13072026",
     "remaju_miraflores_13072026",
@@ -588,7 +582,13 @@
     "remaju_san_miguel_27082026",
     "remaju_pueblo_libre_27082026",
     "remaju_carabayllo_27082026",
-    "remaju_san_sebastian_26082026"
+    "remaju_san_sebastian_26082026",
+    "remaju_san_isidro_21082026",
+    "remaju_lima_21082026",
+    "remaju_sicuani_21082026",
+    "remaju_san_isidro_27082026",
+    "remaju_lima_27082026",
+    "remaju_sicuani_27082026"
   ],
   "pronabi": []
 }
