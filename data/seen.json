@@ -89,14 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_paracas_13072026",
-    "remaju_lima_13072026",
-    "remaju_la_joya_13072026",
-    "remaju_paucartambo_13072026",
-    "remaju_iguain_13072026",
-    "remaju_morropon_13072026",
-    "remaju_paijan_13072026",
-    "remaju_barranca_13072026",
     "remaju_san_martin_de_porres_13072026",
     "remaju_villa_maria_del_triunfo_13072026",
     "remaju_chiclayo_13072026",
@@ -588,7 +580,15 @@
     "remaju_calleria_20082026",
     "remaju_ocucaje_20082026",
     "remaju_el_agustino_20082026",
-    "remaju_san_sebastian_20082026"
+    "remaju_san_sebastian_20082026",
+    "remaju_san_miguel_21082026",
+    "remaju_pueblo_libre_21082026",
+    "remaju_carabayllo_21082026",
+    "remaju_lurigancho_21082026",
+    "remaju_san_miguel_27082026",
+    "remaju_pueblo_libre_27082026",
+    "remaju_carabayllo_27082026",
+    "remaju_san_sebastian_26082026"
   ],
   "pronabi": []
 }
