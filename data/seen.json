@@ -89,8 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_el_agustino_14072026",
-    "remaju_yurimaguas_14072026",
     "remaju_pisco_14072026",
     "remaju_lurin_14072026",
     "remaju_san_martin_de_porres_14072026",
@@ -588,7 +586,9 @@
     "remaju_rimac_21082026",
     "remaju_santiago_de_surco_21082026",
     "remaju_san_martin_de_porres_21082026",
-    "remaju_pichanaqui_21082026"
+    "remaju_pichanaqui_21082026",
+    "remaju_casma_21082026",
+    "remaju_grocio_prado_21082026"
   ],
   "pronabi": []
 }
