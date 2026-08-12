@@ -89,10 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_cayma_16072026",
-    "remaju_huaraz_16072026",
-    "remaju_sullana_16072026",
-    "remaju_lince_17072026",
     "remaju_moquegua_17072026",
     "remaju_breña_17072026",
     "remaju_paucarpata_17072026",
@@ -588,7 +584,11 @@
     "remaju_chiclayo_22082026",
     "remaju_punta_hermosa_22082026",
     "remaju_comandante_noel_22082026",
-    "remaju_pangoa_22082026"
+    "remaju_pangoa_22082026",
+    "remaju_villa_maria_del_triunfo_22082026",
+    "remaju_san_clemente_22082026",
+    "remaju_pacanga_22082026",
+    "remaju_pacasmayo_22082026"
   ],
   "pronabi": []
 }
