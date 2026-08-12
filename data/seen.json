@@ -89,11 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_coronel_gregorio_albarracin_lanchipa_17072026",
-    "remaju_jose_leonardo_ortiz_17072026",
-    "remaju_reque_17072026",
-    "remaju_jesus_maria_17072026",
-    "remaju_la_victoria_17072026",
     "remaju_santiago_17072026",
     "remaju_bellavista_17072026",
     "remaju_lima_17072026",
@@ -588,7 +583,12 @@
     "remaju_tacna_22082026",
     "remaju_chincha_alta_22082026",
     "remaju_sullana_22082026",
-    "remaju_el_porvenir_22082026"
+    "remaju_el_porvenir_22082026",
+    "remaju_asia_22082026",
+    "remaju_andahuaylas_22082026",
+    "remaju_san_miguel_22082026",
+    "remaju_mejia_22082026",
+    "remaju_amarilis_22082026"
   ],
   "pronabi": []
 }
