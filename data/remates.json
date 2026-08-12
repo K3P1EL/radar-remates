@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-12 22:20",
-  "total": 183,
-  "nuevos": 0,
+  "last_update": "2026-08-12 23:12",
+  "total": 184,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_surquillo_13082026",
@@ -2822,6 +2822,24 @@
       "fecha": "21/08/2026",
       "hora": "",
       "dependencia": "IQUITOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_huaraz_22082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - HUARAZ",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "22/08/2026",
+      "hora": "",
+      "dependencia": "HUARAZ",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
