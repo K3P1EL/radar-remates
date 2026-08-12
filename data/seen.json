@@ -89,9 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_moquegua_17072026",
-    "remaju_breña_17072026",
-    "remaju_paucarpata_17072026",
     "remaju_chiclayo_17072026",
     "remaju_coronel_gregorio_albarracin_lanchipa_17072026",
     "remaju_jose_leonardo_ortiz_17072026",
@@ -588,7 +585,10 @@
     "remaju_villa_maria_del_triunfo_22082026",
     "remaju_san_clemente_22082026",
     "remaju_pacanga_22082026",
-    "remaju_pacasmayo_22082026"
+    "remaju_pacasmayo_22082026",
+    "remaju_tacna_22082026",
+    "remaju_chincha_alta_22082026",
+    "remaju_sullana_22082026"
   ],
   "pronabi": []
 }
