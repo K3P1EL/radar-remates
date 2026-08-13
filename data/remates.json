@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 02:41",
-  "total": 185,
+  "last_update": "2026-08-13 04:32",
+  "total": 186,
   "nuevos": 1,
   "remates": [
     {
@@ -2822,6 +2822,24 @@
       "fecha": "21/08/2026",
       "hora": "",
       "dependencia": "IQUITOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_juan_de_lurigancho_22082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN JUAN DE LURIGANCHO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "22/08/2026",
+      "hora": "",
+      "dependencia": "SAN JUAN DE LURIGANCHO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
