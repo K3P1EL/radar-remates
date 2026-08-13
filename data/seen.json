@@ -90,12 +90,6 @@
     "sunat_2322"
   ],
   "remaju": [
-    "remaju_los_olivos_18072026",
-    "remaju_iquitos_18072026",
-    "remaju_sullana_18072026",
-    "remaju_satipo_18072026",
-    "remaju_chorrillos_18072026",
-    "remaju_eten_18072026",
     "remaju_jose_leonardo_ortiz_18072026",
     "remaju_manantay_18072026",
     "remaju_cayalti_18072026",
@@ -589,7 +583,13 @@
     "remaju_pisco_23082026",
     "remaju_lima_23082026",
     "remaju_barranco_23082026",
-    "remaju_morrope_23082026"
+    "remaju_morrope_23082026",
+    "remaju_tiabaya_23082026",
+    "remaju_sachaca_23082026",
+    "remaju_san_juan_de_miraflores_23082026",
+    "remaju_parcona_23082026",
+    "remaju_mariscal_caceres_23082026",
+    "remaju_paucarpata_23082026"
   ],
   "pronabi": []
 }
