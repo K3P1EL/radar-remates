@@ -89,10 +89,6 @@
     "sunat_2305"
   ],
   "remaju": [
-    "remaju_ica_18072026",
-    "remaju_el_tambo_18072026",
-    "remaju_la_victoria_18072026",
-    "remaju_huancan_18072026",
     "remaju_lima_18072026",
     "remaju_breña_18072026",
     "remaju_chiclayo_18072026",
@@ -588,7 +584,11 @@
     "remaju_huaraz_22082026",
     "remaju_ventanilla_22082026",
     "remaju_san_juan_de_lurigancho_22082026",
-    "remaju_puno_23082026"
+    "remaju_puno_23082026",
+    "remaju_chiclayo_23082026",
+    "remaju_san_ramon_23082026",
+    "remaju_trujillo_23082026",
+    "remaju_san_miguel_23082026"
   ],
   "pronabi": []
 }
