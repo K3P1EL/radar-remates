@@ -90,8 +90,6 @@
     "sunat_2322"
   ],
   "remaju": [
-    "remaju_santiago_de_surco_18072026",
-    "remaju_urcos_18072026",
     "remaju_carabayllo_18072026",
     "remaju_lince_18072026",
     "remaju_ate_18072026",
@@ -589,7 +587,9 @@
     "remaju_san_miguel_23082026",
     "remaju_san_luis_23082026",
     "remaju_pimentel_23082026",
-    "remaju_lambayeque_23082026"
+    "remaju_lambayeque_23082026",
+    "remaju_carabayllo_23082026",
+    "remaju_puente_piedra_23082026"
   ],
   "pronabi": []
 }
