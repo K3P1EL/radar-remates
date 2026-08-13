@@ -86,12 +86,10 @@
     "sunat_2310",
     "sunat_2309",
     "sunat_2308",
-    "sunat_2305"
+    "sunat_2305",
+    "sunat_2322"
   ],
   "remaju": [
-    "remaju_lima_18072026",
-    "remaju_breña_18072026",
-    "remaju_chiclayo_18072026",
     "remaju_santiago_de_surco_18072026",
     "remaju_urcos_18072026",
     "remaju_carabayllo_18072026",
@@ -588,7 +586,10 @@
     "remaju_chiclayo_23082026",
     "remaju_san_ramon_23082026",
     "remaju_trujillo_23082026",
-    "remaju_san_miguel_23082026"
+    "remaju_san_miguel_23082026",
+    "remaju_san_luis_23082026",
+    "remaju_pimentel_23082026",
+    "remaju_lambayeque_23082026"
   ],
   "pronabi": []
 }
