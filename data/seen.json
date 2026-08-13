@@ -90,9 +90,6 @@
     "sunat_2322"
   ],
   "remaju": [
-    "remaju_villa_maria_del_triunfo_18072026",
-    "remaju_la_molina_18072026",
-    "remaju_parcona_18072026",
     "remaju_santa_ana_de_tusi_18072026",
     "remaju_los_olivos_18072026",
     "remaju_iquitos_18072026",
@@ -589,7 +586,10 @@
     "remaju_la_molina_23082026",
     "remaju_callao_23082026",
     "remaju_san_isidro_23082026",
-    "remaju_el_carmen_23082026"
+    "remaju_el_carmen_23082026",
+    "remaju_pisco_23082026",
+    "remaju_lima_23082026",
+    "remaju_barranco_23082026"
   ],
   "pronabi": []
 }
