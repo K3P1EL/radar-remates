@@ -91,9 +91,6 @@
     "sunat_2329"
   ],
   "remaju": [
-    "remaju_punchana_19072026",
-    "remaju_la_victoria_19072026",
-    "remaju_lambayeque_19072026",
     "remaju_nuevo_chimbote_19072026",
     "remaju_el_tambo_19072026",
     "remaju_lima_19072026",
@@ -590,7 +587,10 @@
     "remaju_villa_maria_del_triunfo_24082026",
     "remaju_huancayo_24082026",
     "remaju_chorrillos_24082026",
-    "remaju_san_juan_bautista_24082026"
+    "remaju_san_juan_bautista_24082026",
+    "remaju_la_tinguiña_24082026",
+    "remaju_lima_24082026",
+    "remaju_el_agustino_24082026"
   ],
   "pronabi": []
 }
