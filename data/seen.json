@@ -91,10 +91,6 @@
     "sunat_2329"
   ],
   "remaju": [
-    "remaju_cayalti_18072026",
-    "remaju_arequipa_18072026",
-    "remaju_paucarpata_18072026",
-    "remaju_yurimaguas_18072026",
     "remaju_punchana_19072026",
     "remaju_la_victoria_19072026",
     "remaju_lambayeque_19072026",
@@ -590,7 +586,11 @@
     "remaju_mariscal_caceres_23082026",
     "remaju_paucarpata_23082026",
     "remaju_parcona_24082026",
-    "remaju_iquitos_24082026"
+    "remaju_iquitos_24082026",
+    "remaju_villa_maria_del_triunfo_24082026",
+    "remaju_huancayo_24082026",
+    "remaju_chorrillos_24082026",
+    "remaju_san_juan_bautista_24082026"
   ],
   "pronabi": []
 }
