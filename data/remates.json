@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-14 16:35",
-  "total": 207,
-  "nuevos": 3,
+  "last_update": "2026-08-14 17:40",
+  "total": 208,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_salaverry_14082026",
@@ -3560,6 +3560,24 @@
       "fecha": "23/08/2026",
       "hora": "",
       "dependencia": "SAN MIGUEL",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_alto_trujillo_24082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ALTO TRUJILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "24/08/2026",
+      "hora": "",
+      "dependencia": "ALTO TRUJILLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
