@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-15 14:01",
-  "total": 214,
-  "nuevos": 0,
+  "last_update": "2026-08-15 14:34",
+  "total": 215,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_salaverry_14082026",
@@ -3854,6 +3854,24 @@
       "imagen": "",
       "pdf": "",
       "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "sunat_2343",
+      "fuente": "SUNAT",
+      "titulo": "ASENTAMIENTO HUMANO LAS CASUARINAS DE CARABAYLLO MZ. U LOTE 4",
+      "categoria": "inmuebles",
+      "precio_tasacion": 183466.65,
+      "precio_base": 0.0,
+      "descuento_pct": 0,
+      "fecha": "27/08/2026",
+      "hora": "15:12",
+      "dependencia": "",
+      "expediente": "0730060125272",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/4%20VILCHERRES%20LLONTOP.png",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/Aviso%20VILCHERRES.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/2343"
     }
   ]
 }
