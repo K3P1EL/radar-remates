@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 23:40",
-  "total": 214,
+  "last_update": "2026-08-15 00:04",
+  "total": 213,
   "nuevos": 0,
   "remates": [
     {
@@ -1094,24 +1094,6 @@
       "fecha": "15/08/2026",
       "hora": "",
       "dependencia": "LINCE",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_ventanilla_15082026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - VENTANILLA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "15/08/2026",
-      "hora": "",
-      "dependencia": "VENTANILLA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
