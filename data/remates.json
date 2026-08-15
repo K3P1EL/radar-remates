@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-15 00:04",
-  "total": 213,
-  "nuevos": 0,
+  "last_update": "2026-08-15 01:51",
+  "total": 214,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_salaverry_14082026",
@@ -3524,6 +3524,24 @@
       "fecha": "23/08/2026",
       "hora": "",
       "dependencia": "SAN MIGUEL",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_comas_24082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - COMAS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "24/08/2026",
+      "hora": "",
+      "dependencia": "COMAS",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
