@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-17 15:43",
-  "total": 128,
+  "last_update": "2026-08-17 16:02",
+  "total": 129,
   "nuevos": 1,
   "remates": [
     {
@@ -2216,6 +2216,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/4%20VILCHERRES%20LLONTOP.png",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/Aviso%20VILCHERRES.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2343"
+    },
+    {
+      "id": "remaju_orcopampa_27082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ORCOPAMPA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/08/2026",
+      "hora": "",
+      "dependencia": "ORCOPAMPA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_pampacolca_27082026",
