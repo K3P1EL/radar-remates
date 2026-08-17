@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-17 20:46",
-  "total": 137,
-  "nuevos": 4,
+  "last_update": "2026-08-17 22:02",
+  "total": 139,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_villa_maria_del_triunfo_17082026",
@@ -2198,6 +2198,42 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/4%20VILCHERRES%20LLONTOP.png",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/Aviso%20VILCHERRES.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2343"
+    },
+    {
+      "id": "remaju_nazca_27082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - NAZCA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/08/2026",
+      "hora": "",
+      "dependencia": "NAZCA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_pimentel_27082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PIMENTEL",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/08/2026",
+      "hora": "",
+      "dependencia": "PIMENTEL",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_la_victoria_27082026",
