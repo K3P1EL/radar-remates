@@ -92,10 +92,6 @@
     "sunat_2343"
   ],
   "remaju": [
-    "remaju_el_porvenir_19072026",
-    "remaju_chincha_alta_19072026",
-    "remaju_la_molina_19072026",
-    "remaju_pichanaqui_19072026",
     "remaju_moquegua_19072026",
     "remaju_marcara_19072026",
     "remaju_jose_leonardo_ortiz_19072026",
@@ -591,7 +587,11 @@
     "remaju_san_juan_de_lurigancho_27082026",
     "remaju_villa_maria_del_triunfo_27082026",
     "remaju_pampacolca_27082026",
-    "remaju_orcopampa_27082026"
+    "remaju_orcopampa_27082026",
+    "remaju_paracas_27082026",
+    "remaju_uraca_27082026",
+    "remaju_chimbote_27082026",
+    "remaju_mazamari_27082026"
   ],
   "pronabi": []
 }
