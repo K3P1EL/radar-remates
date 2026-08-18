@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-18 17:52",
-  "total": 138,
-  "nuevos": 1,
+  "last_update": "2026-08-18 18:51",
+  "total": 140,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_aplao_18082026",
@@ -2362,6 +2362,24 @@
       "url": "https://rematestributarios.sunat.gob.pe/node/2322"
     },
     {
+      "id": "remaju_pillco_marca_28082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PILLCO MARCA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "28/08/2026",
+      "hora": "",
+      "dependencia": "PILLCO MARCA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_puente_piedra_28082026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - PUENTE PIEDRA",
@@ -2462,6 +2480,24 @@
       "fecha": "28/08/2026",
       "hora": "",
       "dependencia": "IQUITOS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_trujillo_28082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TRUJILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "28/08/2026",
+      "hora": "",
+      "dependencia": "TRUJILLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
