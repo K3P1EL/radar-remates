@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-18 17:14",
-  "total": 137,
-  "nuevos": 3,
+  "last_update": "2026-08-18 17:52",
+  "total": 138,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_aplao_18082026",
@@ -2360,6 +2360,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/hernandez%20tenorio.jpg",
       "pdf": "",
       "url": "https://rematestributarios.sunat.gob.pe/node/2322"
+    },
+    {
+      "id": "remaju_puente_piedra_28082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PUENTE PIEDRA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "28/08/2026",
+      "hora": "",
+      "dependencia": "PUENTE PIEDRA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_jose_luis_bustamante_y_rivero_28082026",
