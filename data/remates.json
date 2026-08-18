@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-18 14:57",
-  "total": 133,
+  "last_update": "2026-08-18 15:17",
+  "total": 134,
   "nuevos": 1,
   "remates": [
     {
@@ -2378,6 +2378,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/hernandez%20tenorio.jpg",
       "pdf": "",
       "url": "https://rematestributarios.sunat.gob.pe/node/2322"
+    },
+    {
+      "id": "remaju_jesus_maria_28082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - JESUS MARIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "28/08/2026",
+      "hora": "",
+      "dependencia": "JESUS MARIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_iquitos_28082026",
