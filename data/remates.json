@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-18 22:00",
-  "total": 142,
+  "last_update": "2026-08-18 22:35",
+  "total": 143,
   "nuevos": 1,
   "remates": [
     {
@@ -2324,6 +2324,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/hernandez%20tenorio.jpg",
       "pdf": "",
       "url": "https://rematestributarios.sunat.gob.pe/node/2322"
+    },
+    {
+      "id": "remaju_el_agustino_28082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - EL AGUSTINO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "28/08/2026",
+      "hora": "",
+      "dependencia": "EL AGUSTINO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_breña_28082026",
