@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-19 18:01",
-  "total": 147,
-  "nuevos": 2,
+  "last_update": "2026-08-19 18:52",
+  "total": 148,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_san_sebastian_20082026",
@@ -2534,6 +2534,24 @@
       "fecha": "28/08/2026",
       "hora": "",
       "dependencia": "CHIMBOTE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_trujillo_29082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TRUJILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "29/08/2026",
+      "hora": "",
+      "dependencia": "TRUJILLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
