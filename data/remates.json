@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-20 19:48",
-  "total": 158,
-  "nuevos": 0,
+  "last_update": "2026-08-20 20:36",
+  "total": 159,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_san_sebastian_20082026",
@@ -2714,6 +2714,24 @@
       "fecha": "29/08/2026",
       "hora": "",
       "dependencia": "SAN RAMON",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_independencia_30082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - INDEPENDENCIA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/08/2026",
+      "hora": "",
+      "dependencia": "INDEPENDENCIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
