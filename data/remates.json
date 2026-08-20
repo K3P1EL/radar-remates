@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-20 21:46",
+  "last_update": "2026-08-20 22:34",
   "total": 199,
-  "nuevos": 25,
+  "nuevos": 10,
   "remates": [
     {
       "id": "remaju_san_sebastian_20082026",
@@ -2722,6 +2722,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_chiclayo_30082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CHICLAYO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/08/2026",
+      "hora": "",
+      "dependencia": "CHICLAYO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_carabayllo_30082026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CARABAYLLO",
@@ -2948,24 +2966,6 @@
       "fecha": "30/08/2026",
       "hora": "",
       "dependencia": "MANANTAY",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_chiclayo_30082026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - CHICLAYO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "30/08/2026",
-      "hora": "",
-      "dependencia": "CHICLAYO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",

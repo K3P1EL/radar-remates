@@ -95,16 +95,6 @@
     "sunat_2348"
   ],
   "remaju": [
-    "remaju_huacho_26072026",
-    "remaju_calleria_26072026",
-    "remaju_carabayllo_26072026",
-    "remaju_yurimaguas_26072026",
-    "remaju_san_andres_26072026",
-    "remaju_campoverde_26072026",
-    "remaju_campanilla_26072026",
-    "remaju_ica_26072026",
-    "remaju_puente_piedra_26072026",
-    "remaju_san_juan_de_lurigancho_26072026",
     "remaju_parcona_26072026",
     "remaju_subtanjalla_26072026",
     "remaju_san_clemente_26072026",
@@ -594,7 +584,17 @@
     "remaju_lima_30082026",
     "remaju_chimbote_30082026",
     "remaju_nuevo_chimbote_30082026",
-    "remaju_la_perla_30082026"
+    "remaju_la_perla_30082026",
+    "remaju_moquegua_30082026",
+    "remaju_chancay_30082026",
+    "remaju_sullana_30082026",
+    "remaju_lurigancho_30082026",
+    "remaju_pacasmayo_30082026",
+    "remaju_ciudad_nueva_30082026",
+    "remaju_andahuaylas_30082026",
+    "remaju_san_juan_de_lurigancho_30082026",
+    "remaju_jose_leonardo_ortiz_30082026",
+    "remaju_eten_30082026"
   ],
   "pronabi": []
 }
