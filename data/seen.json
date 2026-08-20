@@ -95,8 +95,6 @@
     "sunat_2348"
   ],
   "remaju": [
-    "remaju_sullana_20072026",
-    "remaju_florencia_de_mora_20072026",
     "remaju_el_porvenir_20072026",
     "remaju_la_esperanza_20072026",
     "remaju_trujillo_20072026",
@@ -594,7 +592,9 @@
     "remaju_santiago_de_surco_29082026",
     "remaju_san_ramon_29082026",
     "remaju_chimbote_29082026",
-    "remaju_paucarpata_29082026"
+    "remaju_paucarpata_29082026",
+    "remaju_san_juan_bautista_30082026",
+    "remaju_ayacucho_30082026"
   ],
   "pronabi": []
 }
