@@ -98,16 +98,11 @@
     "sunat_2364",
     "sunat_2363",
     "sunat_2362",
-    "sunat_2366"
+    "sunat_2366",
+    "sunat_2368",
+    "sunat_2367"
   ],
   "remaju": [
-    "remaju_san_martin_de_porres_26072026",
-    "remaju_cabanaconde_26072026",
-    "remaju_comas_26072026",
-    "remaju_characato_26072026",
-    "remaju_lima_26072026",
-    "remaju_la_esperanza_26072026",
-    "remaju_manantay_26072026",
     "remaju_palcazu_26072026",
     "remaju_viru_26072026",
     "remaju_punta_de_bombon_26072026",
@@ -600,7 +595,14 @@
     "remaju_chiclayo_31082026",
     "remaju_dean_valdivia_31082026",
     "remaju_santiago_de_surco_31082026",
-    "remaju_trujillo_31082026"
+    "remaju_trujillo_31082026",
+    "remaju_arequipa_31082026",
+    "remaju_huaraz_31082026",
+    "remaju_cerro_colorado_31082026",
+    "remaju_cajamarca_31082026",
+    "remaju_lince_31082026",
+    "remaju_chincha_alta_31082026",
+    "remaju_san_jose_31082026"
   ],
   "pronabi": []
 }
