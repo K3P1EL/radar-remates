@@ -97,12 +97,10 @@
     "sunat_2360",
     "sunat_2364",
     "sunat_2363",
-    "sunat_2362"
+    "sunat_2362",
+    "sunat_2366"
   ],
   "remaju": [
-    "remaju_independencia_26072026",
-    "remaju_chilcaymarca_26072026",
-    "remaju_26_de_octubre_26072026",
     "remaju_nuevo_chimbote_26072026",
     "remaju_sechura_26072026",
     "remaju_callao_26072026",
@@ -599,7 +597,10 @@
     "remaju_eten_30082026",
     "remaju_ate_31082026",
     "remaju_choras_31082026",
-    "remaju_san_borja_31082026"
+    "remaju_san_borja_31082026",
+    "remaju_chilca_31082026",
+    "remaju_nueva_cajamarca_31082026",
+    "remaju_chiclayo_31082026"
   ],
   "pronabi": []
 }
