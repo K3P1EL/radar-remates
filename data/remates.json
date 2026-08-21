@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-21 14:08",
-  "total": 184,
-  "nuevos": 1,
+  "last_update": "2026-08-21 14:55",
+  "total": 183,
+  "nuevos": 0,
   "remates": [
     {
       "id": "remaju_el_carmen_21082026",
@@ -1166,24 +1166,6 @@
       "fecha": "23/08/2026",
       "hora": "",
       "dependencia": "TRUJILLO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_san_juan_de_miraflores_23082026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SAN JUAN DE MIRAFLORES",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "23/08/2026",
-      "hora": "",
-      "dependencia": "SAN JUAN DE MIRAFLORES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
