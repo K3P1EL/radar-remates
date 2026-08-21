@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-21 21:03",
-  "total": 202,
-  "nuevos": 9,
+  "last_update": "2026-08-21 21:42",
+  "total": 203,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2368",
@@ -3344,6 +3344,24 @@
       "fecha": "30/08/2026",
       "hora": "",
       "dependencia": "ETEN",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_pampacolca_31082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PAMPACOLCA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "31/08/2026",
+      "hora": "",
+      "dependencia": "PAMPACOLCA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
