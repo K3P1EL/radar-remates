@@ -92,10 +92,11 @@
     "sunat_2343",
     "sunat_2354",
     "sunat_2349",
-    "sunat_2348"
+    "sunat_2348",
+    "sunat_2361",
+    "sunat_2360"
   ],
   "remaju": [
-    "remaju_subtanjalla_26072026",
     "remaju_san_clemente_26072026",
     "remaju_independencia_26072026",
     "remaju_chilcaymarca_26072026",
@@ -594,7 +595,8 @@
     "remaju_san_juan_de_lurigancho_30082026",
     "remaju_jose_leonardo_ortiz_30082026",
     "remaju_eten_30082026",
-    "remaju_ate_31082026"
+    "remaju_ate_31082026",
+    "remaju_choras_31082026"
   ],
   "pronabi": []
 }
