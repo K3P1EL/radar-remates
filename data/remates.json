@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-21 17:35",
-  "total": 184,
-  "nuevos": 3,
+  "last_update": "2026-08-21 18:13",
+  "total": 185,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2361",
@@ -3308,6 +3308,24 @@
       "fecha": "31/08/2026",
       "hora": "",
       "dependencia": "ATE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_borja_31082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN BORJA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "31/08/2026",
+      "hora": "",
+      "dependencia": "SAN BORJA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
