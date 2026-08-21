@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-21 13:16",
+  "last_update": "2026-08-21 14:08",
   "total": 184,
-  "nuevos": 0,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_el_carmen_21082026",
@@ -2434,24 +2434,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_san_ramon_29082026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SAN RAMON",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "29/08/2026",
-      "hora": "",
-      "dependencia": "SAN RAMON",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_chiclayo_30082026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CHICLAYO",
@@ -3308,6 +3290,24 @@
       "fecha": "30/08/2026",
       "hora": "",
       "dependencia": "ETEN",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_ate_31082026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - ATE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "31/08/2026",
+      "hora": "",
+      "dependencia": "ATE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
