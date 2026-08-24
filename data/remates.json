@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-23 23:59",
-  "total": 204,
-  "nuevos": 0,
+  "last_update": "2026-08-24 01:52",
+  "total": 205,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2368",
@@ -158,6 +158,24 @@
       "fecha": "01/09/2026",
       "hora": "",
       "dependencia": "APLAO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_nepeña_02092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - NEPEÑA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "02/09/2026",
+      "hora": "",
+      "dependencia": "NEPEÑA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
