@@ -103,9 +103,6 @@
     "sunat_2367"
   ],
   "remaju": [
-    "remaju_chincha_alta_27072026",
-    "remaju_el_porvenir_27072026",
-    "remaju_chimbote_27072026",
     "remaju_ventanilla_27072026",
     "remaju_puerto_bermudez_27072026",
     "remaju_carhuamayo_27072026",
@@ -602,7 +599,10 @@
     "remaju_nuevo_chimbote_03092026",
     "remaju_san_miguel_03092026",
     "remaju_independencia_03092026",
-    "remaju_lurin_03092026"
+    "remaju_lurin_03092026",
+    "remaju_santiago_03092026",
+    "remaju_huanuco_03092026",
+    "remaju_wanchaq_03092026"
   ],
   "pronabi": []
 }
