@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-25 15:50",
-  "total": 136,
+  "last_update": "2026-08-25 16:45",
+  "total": 137,
   "nuevos": 1,
   "remates": [
     {
@@ -356,6 +356,24 @@
       "fecha": "03/09/2026",
       "hora": "",
       "dependencia": "RIMAC",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_carabayllo_04092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CARABAYLLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "04/09/2026",
+      "hora": "",
+      "dependencia": "CARABAYLLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
