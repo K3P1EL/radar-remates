@@ -103,12 +103,6 @@
     "sunat_2367"
   ],
   "remaju": [
-    "remaju_puerto_bermudez_27072026",
-    "remaju_carhuamayo_27072026",
-    "remaju_carabayllo_27072026",
-    "remaju_salaverry_27072026",
-    "remaju_san_juan_de_lurigancho_27072026",
-    "remaju_imperial_27072026",
     "remaju_coronel_gregorio_albarracin_lanchipa_27072026",
     "remaju_trujillo_27072026",
     "remaju_nuevo_imperial_27072026",
@@ -602,7 +596,13 @@
     "remaju_santiago_03092026",
     "remaju_huanuco_03092026",
     "remaju_wanchaq_03092026",
-    "remaju_cusco_03092026"
+    "remaju_cusco_03092026",
+    "remaju_san_juan_bautista_04092026",
+    "remaju_chorrillos_04092026",
+    "remaju_iquitos_04092026",
+    "remaju_chiclayo_04092026",
+    "remaju_chancay_04092026",
+    "remaju_punchana_04092026"
   ],
   "pronabi": []
 }
