@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-25 22:47",
-  "total": 133,
+  "last_update": "2026-08-25 23:30",
+  "total": 134,
   "nuevos": 0,
   "remates": [
     {
@@ -38,6 +38,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/ESCALANTE.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/PUBLICACION_8.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2367"
+    },
+    {
+      "id": "sunat_2366",
+      "fuente": "SUNAT",
+      "titulo": "PRIMER REMATE PÚBLICO/ GUZMAN ESTRADA CARMELA/",
+      "categoria": "inmuebles",
+      "precio_tasacion": 157596.0,
+      "precio_base": 0.0,
+      "descuento_pct": 0,
+      "fecha": "28/08/2026",
+      "hora": "15:30",
+      "dependencia": "",
+      "expediente": "1530060360068",
+      "deudor": "",
+      "convocatoria": "1ra",
+      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/GUZMAN.jpg",
+      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/PUBLICACION_7.pdf",
+      "url": "https://rematestributarios.sunat.gob.pe/node/2366"
     },
     {
       "id": "remaju_aplao_01092026",
