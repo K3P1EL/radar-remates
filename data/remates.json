@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-25 23:30",
-  "total": 134,
-  "nuevos": 0,
+  "last_update": "2026-08-25 23:54",
+  "total": 135,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2368",
@@ -290,6 +290,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/FOTO%20INMUEBLE%20SERVICIOS%20ESPECIALES%20PISCO%20S.A..jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/DESCRIPCION%20INMUEBLES%20-%20SERVICIOS%20ESPECIALES%20PISCO%20S.A.%20PE%2002000723_0.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2371"
+    },
+    {
+      "id": "remaju_trujillo_04092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TRUJILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "04/09/2026",
+      "hora": "",
+      "dependencia": "TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_tacna_04092026",
