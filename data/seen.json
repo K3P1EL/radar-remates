@@ -104,10 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_yurimaguas_27072026",
-    "remaju_los_aquijes_27072026",
-    "remaju_sullana_27072026",
-    "remaju_subtanjalla_27072026",
     "remaju_ica_27072026",
     "remaju_satipo_27072026",
     "remaju_amarilis_27072026",
@@ -603,7 +599,11 @@
     "remaju_ate_05092026",
     "remaju_sayan_05092026",
     "remaju_villa_el_salvador_05092026",
-    "remaju_bellavista_05092026"
+    "remaju_bellavista_05092026",
+    "remaju_pueblo_libre_05092026",
+    "remaju_sachaca_05092026",
+    "remaju_majes_05092026",
+    "remaju_lima_05092026"
   ],
   "pronabi": []
 }
