@@ -104,11 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_cusco_27072026",
-    "remaju_salas_27072026",
-    "remaju_comas_27072026",
-    "remaju_santiago_de_surco_27072026",
-    "remaju_pisco_27072026",
     "remaju_yurimaguas_27072026",
     "remaju_los_aquijes_27072026",
     "remaju_sullana_27072026",
@@ -603,7 +598,12 @@
     "remaju_tacna_04092026",
     "remaju_trujillo_04092026",
     "remaju_la_victoria_04092026",
-    "remaju_tacna_05092026"
+    "remaju_tacna_05092026",
+    "remaju_callao_05092026",
+    "remaju_ate_05092026",
+    "remaju_sayan_05092026",
+    "remaju_villa_el_salvador_05092026",
+    "remaju_bellavista_05092026"
   ],
   "pronabi": []
 }
