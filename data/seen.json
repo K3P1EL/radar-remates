@@ -104,19 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_anco_huallo_27072026",
-    "remaju_barranca_27072026",
-    "remaju_lurigancho_27072026",
-    "remaju_el_agustino_28072026",
-    "remaju_santiago_de_surco_29072026",
-    "remaju_la_victoria_30072026",
-    "remaju_ate_30072026",
-    "remaju_villa_el_salvador_30072026",
-    "remaju_jose_leonardo_ortiz_30072026",
-    "remaju_san_juan_de_lurigancho_30072026",
-    "remaju_lima_30072026",
-    "remaju_puno_30072026",
-    "remaju_castilla_30072026",
     "remaju_huanuco_30072026",
     "remaju_huayllay_30072026",
     "remaju_carabayllo_30072026",
@@ -603,7 +590,20 @@
     "remaju_lima_05092026",
     "remaju_coronel_gregorio_albarracin_lanchipa_05092026",
     "remaju_iquitos_05092026",
-    "remaju_santiago_de_surco_05092026"
+    "remaju_santiago_de_surco_05092026",
+    "remaju_chincha_alta_05092026",
+    "remaju_ferreñafe_05092026",
+    "remaju_san_juan_de_miraflores_05092026",
+    "remaju_san_juan_bautista_05092026",
+    "remaju_san_sebastian_05092026",
+    "remaju_san_martin_de_porres_05092026",
+    "remaju_calleria_05092026",
+    "remaju_chiclayo_05092026",
+    "remaju_san_jose_de_ticllas_05092026",
+    "remaju_huanuco_05092026",
+    "remaju_oyotun_05092026",
+    "remaju_rimac_05092026",
+    "remaju_lurin_05092026"
   ],
   "pronabi": []
 }
