@@ -104,8 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_huanuco_30072026",
-    "remaju_huayllay_30072026",
     "remaju_carabayllo_30072026",
     "remaju_amarilis_30072026",
     "remaju_san_isidro_30072026",
@@ -603,7 +601,9 @@
     "remaju_huanuco_05092026",
     "remaju_oyotun_05092026",
     "remaju_rimac_05092026",
-    "remaju_lurin_05092026"
+    "remaju_lurin_05092026",
+    "remaju_trujillo_05092026",
+    "remaju_perene_05092026"
   ],
   "pronabi": []
 }
