@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-08-28 21:30",
-  "total": 209,
-  "nuevos": 37,
+  "last_update": "2026-08-29 03:21",
+  "total": 210,
+  "nuevos": 23,
   "remates": [
     {
       "id": "sunat_2368",
@@ -1940,6 +1940,24 @@
       "fecha": "06/09/2026",
       "hora": "",
       "dependencia": "SAN JUAN DE MIRAFLORES",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_tumbes_07092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TUMBES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "07/09/2026",
+      "hora": "",
+      "dependencia": "TUMBES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
