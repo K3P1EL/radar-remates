@@ -104,14 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_mariscal_caceres_03082026",
-    "remaju_yarinacocha_03082026",
-    "remaju_ramon_castilla_03082026",
-    "remaju_iquitos_03082026",
-    "remaju_trujillo_03082026",
-    "remaju_chivay_03082026",
-    "remaju_los_olivos_03082026",
-    "remaju_aplao_03082026",
     "remaju_carabayllo_03082026",
     "remaju_moquegua_03082026",
     "remaju_ocoqa_04082026",
@@ -603,7 +595,15 @@
     "remaju_rimac_06092026",
     "remaju_san_isidro_06092026",
     "remaju_san_martin_de_porres_06092026",
-    "remaju_sicuani_06092026"
+    "remaju_sicuani_06092026",
+    "remaju_pueblo_libre_06092026",
+    "remaju_surquillo_06092026",
+    "remaju_chaupimarca_07092026",
+    "remaju_pisco_07092026",
+    "remaju_mariscal_caceres_06092026",
+    "remaju_ocoqa_06092026",
+    "remaju_yanacancha_07092026",
+    "remaju_san_martin_de_porres_07092026"
   ],
   "pronabi": []
 }
