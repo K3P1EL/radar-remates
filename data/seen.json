@@ -104,14 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_chaupimarca_10082026",
-    "remaju_hualhuas_10082026",
-    "remaju_yanacancha_10082026",
-    "remaju_bellavista_10082026",
-    "remaju_huasahuasi_11082026",
-    "remaju_amarilis_11082026",
-    "remaju_san_martin_de_porres_11082026",
-    "remaju_la_union_11082026",
     "remaju_yurimaguas_11082026",
     "remaju_la_victoria_11082026",
     "remaju_alto_selva_alegre_13082026",
@@ -603,7 +595,15 @@
     "remaju_nazca_11092026",
     "remaju_santiago_de_surco_11092026",
     "remaju_san_juan_de_lurigancho_11092026",
-    "remaju_paucarpata_11092026"
+    "remaju_paucarpata_11092026",
+    "remaju_pacasmayo_11092026",
+    "remaju_parcona_11092026",
+    "remaju_surquillo_11092026",
+    "remaju_iquitos_11092026",
+    "remaju_lambayeque_11092026",
+    "remaju_bellavista_11092026",
+    "remaju_la_tinguiña_11092026",
+    "remaju_ilo_11092026"
   ],
   "pronabi": []
 }
