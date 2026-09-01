@@ -104,10 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_lima_10082026",
-    "remaju_yurimaguas_10082026",
-    "remaju_chiclayo_10082026",
-    "remaju_pisco_10082026",
     "remaju_chaupimarca_10082026",
     "remaju_hualhuas_10082026",
     "remaju_yanacancha_10082026",
@@ -603,7 +599,11 @@
     "remaju_jacobo_hunter_10092026",
     "remaju_manantay_10092026",
     "remaju_independencia_10092026",
-    "remaju_honoria_10092026"
+    "remaju_honoria_10092026",
+    "remaju_nazca_11092026",
+    "remaju_santiago_de_surco_11092026",
+    "remaju_san_juan_de_lurigancho_11092026",
+    "remaju_paucarpata_11092026"
   ],
   "pronabi": []
 }
