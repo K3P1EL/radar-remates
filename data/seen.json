@@ -104,12 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_yurimaguas_11082026",
-    "remaju_la_victoria_11082026",
-    "remaju_alto_selva_alegre_13082026",
-    "remaju_comas_13082026",
-    "remaju_san_ramon_13082026",
-    "remaju_surquillo_13082026",
     "remaju_santiago_14082026",
     "remaju_carabayllo_14082026",
     "remaju_jesus_maria_14082026",
@@ -603,7 +597,13 @@
     "remaju_lambayeque_11092026",
     "remaju_bellavista_11092026",
     "remaju_la_tinguiña_11092026",
-    "remaju_ilo_11092026"
+    "remaju_ilo_11092026",
+    "remaju_sullana_11092026",
+    "remaju_moyobamba_11092026",
+    "remaju_chao_11092026",
+    "remaju_chachapoyas_11092026",
+    "remaju_yurimaguas_11092026",
+    "remaju_morrope_11092026"
   ],
   "pronabi": []
 }
