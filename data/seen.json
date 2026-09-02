@@ -104,13 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_trujillo_14082026",
-    "remaju_lurin_14082026",
-    "remaju_puente_piedra_14082026",
-    "remaju_santa_anita_14082026",
-    "remaju_tacna_14082026",
-    "remaju_chiclayo_14082026",
-    "remaju_callao_14082026",
     "remaju_chorrillos_14082026",
     "remaju_chimbote_14082026",
     "remaju_nuevo_chimbote_14082026",
@@ -603,7 +596,14 @@
     "remaju_olmos_12092026",
     "remaju_la_molina_12092026",
     "remaju_pisco_12092026",
-    "remaju_santiago_de_surco_12092026"
+    "remaju_santiago_de_surco_12092026",
+    "remaju_comas_12092026",
+    "remaju_breña_12092026",
+    "remaju_san_isidro_12092026",
+    "remaju_cajatambo_12092026",
+    "remaju_tacna_12092026",
+    "remaju_san_miguel_12092026",
+    "remaju_tarapoto_12092026"
   ],
   "pronabi": []
 }
