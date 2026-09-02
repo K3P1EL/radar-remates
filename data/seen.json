@@ -104,8 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_chontabamba_14082026",
-    "remaju_tambopata_14082026",
     "remaju_trujillo_14082026",
     "remaju_lurin_14082026",
     "remaju_puente_piedra_14082026",
@@ -603,7 +601,9 @@
     "remaju_san_juan_de_lurigancho_12092026",
     "remaju_san_jeronimo_12092026",
     "remaju_olmos_12092026",
-    "remaju_la_molina_12092026"
+    "remaju_la_molina_12092026",
+    "remaju_pisco_12092026",
+    "remaju_santiago_de_surco_12092026"
   ],
   "pronabi": []
 }
