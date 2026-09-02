@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-09-02 01:21",
-  "total": 162,
+  "last_update": "2026-09-02 06:20",
+  "total": 161,
   "nuevos": 0,
   "remates": [
     {
@@ -56,24 +56,6 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/GUZMAN.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/PUBLICACION_7.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2366"
-    },
-    {
-      "id": "remaju_aplao_01092026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - APLAO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "01/09/2026",
-      "hora": "",
-      "dependencia": "APLAO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_nepeña_02092026",
@@ -2560,24 +2542,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_san_luis_11092026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SAN LUIS",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "11/09/2026",
-      "hora": "",
-      "dependencia": "SAN LUIS",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_comas_11092026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - COMAS",
@@ -2588,6 +2552,24 @@
       "fecha": "11/09/2026",
       "hora": "",
       "dependencia": "COMAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_luis_11092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN LUIS",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "11/09/2026",
+      "hora": "",
+      "dependencia": "SAN LUIS",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
