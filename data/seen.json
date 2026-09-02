@@ -104,10 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_jesus_maria_14082026",
-    "remaju_san_borja_14082026",
-    "remaju_huancabamba_14082026",
-    "remaju_tarma_14082026",
     "remaju_chontabamba_14082026",
     "remaju_tambopata_14082026",
     "remaju_trujillo_14082026",
@@ -603,7 +599,11 @@
     "remaju_yurimaguas_11092026",
     "remaju_morrope_11092026",
     "remaju_san_luis_11092026",
-    "remaju_comas_11092026"
+    "remaju_comas_11092026",
+    "remaju_san_juan_de_lurigancho_12092026",
+    "remaju_san_jeronimo_12092026",
+    "remaju_olmos_12092026",
+    "remaju_la_molina_12092026"
   ],
   "pronabi": []
 }
