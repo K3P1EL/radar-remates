@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-03 01:30",
+  "last_update": "2026-09-03 06:27",
   "total": 173,
-  "nuevos": 0,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2368",
@@ -56,24 +56,6 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/GUZMAN.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-08/PUBLICACION_7.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2366"
-    },
-    {
-      "id": "remaju_nepeña_02092026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - NEPEÑA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "02/09/2026",
-      "hora": "",
-      "dependencia": "NEPEÑA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_cusco_03092026",
@@ -3110,6 +3092,24 @@
       "fecha": "12/09/2026",
       "hora": "",
       "dependencia": "LA MOLINA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_moche_12092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MOCHE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "12/09/2026",
+      "hora": "",
+      "dependencia": "MOCHE",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
