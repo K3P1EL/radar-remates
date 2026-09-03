@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-03 21:25",
-  "total": 215,
-  "nuevos": 35,
+  "last_update": "2026-09-03 23:29",
+  "total": 216,
+  "nuevos": 21,
   "remates": [
     {
       "id": "sunat_2368",
@@ -3110,6 +3110,24 @@
       "fecha": "12/09/2026",
       "hora": "",
       "dependencia": "MOCHE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_tarapoto_13092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TARAPOTO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "13/09/2026",
+      "hora": "",
+      "dependencia": "TARAPOTO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
