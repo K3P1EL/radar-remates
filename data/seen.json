@@ -104,11 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_la_perla_14082026",
-    "remaju_chincha_alta_14082026",
-    "remaju_moquegua_14082026",
-    "remaju_san_martin_de_porres_14082026",
-    "remaju_chancay_14082026",
     "remaju_villa_maria_del_triunfo_14082026",
     "remaju_lurigancho_14082026",
     "remaju_pacasmayo_14082026",
@@ -603,7 +598,12 @@
     "remaju_tarapoto_12092026",
     "remaju_moche_12092026",
     "remaju_cuñumbuqui_13092026",
-    "remaju_la_victoria_13092026"
+    "remaju_la_victoria_13092026",
+    "remaju_panao_13092026",
+    "remaju_magdalena_del_mar_13092026",
+    "remaju_yurimaguas_13092026",
+    "remaju_lima_13092026",
+    "remaju_yarinacocha_13092026"
   ],
   "pronabi": []
 }
