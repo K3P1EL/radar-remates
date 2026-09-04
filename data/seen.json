@@ -104,12 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_perene_15082026",
-    "remaju_humay_15082026",
-    "remaju_cayma_15082026",
-    "remaju_lince_15082026",
-    "remaju_huaral_15082026",
-    "remaju_carabayllo_15082026",
     "remaju_sullana_15082026",
     "remaju_villa_maria_del_triunfo_15082026",
     "remaju_lima_15082026",
@@ -603,7 +597,13 @@
     "remaju_villa_maria_del_triunfo_13092026",
     "remaju_manantay_13092026",
     "remaju_san_juan_de_miraflores_13092026",
-    "remaju_salaverry_13092026"
+    "remaju_salaverry_13092026",
+    "remaju_humay_13092026",
+    "remaju_lurin_13092026",
+    "remaju_callao_13092026",
+    "remaju_huancabamba_13092026",
+    "remaju_tambopata_13092026",
+    "remaju_chimbote_13092026"
   ],
   "pronabi": []
 }
