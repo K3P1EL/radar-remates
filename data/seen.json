@@ -104,8 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_sullana_15082026",
-    "remaju_villa_maria_del_triunfo_15082026",
     "remaju_lima_15082026",
     "remaju_san_juan_de_miraflores_15082026",
     "remaju_salaverry_15082026",
@@ -603,7 +601,9 @@
     "remaju_callao_13092026",
     "remaju_huancabamba_13092026",
     "remaju_tambopata_13092026",
-    "remaju_chimbote_13092026"
+    "remaju_chimbote_13092026",
+    "remaju_san_juan_de_lurigancho_14092026",
+    "remaju_jesus_14092026"
   ],
   "pronabi": []
 }
