@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-04 22:59",
+  "last_update": "2026-09-05 00:51",
   "total": 227,
-  "nuevos": 15,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_2371",
@@ -3730,16 +3730,16 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_lima_14092026",
+      "id": "remaju_la_molina_14092026",
       "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - LIMA",
+      "titulo": "REMATE SIMPLE - LA MOLINA",
       "categoria": "inmuebles",
       "precio_tasacion": 0,
       "precio_base": 0,
       "descuento_pct": 0,
       "fecha": "14/09/2026",
       "hora": "",
-      "dependencia": "LIMA",
+      "dependencia": "LA MOLINA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
