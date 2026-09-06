@@ -104,8 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_chorrillos_16082026",
-    "remaju_villa_el_salvador_16082026",
     "remaju_nuevo_chimbote_16082026",
     "remaju_lima_16082026",
     "remaju_arequipa_16082026",
@@ -603,7 +601,9 @@
     "remaju_yurimaguas_14092026",
     "remaju_san_juan_de_miraflores_14092026",
     "remaju_san_jose_14092026",
-    "remaju_la_molina_14092026"
+    "remaju_la_molina_14092026",
+    "remaju_masisea_16092026",
+    "remaju_calleria_16092026"
   ],
   "pronabi": []
 }
