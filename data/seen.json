@@ -104,13 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_santiago_de_surco_16082026",
-    "remaju_chimbote_16082026",
-    "remaju_santiago_de_surco_17082026",
-    "remaju_paucarpata_17082026",
-    "remaju_chiclayo_17082026",
-    "remaju_carabayllo_17082026",
-    "remaju_cerro_colorado_17082026",
     "remaju_cajamarca_17082026",
     "remaju_san_jose_17082026",
     "remaju_huaraz_17082026",
@@ -603,7 +596,14 @@
     "remaju_lurin_23092026",
     "remaju_vitor_23092026",
     "remaju_la_joya_23092026",
-    "remaju_jose_leonardo_ortiz_18092026"
+    "remaju_jose_leonardo_ortiz_18092026",
+    "remaju_ica_18092026",
+    "remaju_samuel_pastor_18092026",
+    "remaju_amarilis_18092026",
+    "remaju_subtanjalla_18092026",
+    "remaju_trujillo_18092026",
+    "remaju_pueblo_libre_18092026",
+    "remaju_chupan_18092026"
   ],
   "pronabi": []
 }
