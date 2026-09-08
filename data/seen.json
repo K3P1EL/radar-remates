@@ -104,10 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_chiclayo_16082026",
-    "remaju_moquegua_16082026",
-    "remaju_miraflores_16082026",
-    "remaju_viru_16082026",
     "remaju_san_martin_de_porres_16082026",
     "remaju_santiago_de_surco_16082026",
     "remaju_chimbote_16082026",
@@ -603,7 +599,11 @@
     "remaju_san_ignacio_17092026",
     "remaju_cerro_colorado_17092026",
     "remaju_lurin_17092026",
-    "remaju_vitor_17092026"
+    "remaju_vitor_17092026",
+    "remaju_cerro_colorado_23092026",
+    "remaju_lurin_23092026",
+    "remaju_vitor_23092026",
+    "remaju_la_joya_23092026"
   ],
   "pronabi": []
 }
