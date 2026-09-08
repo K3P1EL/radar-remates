@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-08 10:01",
-  "total": 126,
-  "nuevos": 0,
+  "last_update": "2026-09-08 14:35",
+  "total": 127,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_grocio_prado_08092026",
@@ -2264,6 +2264,24 @@
       "fecha": "17/09/2026",
       "hora": "",
       "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_jose_leonardo_ortiz_18092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - JOSE LEONARDO ORTIZ",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "18/09/2026",
+      "hora": "",
+      "dependencia": "JOSE LEONARDO ORTIZ",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
