@@ -104,9 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_los_olivos_18082026",
-    "remaju_iquitos_18082026",
-    "remaju_chorrillos_20082026",
     "remaju_lurin_20082026",
     "remaju_huanuco_20082026",
     "remaju_oyotun_20082026",
@@ -603,7 +600,10 @@
     "remaju_ate_18092026",
     "remaju_chaclacayo_18092026",
     "remaju_huancayo_18092026",
-    "remaju_coishco_18092026"
+    "remaju_coishco_18092026",
+    "remaju_bellavista_de_la_union_19092026",
+    "remaju_ventanilla_19092026",
+    "remaju_puente_piedra_19092026"
   ],
   "pronabi": []
 }
