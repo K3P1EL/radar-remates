@@ -104,20 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_santiago_de_surco_20082026",
-    "remaju_san_borja_20082026",
-    "remaju_rimac_20082026",
-    "remaju_castilla_20082026",
-    "remaju_san_jose_de_ticllas_20082026",
-    "remaju_lima_20082026",
-    "remaju_andrés_avelino_cáceres_dorregaray_20082026",
-    "remaju_surquillo_20082026",
-    "remaju_chiclayo_20082026",
-    "remaju_san_martin_de_porres_20082026",
-    "remaju_iquitos_20082026",
-    "remaju_calleria_20082026",
-    "remaju_ocucaje_20082026",
-    "remaju_el_agustino_20082026",
     "remaju_san_sebastian_20082026",
     "remaju_san_miguel_21082026",
     "remaju_pueblo_libre_21082026",
@@ -603,7 +589,21 @@
     "remaju_puente_piedra_19092026",
     "remaju_barranca_19092026",
     "remaju_la_victoria_19092026",
-    "remaju_corrales_19092026"
+    "remaju_corrales_19092026",
+    "remaju_santiago_de_surco_19092026",
+    "remaju_castilla_19092026",
+    "remaju_otuzco_19092026",
+    "remaju_el_porvenir_19092026",
+    "remaju_chiclayo_19092026",
+    "remaju_moquegua_19092026",
+    "remaju_san_juan_de_lurigancho_19092026",
+    "remaju_cusco_19092026",
+    "remaju_santiago_19092026",
+    "remaju_huanuco_19092026",
+    "remaju_lurin_19092026",
+    "remaju_independencia_19092026",
+    "remaju_nuevo_chimbote_19092026",
+    "remaju_iquitos_19092026"
   ],
   "pronabi": []
 }
