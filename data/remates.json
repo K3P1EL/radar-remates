@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-08 23:26",
-  "total": 137,
-  "nuevos": 3,
+  "last_update": "2026-09-09 01:27",
+  "total": 138,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_grocio_prado_08092026",
@@ -2228,6 +2228,24 @@
       "fecha": "17/09/2026",
       "hora": "",
       "dependencia": "LA VICTORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_coishco_18092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - COISHCO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "18/09/2026",
+      "hora": "",
+      "dependencia": "COISHCO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
