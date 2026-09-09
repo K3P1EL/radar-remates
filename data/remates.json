@@ -1,26 +1,8 @@
 {
-  "last_update": "2026-09-09 01:27",
-  "total": 138,
-  "nuevos": 1,
+  "last_update": "2026-09-09 06:35",
+  "total": 137,
+  "nuevos": 0,
   "remates": [
-    {
-      "id": "remaju_grocio_prado_08092026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - GROCIO PRADO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "08/09/2026",
-      "hora": "",
-      "dependencia": "GROCIO PRADO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
     {
       "id": "remaju_manantay_10092026",
       "fuente": "REMAJU",
