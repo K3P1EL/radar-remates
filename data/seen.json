@@ -104,15 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_pueblo_libre_21082026",
-    "remaju_carabayllo_21082026",
-    "remaju_lurigancho_21082026",
-    "remaju_san_miguel_27082026",
-    "remaju_pueblo_libre_27082026",
-    "remaju_carabayllo_27082026",
-    "remaju_san_sebastian_26082026",
-    "remaju_san_isidro_21082026",
-    "remaju_lima_21082026",
     "remaju_sicuani_21082026",
     "remaju_san_isidro_27082026",
     "remaju_lima_27082026",
@@ -603,7 +594,16 @@
     "remaju_nuevo_chimbote_19092026",
     "remaju_iquitos_19092026",
     "remaju_cieneguilla_19092026",
-    "remaju_cocachacra_19092026"
+    "remaju_cocachacra_19092026",
+    "remaju_ciudad_nueva_20092026",
+    "remaju_pueblo_nuevo_20092026",
+    "remaju_lima_20092026",
+    "remaju_pilcomayo_20092026",
+    "remaju_rioja_20092026",
+    "remaju_chiclayo_20092026",
+    "remaju_san_luis_20092026",
+    "remaju_cerro_colorado_20092026",
+    "remaju_lince_20092026"
   ],
   "pronabi": []
 }
