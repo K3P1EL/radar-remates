@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-09 21:53",
-  "total": 158,
-  "nuevos": 14,
+  "last_update": "2026-09-10 00:00",
+  "total": 159,
+  "nuevos": 1,
   "remates": [
     {
       "id": "sunat_964",
@@ -2480,6 +2480,24 @@
       "fecha": "18/09/2026",
       "hora": "",
       "dependencia": "JOSE LEONARDO ORTIZ",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_cieneguilla_19092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CIENEGUILLA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "19/09/2026",
+      "hora": "",
+      "dependencia": "CIENEGUILLA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
