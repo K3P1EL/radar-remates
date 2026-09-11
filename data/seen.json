@@ -104,13 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_el_carmen_23082026",
-    "remaju_pisco_23082026",
-    "remaju_lima_23082026",
-    "remaju_barranco_23082026",
-    "remaju_morrope_23082026",
-    "remaju_tiabaya_23082026",
-    "remaju_sachaca_23082026",
     "remaju_san_juan_de_miraflores_23082026",
     "remaju_parcona_23082026",
     "remaju_mariscal_caceres_23082026",
@@ -603,7 +596,14 @@
     "remaju_surquillo_20092026",
     "remaju_oyotun_20092026",
     "remaju_tacna_20092026",
-    "remaju_lurin_20092026"
+    "remaju_lurin_20092026",
+    "remaju_sullana_21092026",
+    "remaju_santiago_de_surco_21092026",
+    "remaju_lima_21092026",
+    "remaju_coishco_21092026",
+    "remaju_paucarpata_21092026",
+    "remaju_la_victoria_21092026",
+    "remaju_sechura_21092026"
   ],
   "pronabi": []
 }
