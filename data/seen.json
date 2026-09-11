@@ -104,16 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_trujillo_23082026",
-    "remaju_san_miguel_23082026",
-    "remaju_san_luis_23082026",
-    "remaju_pimentel_23082026",
-    "remaju_lambayeque_23082026",
-    "remaju_carabayllo_23082026",
-    "remaju_puente_piedra_23082026",
-    "remaju_la_molina_23082026",
-    "remaju_callao_23082026",
-    "remaju_san_isidro_23082026",
     "remaju_el_carmen_23082026",
     "remaju_pisco_23082026",
     "remaju_lima_23082026",
@@ -603,7 +593,17 @@
     "remaju_comandante_noel_20092026",
     "remaju_moche_20092026",
     "remaju_jose_leonardo_ortiz_20092026",
-    "remaju_casma_20092026"
+    "remaju_casma_20092026",
+    "remaju_grocio_prado_20092026",
+    "remaju_rimac_20092026",
+    "remaju_san_isidro_20092026",
+    "remaju_san_martin_de_porres_20092026",
+    "remaju_san_sebastian_20092026",
+    "remaju_calleria_20092026",
+    "remaju_surquillo_20092026",
+    "remaju_oyotun_20092026",
+    "remaju_tacna_20092026",
+    "remaju_lurin_20092026"
   ],
   "pronabi": []
 }
