@@ -104,10 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_puno_27082026",
-    "remaju_pilcomayo_27082026",
-    "remaju_tiquillaca_27082026",
-    "remaju_nazca_27082026",
     "remaju_pimentel_27082026",
     "remaju_trujillo_27082026",
     "remaju_iquitos_28082026",
@@ -603,7 +599,11 @@
     "remaju_samegua_25092026",
     "remaju_florencia_de_mora_25092026",
     "remaju_guadalupe_25092026",
-    "remaju_trujillo_25092026"
+    "remaju_trujillo_25092026",
+    "remaju_padre_abad_25092026",
+    "remaju_piura_25092026",
+    "remaju_jose_luis_bustamante_y_rivero_25092026",
+    "remaju_tacna_25092026"
   ],
   "pronabi": []
 }
