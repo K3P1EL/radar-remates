@@ -104,8 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_san_borja_29082026",
-    "remaju_santiago_29082026",
     "remaju_yanahuara_29082026",
     "remaju_coporaque_29082026",
     "remaju_moche_29082026",
@@ -603,7 +601,9 @@
     "remaju_pampacolca_26092026",
     "remaju_chincha_alta_26092026",
     "remaju_san_martin_de_porres_26092026",
-    "remaju_honoria_26092026"
+    "remaju_honoria_26092026",
+    "remaju_lima_27092026",
+    "remaju_chiclayo_27092026"
   ],
   "pronabi": []
 }
