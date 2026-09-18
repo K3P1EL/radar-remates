@@ -104,8 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_moquegua_30082026",
-    "remaju_chancay_30082026",
     "remaju_sullana_30082026",
     "remaju_lurigancho_30082026",
     "remaju_pacasmayo_30082026",
@@ -603,7 +601,9 @@
     "remaju_pichanaqui_28092026",
     "remaju_ate_28092026",
     "remaju_salaverry_28092026",
-    "remaju_lima_28092026"
+    "remaju_lima_28092026",
+    "remaju_huamancaca_chico_28092026",
+    "remaju_trujillo_28092026"
   ],
   "pronabi": []
 }
