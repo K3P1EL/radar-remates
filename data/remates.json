@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-17 22:13",
-  "total": 212,
-  "nuevos": 39,
+  "last_update": "2026-09-18 00:26",
+  "total": 213,
+  "nuevos": 25,
   "remates": [
     {
       "id": "remaju_cerro_colorado_17092026",
@@ -3074,6 +3074,24 @@
       "fecha": "26/09/2026",
       "hora": "",
       "dependencia": "HONORIA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_miraflores_27092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MIRAFLORES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/09/2026",
+      "hora": "",
+      "dependencia": "MIRAFLORES",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
