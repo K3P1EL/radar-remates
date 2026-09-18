@@ -104,18 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_sullana_30082026",
-    "remaju_lurigancho_30082026",
-    "remaju_pacasmayo_30082026",
-    "remaju_ciudad_nueva_30082026",
-    "remaju_andahuaylas_30082026",
-    "remaju_san_juan_de_lurigancho_30082026",
-    "remaju_jose_leonardo_ortiz_30082026",
-    "remaju_eten_30082026",
-    "remaju_ate_31082026",
-    "remaju_choras_31082026",
-    "remaju_san_borja_31082026",
-    "remaju_chilca_31082026",
     "remaju_nueva_cajamarca_31082026",
     "remaju_chiclayo_31082026",
     "remaju_dean_valdivia_31082026",
@@ -603,7 +591,19 @@
     "remaju_salaverry_28092026",
     "remaju_lima_28092026",
     "remaju_huamancaca_chico_28092026",
-    "remaju_trujillo_28092026"
+    "remaju_trujillo_28092026",
+    "remaju_tiabaya_28092026",
+    "remaju_posic_28092026",
+    "remaju_otuzco_28092026",
+    "remaju_chiclayo_28092026",
+    "remaju_lurigancho_28092026",
+    "remaju_san_sebastian_28092026",
+    "remaju_chincha_alta_28092026",
+    "remaju_pisco_28092026",
+    "remaju_huanuco_28092026",
+    "remaju_san_juan_de_lurigancho_28092026",
+    "remaju_nueva_cajamarca_28092026",
+    "remaju_choras_28092026"
   ],
   "pronabi": []
 }
