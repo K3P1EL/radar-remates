@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-18 09:49",
+  "last_update": "2026-09-18 14:18",
   "total": 205,
-  "nuevos": 0,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_coishco_18092026",
@@ -2164,24 +2164,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_alto_trujillo_21092026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - ALTO TRUJILLO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "21/09/2026",
-      "hora": "",
-      "dependencia": "ALTO TRUJILLO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_villa_maria_del_triunfo_21092026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - VILLA MARIA DEL TRIUNFO",
@@ -3686,6 +3668,24 @@
       "fecha": "27/09/2026",
       "hora": "",
       "dependencia": "CHIMBOTE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_paucarpata_28092026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PAUCARPATA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "28/09/2026",
+      "hora": "",
+      "dependencia": "PAUCARPATA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
