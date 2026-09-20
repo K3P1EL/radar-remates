@@ -104,8 +104,6 @@
     "sunat_2371"
   ],
   "remaju": [
-    "remaju_nueva_cajamarca_31082026",
-    "remaju_chiclayo_31082026",
     "remaju_dean_valdivia_31082026",
     "remaju_santiago_de_surco_31082026",
     "remaju_trujillo_31082026",
@@ -603,7 +601,9 @@
     "remaju_huanuco_28092026",
     "remaju_san_juan_de_lurigancho_28092026",
     "remaju_nueva_cajamarca_28092026",
-    "remaju_choras_28092026"
+    "remaju_choras_28092026",
+    "remaju_la_molina_29092026",
+    "remaju_santiago_de_surco_29092026"
   ],
   "pronabi": []
 }
