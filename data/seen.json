@@ -101,11 +101,16 @@
     "sunat_2366",
     "sunat_2368",
     "sunat_2367",
-    "sunat_2371"
+    "sunat_2371",
+    "sunat_2406",
+    "sunat_2405",
+    "sunat_2404",
+    "sunat_2403",
+    "sunat_2401",
+    "sunat_2398",
+    "sunat_2397"
   ],
   "remaju": [
-    "remaju_chincha_alta_31082026",
-    "remaju_san_jose_31082026",
     "remaju_pampacolca_31082026",
     "remaju_aplao_01092026",
     "remaju_nepeña_02092026",
@@ -603,7 +608,9 @@
     "remaju_chiclayo_01102026",
     "remaju_iquitos_01102026",
     "remaju_punchana_01102026",
-    "remaju_san_juan_bautista_01102026"
+    "remaju_san_juan_bautista_01102026",
+    "remaju_nuevo_chimbote_01102026",
+    "remaju_moro_01102026"
   ],
   "pronabi": []
 }
