@@ -111,9 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_independencia_03092026",
-    "remaju_lurin_03092026",
-    "remaju_santiago_03092026",
     "remaju_huanuco_03092026",
     "remaju_wanchaq_03092026",
     "remaju_cusco_03092026",
@@ -610,7 +607,10 @@
     "remaju_san_sebastian_02102026",
     "remaju_callao_02102026",
     "remaju_carabayllo_02102026",
-    "remaju_santa_anita_02102026"
+    "remaju_santa_anita_02102026",
+    "remaju_ica_02102026",
+    "remaju_tacna_02102026",
+    "remaju_chiclayo_02102026"
   ],
   "pronabi": []
 }
