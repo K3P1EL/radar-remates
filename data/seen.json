@@ -111,10 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_rimac_03092026",
-    "remaju_iquitos_03092026",
-    "remaju_nuevo_chimbote_03092026",
-    "remaju_san_miguel_03092026",
     "remaju_independencia_03092026",
     "remaju_lurin_03092026",
     "remaju_santiago_03092026",
@@ -610,7 +606,11 @@
     "remaju_moro_01102026",
     "remaju_paita_01102026",
     "remaju_chimbote_01102026",
-    "remaju_rimac_02102026"
+    "remaju_rimac_02102026",
+    "remaju_san_sebastian_02102026",
+    "remaju_callao_02102026",
+    "remaju_carabayllo_02102026",
+    "remaju_santa_anita_02102026"
   ],
   "pronabi": []
 }
