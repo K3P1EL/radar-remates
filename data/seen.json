@@ -111,9 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_san_juan_bautista_04092026",
-    "remaju_chorrillos_04092026",
-    "remaju_iquitos_04092026",
     "remaju_chiclayo_04092026",
     "remaju_chancay_04092026",
     "remaju_punchana_04092026",
@@ -610,7 +607,10 @@
     "remaju_chiclayo_02102026",
     "remaju_yarinacocha_02102026",
     "remaju_puquio_02102026",
-    "remaju_manantay_02102026"
+    "remaju_manantay_02102026",
+    "remaju_arequipa_03102026",
+    "remaju_los_olivos_03102026",
+    "remaju_iquitos_03102026"
   ],
   "pronabi": []
 }
