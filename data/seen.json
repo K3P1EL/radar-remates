@@ -111,9 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_trujillo_04092026",
-    "remaju_la_victoria_04092026",
-    "remaju_tacna_05092026",
     "remaju_callao_05092026",
     "remaju_ate_05092026",
     "remaju_sayan_05092026",
@@ -610,7 +607,10 @@
     "remaju_vitor_03102026",
     "remaju_san_ignacio_03102026",
     "remaju_la_victoria_03102026",
-    "remaju_rio_negro_03102026"
+    "remaju_rio_negro_03102026",
+    "remaju_calleria_03102026",
+    "remaju_padre_abad_03102026",
+    "remaju_rimac_03102026"
   ],
   "pronabi": []
 }
