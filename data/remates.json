@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-24 09:28",
-  "total": 143,
-  "nuevos": 0,
+  "last_update": "2026-09-24 14:23",
+  "total": 144,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_paita_01102026",
@@ -644,6 +644,24 @@
       "fecha": "03/10/2026",
       "hora": "",
       "dependencia": "RIO NEGRO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_monsefu_04102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - MONSEFU",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "04/10/2026",
+      "hora": "",
+      "dependencia": "MONSEFU",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
