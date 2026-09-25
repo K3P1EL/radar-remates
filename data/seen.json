@@ -111,8 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_amarilis_07092026",
-    "remaju_iquitos_07092026",
     "remaju_alto_trujillo_07092026",
     "remaju_villa_maria_del_triunfo_07092026",
     "remaju_san_juan_bautista_07092026",
@@ -610,7 +608,9 @@
     "remaju_cusco_04102026",
     "remaju_lurin_04102026",
     "remaju_jose_leonardo_ortiz_04102026",
-    "remaju_tacna_04102026"
+    "remaju_tacna_04102026",
+    "remaju_alto_selva_alegre_05102026",
+    "remaju_coishco_05102026"
   ],
   "pronabi": []
 }
