@@ -111,17 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_villa_maria_del_triunfo_06092026",
-    "remaju_pacanga_06092026",
-    "remaju_san_juan_de_miraflores_07092026",
-    "remaju_san_juan_de_lurigancho_07092026",
-    "remaju_chimbote_07092026",
-    "remaju_nuevo_chimbote_07092026",
-    "remaju_trujillo_07092026",
-    "remaju_huancayo_07092026",
-    "remaju_breña_07092026",
-    "remaju_callao_07092026",
-    "remaju_san_borja_07092026",
     "remaju_amarilis_07092026",
     "remaju_iquitos_07092026",
     "remaju_alto_trujillo_07092026",
@@ -610,7 +599,18 @@
     "remaju_san_juan_bautista_04102026",
     "remaju_iquitos_04102026",
     "remaju_santiago_de_surco_04102026",
-    "remaju_lima_04102026"
+    "remaju_lima_04102026",
+    "remaju_callao_04102026",
+    "remaju_villa_el_salvador_04102026",
+    "remaju_trujillo_04102026",
+    "remaju_punchana_04102026",
+    "remaju_nueva_cajamarca_04102026",
+    "remaju_chorrillos_04102026",
+    "remaju_chancay_04102026",
+    "remaju_cusco_04102026",
+    "remaju_lurin_04102026",
+    "remaju_jose_leonardo_ortiz_04102026",
+    "remaju_tacna_04102026"
   ],
   "pronabi": []
 }
