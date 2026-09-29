@@ -111,12 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_chorrillos_10092026",
-    "remaju_san_martin_de_porres_10092026",
-    "remaju_cusco_10092026",
-    "remaju_jacobo_hunter_10092026",
-    "remaju_manantay_10092026",
-    "remaju_independencia_10092026",
     "remaju_honoria_10092026",
     "remaju_nazca_11092026",
     "remaju_santiago_de_surco_11092026",
@@ -610,7 +604,13 @@
     "remaju_miraflores_14102026",
     "remaju_vista_alegre_08102026",
     "remaju_vista_alegre_14102026",
-    "remaju_ica_14102026"
+    "remaju_ica_14102026",
+    "remaju_pilcomayo_09102026",
+    "remaju_san_luis_09102026",
+    "remaju_san_isidro_09102026",
+    "remaju_pilcomayo_15102026",
+    "remaju_san_luis_15102026",
+    "remaju_san_isidro_15102026"
   ],
   "pronabi": []
 }
