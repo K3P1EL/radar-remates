@@ -111,20 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_chao_11092026",
-    "remaju_chachapoyas_11092026",
-    "remaju_yurimaguas_11092026",
-    "remaju_morrope_11092026",
-    "remaju_san_luis_11092026",
-    "remaju_comas_11092026",
-    "remaju_san_juan_de_lurigancho_12092026",
-    "remaju_san_jeronimo_12092026",
-    "remaju_olmos_12092026",
-    "remaju_la_molina_12092026",
-    "remaju_pisco_12092026",
-    "remaju_santiago_de_surco_12092026",
-    "remaju_comas_12092026",
-    "remaju_breña_12092026",
     "remaju_san_isidro_12092026",
     "remaju_cajatambo_12092026",
     "remaju_tacna_12092026",
@@ -610,7 +596,21 @@
     "remaju_sunampe_09102026",
     "remaju_ica_09102026",
     "remaju_alto_de_la_alianza_09102026",
-    "remaju_tumbes_15102026"
+    "remaju_tumbes_15102026",
+    "remaju_santiago_de_surco_09102026",
+    "remaju_parcona_09102026",
+    "remaju_independencia_09102026",
+    "remaju_paucarpata_09102026",
+    "remaju_yurimaguas_09102026",
+    "remaju_huanuco_09102026",
+    "remaju_tarapoto_09102026",
+    "remaju_bellavista_09102026",
+    "remaju_morales_09102026",
+    "remaju_magdalena_del_mar_09102026",
+    "remaju_santiago_de_surco_15102026",
+    "remaju_parcona_15102026",
+    "remaju_independencia_15102026",
+    "remaju_paucarpata_15102026"
   ],
   "pronabi": []
 }
