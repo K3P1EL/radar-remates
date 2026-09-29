@@ -111,12 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_yanacancha_07092026",
-    "remaju_san_martin_de_porres_07092026",
-    "remaju_grocio_prado_08092026",
-    "remaju_puente_piedra_10092026",
-    "remaju_pampacolca_10092026",
-    "remaju_san_borja_10092026",
     "remaju_chiclayo_10092026",
     "remaju_chincha_alta_10092026",
     "remaju_cerro_colorado_10092026",
@@ -610,7 +604,13 @@
     "remaju_asia_08102026",
     "remaju_santiago_de_surco_08102026",
     "remaju_lima_08102026",
-    "remaju_san_isidro_08102026"
+    "remaju_san_isidro_08102026",
+    "remaju_quilmana_08102026",
+    "remaju_chontabamba_08102026",
+    "remaju_comas_14102026",
+    "remaju_quilmana_14102026",
+    "remaju_ayacucho_14102026",
+    "remaju_miraflores_14102026"
   ],
   "pronabi": []
 }
