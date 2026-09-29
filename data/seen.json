@@ -111,9 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_chiclayo_10092026",
-    "remaju_chincha_alta_10092026",
-    "remaju_cerro_colorado_10092026",
     "remaju_chorrillos_10092026",
     "remaju_san_martin_de_porres_10092026",
     "remaju_cusco_10092026",
@@ -610,7 +607,10 @@
     "remaju_comas_14102026",
     "remaju_quilmana_14102026",
     "remaju_ayacucho_14102026",
-    "remaju_miraflores_14102026"
+    "remaju_miraflores_14102026",
+    "remaju_vista_alegre_08102026",
+    "remaju_vista_alegre_14102026",
+    "remaju_ica_14102026"
   ],
   "pronabi": []
 }
