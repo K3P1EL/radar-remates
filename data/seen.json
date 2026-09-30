@@ -111,10 +111,6 @@
     "sunat_2397"
   ],
   "remaju": [
-    "remaju_san_isidro_12092026",
-    "remaju_cajatambo_12092026",
-    "remaju_tacna_12092026",
-    "remaju_san_miguel_12092026",
     "remaju_tarapoto_12092026",
     "remaju_moche_12092026",
     "remaju_cuñumbuqui_13092026",
@@ -610,7 +606,11 @@
     "remaju_santiago_de_surco_15102026",
     "remaju_parcona_15102026",
     "remaju_independencia_15102026",
-    "remaju_paucarpata_15102026"
+    "remaju_paucarpata_15102026",
+    "remaju_el_porvenir_10102026",
+    "remaju_miraflores_10102026",
+    "remaju_el_porvenir_15102026",
+    "remaju_miraflores_15102026"
   ],
   "pronabi": []
 }
