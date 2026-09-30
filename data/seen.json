@@ -108,21 +108,10 @@
     "sunat_2403",
     "sunat_2401",
     "sunat_2398",
-    "sunat_2397"
+    "sunat_2397",
+    "sunat_2409"
   ],
   "remaju": [
-    "remaju_tacna_13092026",
-    "remaju_rupa-rupa_13092026",
-    "remaju_chiclayo_13092026",
-    "remaju_trujillo_13092026",
-    "remaju_pisco_13092026",
-    "remaju_dean_valdivia_13092026",
-    "remaju_puente_piedra_13092026",
-    "remaju_san_juan_bautista_13092026",
-    "remaju_ayacucho_13092026",
-    "remaju_yanahuara_13092026",
-    "remaju_paucarpata_13092026",
-    "remaju_coporaque_13092026",
     "remaju_santiago_13092026",
     "remaju_el_porvenir_13092026",
     "remaju_tarapoto_13092026",
@@ -610,7 +599,19 @@
     "remaju_san_martin_de_porres_10102026",
     "remaju_moche_15102026",
     "remaju_iquitos_15102026",
-    "remaju_florencia_de_mora_15102026"
+    "remaju_florencia_de_mora_15102026",
+    "remaju_wanchaq_10102026",
+    "remaju_lima_10102026",
+    "remaju_victor_larco_herrera_10102026",
+    "remaju_trujillo_10102026",
+    "remaju_villa_maria_del_triunfo_10102026",
+    "remaju_santiago_de_surco_10102026",
+    "remaju_la_victoria_10102026",
+    "remaju_san_juan_de_miraflores_10102026",
+    "remaju_chimbote_10102026",
+    "remaju_eten_10102026",
+    "remaju_wanchaq_15102026",
+    "remaju_lima_15102026"
   ],
   "pronabi": []
 }
