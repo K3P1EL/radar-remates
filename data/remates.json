@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-30 23:57",
+  "last_update": "2026-10-01 05:37",
   "total": 187,
-  "nuevos": 13,
+  "nuevos": 0,
   "remates": [
     {
       "id": "remaju_paita_01102026",
@@ -2866,6 +2866,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_florencia_de_mora_10102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - FLORENCIA DE MORA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "10/10/2026",
+      "hora": "",
+      "dependencia": "FLORENCIA DE MORA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_wanchaq_10102026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - WANCHAQ",
@@ -3020,24 +3038,6 @@
       "fecha": "10/10/2026",
       "hora": "",
       "dependencia": "IQUITOS",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_florencia_de_mora_10102026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - FLORENCIA DE MORA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "10/10/2026",
-      "hora": "",
-      "dependencia": "FLORENCIA DE MORA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
