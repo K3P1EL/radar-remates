@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-03 20:14",
-  "total": 244,
-  "nuevos": 0,
+  "last_update": "2026-10-03 23:09",
+  "total": 245,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_yarinacocha_02102026",
@@ -4298,6 +4298,24 @@
       "fecha": "13/10/2026",
       "hora": "",
       "dependencia": "PISCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_la_molina_13102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - LA MOLINA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "13/10/2026",
+      "hora": "",
+      "dependencia": "LA MOLINA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
