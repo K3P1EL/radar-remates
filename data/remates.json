@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-03 13:40",
-  "total": 242,
-  "nuevos": 0,
+  "last_update": "2026-10-03 17:38",
+  "total": 244,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_yarinacocha_02102026",
@@ -4288,6 +4288,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_pisco_13102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PISCO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "13/10/2026",
+      "hora": "",
+      "dependencia": "PISCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_yanacancha_16102026",
       "fuente": "REMAJU",
       "titulo": "Remate N° 25506 - PRIMERA CONVOCATORIA - YANACANCHA",
@@ -4334,6 +4352,24 @@
       "fecha": "16/10/2026",
       "hora": "",
       "dependencia": "CHICLAYO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_pisco_17102026",
+      "fuente": "REMAJU",
+      "titulo": "Remate N° 25507 - PRIMERA CONVOCATORIA - PISCO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "17/10/2026",
+      "hora": "",
+      "dependencia": "PISCO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
