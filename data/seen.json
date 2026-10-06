@@ -112,12 +112,6 @@
     "sunat_2409"
   ],
   "remaju": [
-    "remaju_ciudad_nueva_20092026",
-    "remaju_pueblo_nuevo_20092026",
-    "remaju_lima_20092026",
-    "remaju_pilcomayo_20092026",
-    "remaju_rioja_20092026",
-    "remaju_chiclayo_20092026",
     "remaju_san_luis_20092026",
     "remaju_cerro_colorado_20092026",
     "remaju_lince_20092026",
@@ -611,7 +605,13 @@
     "remaju_santa_ana_15102026",
     "remaju_trujillo_15102026",
     "remaju_lurin_15102026",
-    "remaju_comas_15102026"
+    "remaju_comas_15102026",
+    "remaju_pomalca_16102026",
+    "remaju_san_juan_de_lurigancho_16102026",
+    "remaju_carmen_de_la_legua_reynoso_16102026",
+    "remaju_ventanilla_16102026",
+    "remaju_villa_maria_del_triunfo_16102026",
+    "remaju_santa_maria_del_valle_16102026"
   ],
   "pronabi": []
 }
