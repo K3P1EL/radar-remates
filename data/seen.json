@@ -112,9 +112,6 @@
     "sunat_2409"
   ],
   "remaju": [
-    "remaju_iquitos_19092026",
-    "remaju_cieneguilla_19092026",
-    "remaju_cocachacra_19092026",
     "remaju_ciudad_nueva_20092026",
     "remaju_pueblo_nuevo_20092026",
     "remaju_lima_20092026",
@@ -611,7 +608,10 @@
     "remaju_la_esperanza_15102026",
     "remaju_junin_15102026",
     "remaju_jose_leonardo_ortiz_15102026",
-    "remaju_santa_ana_15102026"
+    "remaju_santa_ana_15102026",
+    "remaju_trujillo_15102026",
+    "remaju_lurin_15102026",
+    "remaju_comas_15102026"
   ],
   "pronabi": []
 }
