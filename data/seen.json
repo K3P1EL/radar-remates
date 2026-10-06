@@ -112,13 +112,6 @@
     "sunat_2409"
   ],
   "remaju": [
-    "remaju_san_luis_20092026",
-    "remaju_cerro_colorado_20092026",
-    "remaju_lince_20092026",
-    "remaju_amarilis_20092026",
-    "remaju_sicuani_20092026",
-    "remaju_chaupimarca_20092026",
-    "remaju_yanacancha_20092026",
     "remaju_cuñumbuqui_20092026",
     "remaju_yarinacocha_20092026",
     "remaju_pimentel_20092026",
@@ -611,7 +604,14 @@
     "remaju_carmen_de_la_legua_reynoso_16102026",
     "remaju_ventanilla_16102026",
     "remaju_villa_maria_del_triunfo_16102026",
-    "remaju_santa_maria_del_valle_16102026"
+    "remaju_santa_maria_del_valle_16102026",
+    "remaju_la_esperanza_16102026",
+    "remaju_lima_16102026",
+    "remaju_puente_piedra_16102026",
+    "remaju_villa_el_salvador_16102026",
+    "remaju_asia_16102026",
+    "remaju_vitor_16102026",
+    "remaju_chorrillos_16102026"
   ],
   "pronabi": []
 }
