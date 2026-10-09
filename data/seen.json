@@ -112,10 +112,6 @@
     "sunat_2409"
   ],
   "remaju": [
-    "remaju_oyotun_20092026",
-    "remaju_tacna_20092026",
-    "remaju_lurin_20092026",
-    "remaju_sullana_21092026",
     "remaju_santiago_de_surco_21092026",
     "remaju_lima_21092026",
     "remaju_coishco_21092026",
@@ -611,7 +607,11 @@
     "remaju_san_juan_de_lurigancho_18102026",
     "remaju_barranca_18102026",
     "remaju_corrales_18102026",
-    "remaju_samuel_pastor_18102026"
+    "remaju_samuel_pastor_18102026",
+    "remaju_subtanjalla_18102026",
+    "remaju_cerro_colorado_18102026",
+    "remaju_san_ignacio_18102026",
+    "remaju_rio_negro_18102026"
   ],
   "pronabi": []
 }
