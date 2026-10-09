@@ -112,10 +112,6 @@
     "sunat_2409"
   ],
   "remaju": [
-    "remaju_santiago_de_surco_21092026",
-    "remaju_lima_21092026",
-    "remaju_coishco_21092026",
-    "remaju_paucarpata_21092026",
     "remaju_la_victoria_21092026",
     "remaju_sechura_21092026",
     "remaju_florencia_de_mora_21092026",
@@ -611,7 +607,11 @@
     "remaju_subtanjalla_18102026",
     "remaju_cerro_colorado_18102026",
     "remaju_san_ignacio_18102026",
-    "remaju_rio_negro_18102026"
+    "remaju_rio_negro_18102026",
+    "remaju_locumba_19102026",
+    "remaju_chorrillos_19102026",
+    "remaju_iquitos_19102026",
+    "remaju_punchana_19102026"
   ],
   "pronabi": []
 }
