@@ -110,15 +110,10 @@
     "sunat_2398",
     "sunat_2397",
     "sunat_2409",
-    "sunat_2413"
+    "sunat_2413",
+    "sunat_2414"
   ],
   "remaju": [
-    "remaju_san_isidro_24092026",
-    "remaju_la_victoria_24092026",
-    "remaju_san_juan_de_miraflores_24092026",
-    "remaju_chimbote_24092026",
-    "remaju_nazca_24092026",
-    "remaju_punchana_25092026",
     "remaju_san_juan_bautista_25092026",
     "remaju_mazan_25092026",
     "remaju_iquitos_25092026",
@@ -612,7 +607,13 @@
     "remaju_subtanjalla_22102026",
     "remaju_santa_rosa_de_sacco_22102026",
     "remaju_chaclacayo_22102026",
-    "remaju_chilca_22102026"
+    "remaju_chilca_22102026",
+    "remaju_la_victoria_23102026",
+    "remaju_reque_23102026",
+    "remaju_satipo_23102026",
+    "remaju_chiclayo_23102026",
+    "remaju_cayma_23102026",
+    "remaju_la_esperanza_23102026"
   ],
   "pronabi": []
 }
