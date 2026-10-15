@@ -117,10 +117,6 @@
     "sunat_2423"
   ],
   "remaju": [
-    "remaju_cajatambo_27092026",
-    "remaju_tarapoto_27092026",
-    "remaju_pisco_27092026",
-    "remaju_san_jeronimo_27092026",
     "remaju_olmos_27092026",
     "remaju_miraflores_27092026",
     "remaju_sullana_27092026",
@@ -616,7 +612,11 @@
     "remaju_carabayllo_24102026",
     "remaju_jose_maria_quimper_24102026",
     "remaju_lurigancho_24102026",
-    "remaju_santiago_de_surco_24102026"
+    "remaju_santiago_de_surco_24102026",
+    "remaju_comas_25102026",
+    "remaju_san_miguel_25102026",
+    "remaju_puente_piedra_25102026",
+    "remaju_lima_25102026"
   ],
   "pronabi": []
 }
