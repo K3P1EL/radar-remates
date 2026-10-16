@@ -120,10 +120,6 @@
     "sunat_2437"
   ],
   "remaju": [
-    "remaju_santiago_de_surco_29092026",
-    "remaju_moquegua_01102026",
-    "remaju_parco_01102026",
-    "remaju_cholon_01102026",
     "remaju_la_molina_01102026",
     "remaju_chiclayo_01102026",
     "remaju_iquitos_01102026",
@@ -619,7 +615,11 @@
     "remaju_san_juan_de_miraflores_25102026",
     "remaju_chimbote_25102026",
     "remaju_eten_25102026",
-    "remaju_san_andres_26102026"
+    "remaju_san_andres_26102026",
+    "remaju_santiago_de_surco_26102026",
+    "remaju_lima_26102026",
+    "remaju_san_juan_de_lurigancho_26102026",
+    "remaju_la_victoria_26102026"
   ],
   "pronabi": []
 }
