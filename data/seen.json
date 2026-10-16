@@ -120,20 +120,6 @@
     "sunat_2437"
   ],
   "remaju": [
-    "remaju_huamancaca_chico_28092026",
-    "remaju_trujillo_28092026",
-    "remaju_tiabaya_28092026",
-    "remaju_posic_28092026",
-    "remaju_otuzco_28092026",
-    "remaju_chiclayo_28092026",
-    "remaju_lurigancho_28092026",
-    "remaju_san_sebastian_28092026",
-    "remaju_chincha_alta_28092026",
-    "remaju_pisco_28092026",
-    "remaju_huanuco_28092026",
-    "remaju_san_juan_de_lurigancho_28092026",
-    "remaju_nueva_cajamarca_28092026",
-    "remaju_choras_28092026",
     "remaju_la_molina_29092026",
     "remaju_santiago_de_surco_29092026",
     "remaju_moquegua_01102026",
@@ -619,7 +605,21 @@
     "remaju_carabayllo_25102026",
     "remaju_ica_25102026",
     "remaju_alto_de_la_alianza_25102026",
-    "remaju_pilcomayo_25102026"
+    "remaju_pilcomayo_25102026",
+    "remaju_san_luis_25102026",
+    "remaju_jose_luis_bustamante_y_rivero_25102026",
+    "remaju_omia_25102026",
+    "remaju_cusco_25102026",
+    "remaju_la_esperanza_25102026",
+    "remaju_san_juan_del_oro_25102026",
+    "remaju_piura_25102026",
+    "remaju_punchana_25102026",
+    "remaju_humay_25102026",
+    "remaju_guadalupe_25102026",
+    "remaju_la_victoria_25102026",
+    "remaju_san_juan_de_miraflores_25102026",
+    "remaju_chimbote_25102026",
+    "remaju_eten_25102026"
   ],
   "pronabi": []
 }
