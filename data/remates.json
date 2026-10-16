@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-15 22:39",
+  "last_update": "2026-10-16 00:49",
   "total": 210,
-  "nuevos": 44,
+  "nuevos": 29,
   "remates": [
     {
       "id": "remaju_el_porvenir_15102026",
@@ -2074,24 +2074,6 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
-      "id": "remaju_san_juan_de_lurigancho_23102026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - SAN JUAN DE LURIGANCHO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "23/10/2026",
-      "hora": "",
-      "dependencia": "SAN JUAN DE LURIGANCHO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
       "id": "remaju_sunampe_23102026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - SUNAMPE",
@@ -2228,6 +2210,24 @@
       "fecha": "23/10/2026",
       "hora": "",
       "dependencia": "COMAS",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_san_juan_de_lurigancho_23102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN JUAN DE LURIGANCHO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "23/10/2026",
+      "hora": "",
+      "dependencia": "SAN JUAN DE LURIGANCHO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
