@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-16 10:09",
+  "last_update": "2026-10-16 14:54",
   "total": 193,
-  "nuevos": 0,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_reque_16102026",
@@ -104,24 +104,6 @@
       "fecha": "16/10/2026",
       "hora": "",
       "dependencia": "VILLA EL SALVADOR",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_asia_16102026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - ASIA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "16/10/2026",
-      "hora": "",
-      "dependencia": "ASIA",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
@@ -3476,6 +3458,24 @@
       "imagen": "",
       "pdf": "",
       "url": "https://rematestributarios.sunat.gob.pe/node/2439"
+    },
+    {
+      "id": "remaju_san_andres_26102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SAN ANDRES",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "26/10/2026",
+      "hora": "",
+      "dependencia": "SAN ANDRES",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     }
   ]
 }
