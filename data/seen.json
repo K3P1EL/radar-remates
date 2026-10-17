@@ -120,8 +120,6 @@
     "sunat_2437"
   ],
   "remaju": [
-    "remaju_tacna_02102026",
-    "remaju_chiclayo_02102026",
     "remaju_yarinacocha_02102026",
     "remaju_puquio_02102026",
     "remaju_manantay_02102026",
@@ -619,7 +617,9 @@
     "remaju_puente_piedra_26102026",
     "remaju_posic_26102026",
     "remaju_pichanaqui_26102026",
-    "remaju_trujillo_26102026"
+    "remaju_trujillo_26102026",
+    "remaju_castilla_26102026",
+    "remaju_otuzco_26102026"
   ],
   "pronabi": []
 }

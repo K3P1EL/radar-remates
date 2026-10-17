@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-16 21:47",
-  "total": 212,
-  "nuevos": 16,
+  "last_update": "2026-10-17 00:16",
+  "total": 213,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_reque_16102026",
@@ -3440,6 +3440,24 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-10/ELVIA.jpg",
       "pdf": "",
       "url": "https://rematestributarios.sunat.gob.pe/node/2439"
+    },
+    {
+      "id": "remaju_castilla_26102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CASTILLA",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "26/10/2026",
+      "hora": "",
+      "dependencia": "CASTILLA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "remaju_yurimaguas_26102026",
