@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-17 18:45",
-  "total": 212,
-  "nuevos": 0,
+  "last_update": "2026-10-17 21:04",
+  "total": 213,
+  "nuevos": 1,
   "remates": [
     {
       "id": "remaju_reque_16102026",
@@ -3812,6 +3812,24 @@
       "fecha": "26/10/2026",
       "hora": "",
       "dependencia": "OTUZCO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_pisco_27102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - PISCO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "27/10/2026",
+      "hora": "",
+      "dependencia": "PISCO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
