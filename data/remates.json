@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-17 00:16",
+  "last_update": "2026-10-17 04:41",
   "total": 213,
-  "nuevos": 2,
+  "nuevos": 0,
   "remates": [
     {
       "id": "remaju_reque_16102026",
@@ -3442,6 +3442,24 @@
       "url": "https://rematestributarios.sunat.gob.pe/node/2439"
     },
     {
+      "id": "remaju_jose_leonardo_ortiz_26102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - JOSE LEONARDO ORTIZ",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "26/10/2026",
+      "hora": "",
+      "dependencia": "JOSE LEONARDO ORTIZ",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_castilla_26102026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CASTILLA",
@@ -3722,24 +3740,6 @@
       "fecha": "26/10/2026",
       "hora": "",
       "dependencia": "CHIMBOTE",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_jose_leonardo_ortiz_26102026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - JOSE LEONARDO ORTIZ",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "26/10/2026",
-      "hora": "",
-      "dependencia": "JOSE LEONARDO ORTIZ",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
