@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-17 04:41",
-  "total": 213,
+  "last_update": "2026-10-17 08:51",
+  "total": 212,
   "nuevos": 0,
   "remates": [
     {
@@ -464,24 +464,6 @@
       "fecha": "17/10/2026",
       "hora": "",
       "dependencia": "NUEVO CHIMBOTE",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_moro_17102026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - MORO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "17/10/2026",
-      "hora": "",
-      "dependencia": "MORO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
