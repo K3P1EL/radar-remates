@@ -120,20 +120,6 @@
     "sunat_2437"
   ],
   "remaju": [
-    "remaju_puquio_02102026",
-    "remaju_manantay_02102026",
-    "remaju_arequipa_03102026",
-    "remaju_los_olivos_03102026",
-    "remaju_iquitos_03102026",
-    "remaju_ventanilla_03102026",
-    "remaju_jose_luis_bustamante_y_rivero_03102026",
-    "remaju_cerro_colorado_03102026",
-    "remaju_vitor_03102026",
-    "remaju_san_ignacio_03102026",
-    "remaju_la_victoria_03102026",
-    "remaju_rio_negro_03102026",
-    "remaju_calleria_03102026",
-    "remaju_padre_abad_03102026",
     "remaju_rimac_03102026",
     "remaju_monsefu_04102026",
     "remaju_huanuco_04102026",
@@ -619,7 +605,21 @@
     "remaju_trujillo_26102026",
     "remaju_castilla_26102026",
     "remaju_otuzco_26102026",
-    "remaju_pisco_27102026"
+    "remaju_pisco_27102026",
+    "remaju_puente_piedra_29102026",
+    "remaju_la_victoria_29102026",
+    "remaju_santiago_de_surco_29102026",
+    "remaju_lince_29102026",
+    "remaju_san_juan_de_lurigancho_29102026",
+    "remaju_yarinacocha_29102026",
+    "remaju_san_miguel_29102026",
+    "remaju_santa_anita_29102026",
+    "remaju_chiclayo_29102026",
+    "remaju_comas_29102026",
+    "remaju_lima_29102026",
+    "remaju_nauta_29102026",
+    "remaju_salas_29102026",
+    "remaju_lurin_29102026"
   ],
   "pronabi": []
 }
