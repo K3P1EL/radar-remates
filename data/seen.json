@@ -120,9 +120,6 @@
     "sunat_2437"
   ],
   "remaju": [
-    "remaju_chimbote_04102026",
-    "remaju_villa_maria_del_triunfo_04102026",
-    "remaju_ica_04102026",
     "remaju_santiago_04102026",
     "remaju_acobamba_04102026",
     "remaju_parcona_04102026",
@@ -619,7 +616,10 @@
     "remaju_lurin_29102026",
     "remaju_san_luis_29102026",
     "remaju_wanchaq_29102026",
-    "remaju_piura_29102026"
+    "remaju_piura_29102026",
+    "remaju_la_oroya_29102026",
+    "remaju_colan_29102026",
+    "remaju_san_hilarion_29102026"
   ],
   "pronabi": []
 }
