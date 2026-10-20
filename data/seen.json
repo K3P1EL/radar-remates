@@ -120,12 +120,6 @@
     "sunat_2437"
   ],
   "remaju": [
-    "remaju_yarinacocha_04102026",
-    "remaju_irazola_04102026",
-    "remaju_huancayo_04102026",
-    "remaju_huanuco_08102026",
-    "remaju_chimbote_08102026",
-    "remaju_villa_maria_del_triunfo_08102026",
     "remaju_ica_08102026",
     "remaju_chiclayo_04102026",
     "remaju_pimentel_04102026",
@@ -619,7 +613,13 @@
     "remaju_ascope_29102026",
     "remaju_trujillo_29102026",
     "remaju_cieneguilla_30102026",
-    "remaju_trujillo_30102026"
+    "remaju_trujillo_30102026",
+    "remaju_lima_30102026",
+    "remaju_rimac_30102026",
+    "remaju_lince_30102026",
+    "remaju_sihuas_30102026",
+    "remaju_yurimaguas_30102026",
+    "remaju_carabayllo_30102026"
   ],
   "pronabi": []
 }
