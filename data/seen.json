@@ -117,13 +117,17 @@
     "sunat_2423",
     "sunat_2436",
     "sunat_2439",
-    "sunat_2437"
+    "sunat_2437",
+    "sunat_2482",
+    "sunat_2480",
+    "sunat_2479",
+    "sunat_2478",
+    "sunat_2477",
+    "sunat_2476",
+    "sunat_2475",
+    "sunat_2473"
   ],
   "remaju": [
-    "remaju_ica_08102026",
-    "remaju_chiclayo_04102026",
-    "remaju_pimentel_04102026",
-    "remaju_moro_04102026",
     "remaju_las_piedras_04102026",
     "remaju_sicuani_04102026",
     "remaju_chaupimarca_04102026",
@@ -619,7 +623,11 @@
     "remaju_lince_30102026",
     "remaju_sihuas_30102026",
     "remaju_yurimaguas_30102026",
-    "remaju_carabayllo_30102026"
+    "remaju_carabayllo_30102026",
+    "remaju_chiclayo_30102026",
+    "remaju_arequipa_30102026",
+    "remaju_pajarillo_30102026",
+    "remaju_magdalena_del_mar_30102026"
   ],
   "pronabi": []
 }
