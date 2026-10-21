@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-20 22:43",
+  "last_update": "2026-10-21 01:02",
   "total": 179,
-  "nuevos": 12,
+  "nuevos": 0,
   "remates": [
     {
       "id": "remaju_villa_el_salvador_22102026",
@@ -3010,6 +3010,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_trujillo_30102026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - TRUJILLO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "30/10/2026",
+      "hora": "",
+      "dependencia": "TRUJILLO",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_chiclayo_30102026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - CHICLAYO",
@@ -3182,24 +3200,6 @@
       "fecha": "30/10/2026",
       "hora": "",
       "dependencia": "CIENEGUILLA",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "remaju_trujillo_30102026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - TRUJILLO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "30/10/2026",
-      "hora": "",
-      "dependencia": "TRUJILLO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
