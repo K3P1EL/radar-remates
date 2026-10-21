@@ -125,13 +125,10 @@
     "sunat_2477",
     "sunat_2476",
     "sunat_2475",
-    "sunat_2473"
+    "sunat_2473",
+    "sunat_2493"
   ],
   "remaju": [
-    "remaju_cieneguilla_04102026",
-    "remaju_castilla_04102026",
-    "remaju_ventanilla_04102026",
-    "remaju_la_joya_04102026",
     "remaju_los_aquijes_04102026",
     "remaju_pacasmayo_04102026",
     "remaju_padre_abad_04102026",
@@ -627,7 +624,11 @@
     "remaju_san_miguel_31102026",
     "remaju_piura_31102026",
     "remaju_chiclayo_31102026",
-    "remaju_lima_31102026"
+    "remaju_lima_31102026",
+    "remaju_santiago_31102026",
+    "remaju_san_isidro_31102026",
+    "remaju_chimbote_31102026",
+    "remaju_la_victoria_31102026"
   ],
   "pronabi": []
 }
