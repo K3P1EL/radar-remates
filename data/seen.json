@@ -128,23 +128,10 @@
     "sunat_2473",
     "sunat_2493",
     "sunat_2504",
-    "sunat_2503"
+    "sunat_2503",
+    "sunat_2499"
   ],
   "remaju": [
-    "remaju_puente_piedra_04102026",
-    "remaju_chaclacayo_04102026",
-    "remaju_moyobamba_04102026",
-    "remaju_samuel_pastor_04102026",
-    "remaju_miraflores_04102026",
-    "remaju_huaraz_04102026",
-    "remaju_jose_crespo_y_castillo_04102026",
-    "remaju_cacatachi_04102026",
-    "remaju_sullana_04102026",
-    "remaju_lurigancho_04102026",
-    "remaju_lagunas_04102026",
-    "remaju_la_oroya_04102026",
-    "remaju_yauli_04102026",
-    "remaju_chincha_alta_04102026",
     "remaju_ferreñafe_04102026",
     "remaju_san_juan_de_miraflores_04102026",
     "remaju_san_juan_bautista_04102026",
@@ -630,7 +617,21 @@
     "remaju_san_juan_bautista_31102026",
     "remaju_la_esperanza_31102026",
     "remaju_junin_31102026",
-    "remaju_santa_ana_31102026"
+    "remaju_santa_ana_31102026",
+    "remaju_cerro_colorado_01112026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_01112026",
+    "remaju_rimac_01112026",
+    "remaju_san_borja_01112026",
+    "remaju_lima_01112026",
+    "remaju_trujillo_01112026",
+    "remaju_casma_01112026",
+    "remaju_bellavista_01112026",
+    "remaju_san_martin_de_porres_01112026",
+    "remaju_carabayllo_01112026",
+    "remaju_breña_01112026",
+    "remaju_la_victoria_01112026",
+    "remaju_pangoa_01112026",
+    "remaju_san_nicolas_01112026"
   ],
   "pronabi": []
 }
