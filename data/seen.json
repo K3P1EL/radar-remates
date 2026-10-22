@@ -129,22 +129,11 @@
     "sunat_2493",
     "sunat_2504",
     "sunat_2503",
-    "sunat_2499"
+    "sunat_2499",
+    "sunat_2507",
+    "sunat_2506"
   ],
   "remaju": [
-    "remaju_ferreñafe_04102026",
-    "remaju_san_juan_de_miraflores_04102026",
-    "remaju_san_juan_bautista_04102026",
-    "remaju_iquitos_04102026",
-    "remaju_santiago_de_surco_04102026",
-    "remaju_lima_04102026",
-    "remaju_callao_04102026",
-    "remaju_villa_el_salvador_04102026",
-    "remaju_trujillo_04102026",
-    "remaju_punchana_04102026",
-    "remaju_nueva_cajamarca_04102026",
-    "remaju_chorrillos_04102026",
-    "remaju_chancay_04102026",
     "remaju_cusco_04102026",
     "remaju_lurin_04102026",
     "remaju_jose_leonardo_ortiz_04102026",
@@ -631,7 +620,20 @@
     "remaju_breña_01112026",
     "remaju_la_victoria_01112026",
     "remaju_pangoa_01112026",
-    "remaju_san_nicolas_01112026"
+    "remaju_san_nicolas_01112026",
+    "remaju_santa_01112026",
+    "remaju_amarilis_01112026",
+    "remaju_los_olivos_01112026",
+    "remaju_la_molina_01112026",
+    "remaju_ventanilla_01112026",
+    "remaju_miraflores_01112026",
+    "remaju_san_sebastian_01112026",
+    "remaju_chiclayo_01112026",
+    "remaju_mazan_01112026",
+    "remaju_san_juan_de_lurigancho_01112026",
+    "remaju_santiago_01112026",
+    "remaju_sullana_01112026",
+    "remaju_26_de_octubre_01112026"
   ],
   "pronabi": []
 }
