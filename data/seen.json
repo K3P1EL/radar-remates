@@ -134,8 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_lima_08102026",
-    "remaju_san_isidro_08102026",
     "remaju_quilmana_08102026",
     "remaju_chontabamba_08102026",
     "remaju_comas_14102026",
@@ -633,7 +631,9 @@
     "remaju_moquegua_01112026",
     "remaju_parco_01112026",
     "remaju_san_juan_bautista_01112026",
-    "remaju_barranco_01112026"
+    "remaju_barranco_01112026",
+    "remaju_ate_02112026",
+    "remaju_chimbote_02112026"
   ],
   "pronabi": []
 }
