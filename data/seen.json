@@ -134,13 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_bellavista_09102026",
-    "remaju_morales_09102026",
-    "remaju_magdalena_del_mar_09102026",
-    "remaju_santiago_de_surco_15102026",
-    "remaju_parcona_15102026",
-    "remaju_independencia_15102026",
-    "remaju_paucarpata_15102026",
     "remaju_el_porvenir_10102026",
     "remaju_miraflores_10102026",
     "remaju_el_porvenir_15102026",
@@ -633,7 +626,14 @@
     "remaju_tacna_06112026",
     "remaju_viru_06112026",
     "remaju_paucarpata_06112026",
-    "remaju_chiclayo_06112026"
+    "remaju_chiclayo_06112026",
+    "remaju_villa_el_salvador_06112026",
+    "remaju_san_pedro_de_chaulan_06112026",
+    "remaju_calleria_06112026",
+    "remaju_santiago_de_surco_06112026",
+    "remaju_casma_06112026",
+    "remaju_morropon_06112026",
+    "remaju_manantay_06112026"
   ],
   "pronabi": []
 }
