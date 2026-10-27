@@ -134,9 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_ica_09102026",
-    "remaju_alto_de_la_alianza_09102026",
-    "remaju_tumbes_15102026",
     "remaju_santiago_de_surco_09102026",
     "remaju_parcona_09102026",
     "remaju_independencia_09102026",
@@ -633,7 +630,10 @@
     "remaju_villa_el_salvador_05112026",
     "remaju_cutervo_05112026",
     "remaju_san_borja_05112026",
-    "remaju_la_tinguiña_05112026"
+    "remaju_la_tinguiña_05112026",
+    "remaju_san_juan_de_lurigancho_05112026",
+    "remaju_yarinacocha_05112026",
+    "remaju_cascas_05112026"
   ],
   "pronabi": []
 }
