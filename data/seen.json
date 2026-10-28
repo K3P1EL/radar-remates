@@ -134,9 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_miraflores_15102026",
-    "remaju_moche_10102026",
-    "remaju_iquitos_10102026",
     "remaju_florencia_de_mora_10102026",
     "remaju_la_joya_10102026",
     "remaju_cascas_10102026",
@@ -633,7 +630,10 @@
     "remaju_manantay_06112026",
     "remaju_trujillo_06112026",
     "remaju_la_esperanza_06112026",
-    "remaju_pacanga_06112026"
+    "remaju_pacanga_06112026",
+    "remaju_jacobo_hunter_07112026",
+    "remaju_nicolas_de_pierola_07112026",
+    "remaju_jose_luis_bustamante_y_rivero_07112026"
   ],
   "pronabi": []
 }
