@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-28 01:47",
-  "total": 162,
-  "nuevos": 3,
+  "last_update": "2026-10-28 08:11",
+  "total": 161,
+  "nuevos": 0,
   "remates": [
     {
       "id": "sunat_2504",
@@ -1910,24 +1910,6 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-10/APAZA-CUAYLA.png",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-10/APAZA-CUAYLA.pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2506"
-    },
-    {
-      "id": "remaju_pisco_27102026",
-      "fuente": "REMAJU",
-      "titulo": "REMATE SIMPLE - PISCO",
-      "categoria": "inmuebles",
-      "precio_tasacion": 0,
-      "precio_base": 0,
-      "descuento_pct": 0,
-      "fecha": "27/10/2026",
-      "hora": "",
-      "dependencia": "PISCO",
-      "expediente": "",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "",
-      "pdf": "",
-      "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
       "id": "sunat_2499",
