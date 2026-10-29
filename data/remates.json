@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-10-29 13:35",
-  "total": 188,
-  "nuevos": 1,
+  "last_update": "2026-10-29 19:16",
+  "total": 190,
+  "nuevos": 2,
   "remates": [
     {
       "id": "sunat_2504",
@@ -2362,6 +2362,24 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_chimbote_08112026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - CHIMBOTE",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "08/11/2026",
+      "hora": "",
+      "dependencia": "CHIMBOTE",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_yanahuara_08112026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - YANAHUARA",
@@ -2372,6 +2390,24 @@
       "fecha": "08/11/2026",
       "hora": "",
       "dependencia": "YANAHUARA",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_el_agustino_08112026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - EL AGUSTINO",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "08/11/2026",
+      "hora": "",
+      "dependencia": "EL AGUSTINO",
       "expediente": "",
       "deudor": "",
       "convocatoria": "",
