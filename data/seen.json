@@ -134,20 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_ate_16102026",
-    "remaju_yanacancha_12102026",
-    "remaju_chaupimarca_12102026",
-    "remaju_chiclayo_12102026",
-    "remaju_posic_12102026",
-    "remaju_trujillo_12102026",
-    "remaju_pichanaqui_12102026",
-    "remaju_salaverry_12102026",
-    "remaju_sama_12102026",
-    "remaju_otuzco_12102026",
-    "remaju_san_sebastian_12102026",
-    "remaju_pisco_12102026",
-    "remaju_huanuco_12102026",
-    "remaju_san_juan_de_lurigancho_12102026",
     "remaju_comas_12102026",
     "remaju_puno_12102026",
     "remaju_yanacancha_16102026",
@@ -633,7 +619,21 @@
     "remaju_la_victoria_08112026",
     "remaju_santiago_de_surco_08112026",
     "remaju_chincha_alta_08112026",
-    "remaju_laredo_08112026"
+    "remaju_laredo_08112026",
+    "remaju_santiago_de_surco_09112026",
+    "remaju_la_molina_09112026",
+    "remaju_castilla_09112026",
+    "remaju_san_martin_de_porres_09112026",
+    "remaju_san_juan_de_lurigancho_09112026",
+    "remaju_la_victoria_09112026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_09112026",
+    "remaju_yanacancha_09112026",
+    "remaju_chaupimarca_09112026",
+    "remaju_sullana_09112026",
+    "remaju_santa_rosa_09112026",
+    "remaju_chimbote_09112026",
+    "remaju_san_ramon_09112026",
+    "remaju_jose_leonardo_ortiz_09112026"
   ],
   "pronabi": []
 }
