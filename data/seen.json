@@ -134,8 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_comas_12102026",
-    "remaju_puno_12102026",
     "remaju_yanacancha_16102026",
     "remaju_chaupimarca_16102026",
     "remaju_chiclayo_16102026",
@@ -633,7 +631,9 @@
     "remaju_santa_rosa_09112026",
     "remaju_chimbote_09112026",
     "remaju_san_ramon_09112026",
-    "remaju_jose_leonardo_ortiz_09112026"
+    "remaju_jose_leonardo_ortiz_09112026",
+    "remaju_chao_09112026",
+    "remaju_coishco_09112026"
   ],
   "pronabi": []
 }
