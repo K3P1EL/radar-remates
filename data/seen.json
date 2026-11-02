@@ -134,19 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_chiclayo_16102026",
-    "remaju_pisco_13102026",
-    "remaju_pisco_17102026",
-    "remaju_la_molina_13102026",
-    "remaju_la_victoria_15102026",
-    "remaju_ate_15102026",
-    "remaju_carabayllo_15102026",
-    "remaju_las_piedras_15102026",
-    "remaju_san_juan_bautista_15102026",
-    "remaju_la_esperanza_15102026",
-    "remaju_junin_15102026",
-    "remaju_jose_leonardo_ortiz_15102026",
-    "remaju_santa_ana_15102026",
     "remaju_trujillo_15102026",
     "remaju_lurin_15102026",
     "remaju_comas_15102026",
@@ -633,7 +620,20 @@
     "remaju_chao_09112026",
     "remaju_coishco_09112026",
     "remaju_santa_10112026",
-    "remaju_lima_10112026"
+    "remaju_lima_10112026",
+    "remaju_san_juan_de_lurigancho_12112026",
+    "remaju_san_martin_de_porres_12112026",
+    "remaju_villa_el_salvador_12112026",
+    "remaju_carabayllo_12112026",
+    "remaju_la_victoria_12112026",
+    "remaju_satipo_12112026",
+    "remaju_campoverde_12112026",
+    "remaju_san_borja_12112026",
+    "remaju_subtanjalla_12112026",
+    "remaju_san_juan_de_miraflores_12112026",
+    "remaju_mariano_melgar_12112026",
+    "remaju_magdalena_del_mar_12112026",
+    "remaju_iquitos_12112026"
   ],
   "pronabi": []
 }
