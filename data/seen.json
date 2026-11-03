@@ -134,9 +134,6 @@
     "sunat_2506"
   ],
   "remaju": [
-    "remaju_villa_el_salvador_16102026",
-    "remaju_asia_16102026",
-    "remaju_vitor_16102026",
     "remaju_chorrillos_16102026",
     "remaju_reque_16102026",
     "remaju_sullana_17102026",
@@ -633,7 +630,10 @@
     "remaju_carabayllo_13112026",
     "remaju_ate_13112026",
     "remaju_san_borja_13112026",
-    "remaju_chorrillos_13112026"
+    "remaju_chorrillos_13112026",
+    "remaju_chincha_alta_13112026",
+    "remaju_san_rafael_13112026",
+    "remaju_sunampe_13112026"
   ],
   "pronabi": []
 }
