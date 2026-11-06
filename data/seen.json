@@ -131,23 +131,10 @@
     "sunat_2503",
     "sunat_2499",
     "sunat_2507",
-    "sunat_2506"
+    "sunat_2506",
+    "sunat_2512"
   ],
   "remaju": [
-    "remaju_chiclayo_22102026",
-    "remaju_chimbote_22102026",
-    "remaju_aplao_22102026",
-    "remaju_coishco_22102026",
-    "remaju_los_aquijes_22102026",
-    "remaju_subtanjalla_22102026",
-    "remaju_santa_rosa_de_sacco_22102026",
-    "remaju_chaclacayo_22102026",
-    "remaju_chilca_22102026",
-    "remaju_la_victoria_23102026",
-    "remaju_reque_23102026",
-    "remaju_satipo_23102026",
-    "remaju_chiclayo_23102026",
-    "remaju_cayma_23102026",
     "remaju_la_esperanza_23102026",
     "remaju_lima_23102026",
     "remaju_san_andres_23102026",
@@ -633,7 +620,21 @@
     "remaju_puente_piedra_15112026",
     "remaju_villa_el_salvador_15112026",
     "remaju_vitor_15112026",
-    "remaju_carmen_de_la_legua_reynoso_15112026"
+    "remaju_carmen_de_la_legua_reynoso_15112026",
+    "remaju_chincha_alta_16112026",
+    "remaju_san_sebastian_16112026",
+    "remaju_nuevo_chimbote_16112026",
+    "remaju_huaynacotas_16112026",
+    "remaju_santa_anita_16112026",
+    "remaju_trujillo_16112026",
+    "remaju_sullana_16112026",
+    "remaju_ate_16112026",
+    "remaju_chimbote_16112026",
+    "remaju_laredo_16112026",
+    "remaju_salaverry_16112026",
+    "remaju_chorrillos_16112026",
+    "remaju_iquitos_16112026",
+    "remaju_punchana_16112026"
   ],
   "pronabi": []
 }
