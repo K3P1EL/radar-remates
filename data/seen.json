@@ -132,16 +132,17 @@
     "sunat_2499",
     "sunat_2507",
     "sunat_2506",
-    "sunat_2512"
+    "sunat_2512",
+    "sunat_2520",
+    "sunat_2519",
+    "sunat_2518",
+    "sunat_2517",
+    "sunat_2516",
+    "sunat_2515",
+    "sunat_2514",
+    "sunat_2513"
   ],
   "remaju": [
-    "remaju_la_esperanza_23102026",
-    "remaju_lima_23102026",
-    "remaju_san_andres_23102026",
-    "remaju_coronel_gregorio_albarracin_lanchipa_23102026",
-    "remaju_cerro_colorado_23102026",
-    "remaju_zorritos_23102026",
-    "remaju_sabandia_23102026",
     "remaju_comas_23102026",
     "remaju_san_juan_de_lurigancho_23102026",
     "remaju_ventanilla_23102026",
@@ -634,7 +635,14 @@
     "remaju_salaverry_16112026",
     "remaju_chorrillos_16112026",
     "remaju_iquitos_16112026",
-    "remaju_punchana_16112026"
+    "remaju_punchana_16112026",
+    "remaju_sunampe_16112026",
+    "remaju_el_porvenir_15112026",
+    "remaju_comas_15112026",
+    "remaju_san_juan_bautista_15112026",
+    "remaju_la_esperanza_15112026",
+    "remaju_junin_15112026",
+    "remaju_santa_ana_15112026"
   ],
   "pronabi": []
 }
