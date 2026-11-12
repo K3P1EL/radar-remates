@@ -143,10 +143,6 @@
     "sunat_2513"
   ],
   "remaju": [
-    "remaju_anta_25102026",
-    "remaju_san_martin_de_porres_25102026",
-    "remaju_san_ramon_25102026",
-    "remaju_yanatile_25102026",
     "remaju_chanchamayo_25102026",
     "remaju_molinopampa_25102026",
     "remaju_picsi_25102026",
@@ -642,7 +638,11 @@
     "remaju_yarinacocha_21112026",
     "remaju_el_tambo_21112026",
     "remaju_monsefu_21112026",
-    "remaju_villa_el_salvador_21112026"
+    "remaju_villa_el_salvador_21112026",
+    "remaju_san_juan_bautista_21112026",
+    "remaju_manantay_21112026",
+    "remaju_surquillo_21112026",
+    "remaju_san_bartolo_21112026"
   ],
   "pronabi": []
 }
