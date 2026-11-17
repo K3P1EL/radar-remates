@@ -145,16 +145,6 @@
     "sunat_2523"
   ],
   "remaju": [
-    "remaju_carabayllo_30102026",
-    "remaju_chiclayo_30102026",
-    "remaju_arequipa_30102026",
-    "remaju_pajarillo_30102026",
-    "remaju_magdalena_del_mar_30102026",
-    "remaju_paca_31102026",
-    "remaju_el_mantaro_31102026",
-    "remaju_villa_maria_del_triunfo_31102026",
-    "remaju_manantay_31102026",
-    "remaju_ate_31102026",
     "remaju_san_miguel_31102026",
     "remaju_piura_31102026",
     "remaju_chiclayo_31102026",
@@ -644,7 +634,17 @@
     "remaju_independencia_26112026",
     "remaju_chiclayo_26112026",
     "remaju_salaverry_26112026",
-    "remaju_jose_leonardo_ortiz_26112026"
+    "remaju_jose_leonardo_ortiz_26112026",
+    "remaju_chimbote_27112026",
+    "remaju_breña_27112026",
+    "remaju_satipo_27112026",
+    "remaju_ilave_27112026",
+    "remaju_arequipa_27112026",
+    "remaju_chiclayo_27112026",
+    "remaju_san_borja_27112026",
+    "remaju_tacna_27112026",
+    "remaju_monsefu_27112026",
+    "remaju_punchana_27112026"
   ],
   "pronabi": []
 }
