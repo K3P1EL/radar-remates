@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-11-16 21:16",
+  "last_update": "2026-11-17 04:00",
   "total": 153,
-  "nuevos": 8,
+  "nuevos": 2,
   "remates": [
     {
       "id": "remaju_sunampe_16112026",
@@ -398,24 +398,6 @@
       "imagen": "",
       "pdf": "",
       "url": "https://remaju.pj.gob.pe/remaju/"
-    },
-    {
-      "id": "sunat_2520",
-      "fuente": "SUNAT",
-      "titulo": "STAND N°6- PRIMER PISO - Calle Rio Huallaga N°160 - Urb. Valle de la Molina - La Molina - Lima. Área 8.385 m2",
-      "categoria": "inmuebles",
-      "precio_tasacion": 39060.83,
-      "precio_base": 0.0,
-      "descuento_pct": 0,
-      "fecha": "19/11/2026",
-      "hora": "12:55",
-      "dependencia": "Lima",
-      "expediente": "1410060018024",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-11/GOMEZ_10.jpg",
-      "pdf": "",
-      "url": "https://rematestributarios.sunat.gob.pe/node/2520"
     },
     {
       "id": "remaju_corrales_19112026",
@@ -2578,6 +2560,42 @@
       "url": "https://remaju.pj.gob.pe/remaju/"
     },
     {
+      "id": "remaju_salaverry_26112026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - SALAVERRY",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "26/11/2026",
+      "hora": "",
+      "dependencia": "SALAVERRY",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
+      "id": "remaju_jose_leonardo_ortiz_26112026",
+      "fuente": "REMAJU",
+      "titulo": "REMATE SIMPLE - JOSE LEONARDO ORTIZ",
+      "categoria": "inmuebles",
+      "precio_tasacion": 0,
+      "precio_base": 0,
+      "descuento_pct": 0,
+      "fecha": "26/11/2026",
+      "hora": "",
+      "dependencia": "JOSE LEONARDO ORTIZ",
+      "expediente": "",
+      "deudor": "",
+      "convocatoria": "",
+      "imagen": "",
+      "pdf": "",
+      "url": "https://remaju.pj.gob.pe/remaju/"
+    },
+    {
       "id": "remaju_mollepata_26112026",
       "fuente": "REMAJU",
       "titulo": "REMATE SIMPLE - MOLLEPATA",
@@ -2738,24 +2756,6 @@
       "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-11/FOTO%20INMUEBLE%20SERVICIOS%20ESPECIALES%20PISCO%20S.A%20PE%2002000723%201.jpg",
       "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-11/DETALLE%20INMUEBLE%20-%20SERVICIOS%20ESPECIALES%20PISCO%20S.A..pdf",
       "url": "https://rematestributarios.sunat.gob.pe/node/2525"
-    },
-    {
-      "id": "sunat_2523",
-      "fuente": "SUNAT",
-      "titulo": "50% DE ACCIONES Y DERECHOS SOBRE EL INMUEBLE UBICADO EN MANZANA D LOTE 22 URBANIZACION HABILITACION URBANA DENOMINADA CONJUNTO RESIDENCIAL Y RESORT SARAPAMPA - ASIA, EN EL DISTRITO DE ASIA, PROVINCIA DE CAÑETE Y DEPARTAMENTO LIMA",
-      "categoria": "inmuebles",
-      "precio_tasacion": 147532.47,
-      "precio_base": 0.0,
-      "descuento_pct": 0,
-      "fecha": "27/11/2026",
-      "hora": "10:00",
-      "dependencia": "Lima",
-      "expediente": "1030060603441",
-      "deudor": "",
-      "convocatoria": "",
-      "imagen": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-11/FOTO%20INMUEBLE%20SOTOMAYOR%20BARAHONA%20JIMMY%20SEBASTIAN%200.jpg",
-      "pdf": "https://rematestributarios.sunat.gob.pe/sites/default/files/2026-11/DETALLE%20INMUEBLE%20-%20SOTOMAYOR%20BARAHONA%20JIMMY%20SEBASTIAN_0.pdf",
-      "url": "https://rematestributarios.sunat.gob.pe/node/2523"
     }
   ]
 }
