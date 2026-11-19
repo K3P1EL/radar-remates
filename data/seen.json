@@ -145,19 +145,6 @@
     "sunat_2523"
   ],
   "remaju": [
-    "remaju_iquitos_31102026",
-    "remaju_san_juan_bautista_31102026",
-    "remaju_la_esperanza_31102026",
-    "remaju_junin_31102026",
-    "remaju_santa_ana_31102026",
-    "remaju_cerro_colorado_01112026",
-    "remaju_coronel_gregorio_albarracin_lanchipa_01112026",
-    "remaju_rimac_01112026",
-    "remaju_san_borja_01112026",
-    "remaju_lima_01112026",
-    "remaju_trujillo_01112026",
-    "remaju_casma_01112026",
-    "remaju_bellavista_01112026",
     "remaju_san_martin_de_porres_01112026",
     "remaju_carabayllo_01112026",
     "remaju_breña_01112026",
@@ -644,7 +631,20 @@
     "remaju_rio_negro_28112026",
     "remaju_pichanaqui_28112026",
     "remaju_san_borja_28112026",
-    "remaju_chiclayo_28112026"
+    "remaju_chiclayo_28112026",
+    "remaju_trujillo_28112026",
+    "remaju_chepen_28112026",
+    "remaju_san_isidro_28112026",
+    "remaju_sullana_28112026",
+    "remaju_palpa_28112026",
+    "remaju_pillco_marca_28112026",
+    "remaju_chorrillos_28112026",
+    "remaju_santiago_28112026",
+    "remaju_san_juan_de_lurigancho_28112026",
+    "remaju_villa_el_salvador_28112026",
+    "remaju_satipo_28112026",
+    "remaju_subtanjalla_28112026",
+    "remaju_mariano_melgar_28112026"
   ],
   "pronabi": []
 }
