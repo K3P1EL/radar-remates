@@ -142,20 +142,13 @@
     "sunat_2514",
     "sunat_2513",
     "sunat_2525",
-    "sunat_2523"
+    "sunat_2523",
+    "sunat_2578",
+    "sunat_2577",
+    "sunat_2576",
+    "sunat_2569"
   ],
   "remaju": [
-    "remaju_la_molina_01112026",
-    "remaju_ventanilla_01112026",
-    "remaju_miraflores_01112026",
-    "remaju_san_sebastian_01112026",
-    "remaju_chiclayo_01112026",
-    "remaju_mazan_01112026",
-    "remaju_san_juan_de_lurigancho_01112026",
-    "remaju_santiago_01112026",
-    "remaju_sullana_01112026",
-    "remaju_26_de_octubre_01112026",
-    "remaju_subtanjalla_01112026",
     "remaju_la_tinguiña_01112026",
     "remaju_azangaro_01112026",
     "remaju_yarinacocha_01112026",
@@ -644,7 +637,18 @@
     "remaju_iquitos_29112026",
     "remaju_el_tambo_29112026",
     "remaju_san_isidro_29112026",
-    "remaju_la_molina_29112026"
+    "remaju_la_molina_29112026",
+    "remaju_yauli_29112026",
+    "remaju_coronel_gregorio_albarracin_lanchipa_29112026",
+    "remaju_san_miguel_29112026",
+    "remaju_los_olivos_29112026",
+    "remaju_lima_29112026",
+    "remaju_jauja_29112026",
+    "remaju_lurin_29112026",
+    "remaju_san_martin_de_porres_29112026",
+    "remaju_carabayllo_29112026",
+    "remaju_pacaran_29112026",
+    "remaju_san_juan_de_lurigancho_29112026"
   ],
   "pronabi": []
 }
