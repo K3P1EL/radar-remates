@@ -149,12 +149,6 @@
     "sunat_2569"
   ],
   "remaju": [
-    "remaju_mariano_melgar_05112026",
-    "remaju_el_tambo_05112026",
-    "remaju_monsefu_05112026",
-    "remaju_independencia_05112026",
-    "remaju_cajamarca_05112026",
-    "remaju_los_olivos_05112026",
     "remaju_san_juan_de_miraflores_05112026",
     "remaju_locumba_05112026",
     "remaju_villa_el_salvador_05112026",
@@ -648,7 +642,13 @@
     "remaju_ate_30112026",
     "remaju_lima_30112026",
     "remaju_la_oroya_29112026",
-    "remaju_colan_29112026"
+    "remaju_colan_29112026",
+    "remaju_la_victoria_29112026",
+    "remaju_nauta_29112026",
+    "remaju_chorrillos_30112026",
+    "remaju_chimbote_29112026",
+    "remaju_huasahuasi_29112026",
+    "remaju_santiago_de_surco_30112026"
   ],
   "pronabi": []
 }
