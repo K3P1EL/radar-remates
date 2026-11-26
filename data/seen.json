@@ -149,20 +149,6 @@
     "sunat_2569"
   ],
   "remaju": [
-    "remaju_comas_07112026",
-    "remaju_santa_rosa_07112026",
-    "remaju_chincha_alta_07112026",
-    "remaju_chimbote_07112026",
-    "remaju_coishco_07112026",
-    "remaju_los_aquijes_07112026",
-    "remaju_lima_07112026",
-    "remaju_yanahuara_08112026",
-    "remaju_chimbote_08112026",
-    "remaju_el_agustino_08112026",
-    "remaju_calleria_08112026",
-    "remaju_carabayllo_08112026",
-    "remaju_santa_anita_08112026",
-    "remaju_uchumayo_08112026",
     "remaju_lima_08112026",
     "remaju_san_isidro_08112026",
     "remaju_san_juan_bautista_08112026",
@@ -648,7 +634,21 @@
     "remaju_ate_05122026",
     "remaju_santa_anita_05122026",
     "remaju_pimentel_05122026",
-    "remaju_san_juan_bautista_05122026"
+    "remaju_san_juan_bautista_05122026",
+    "remaju_breña_05122026",
+    "remaju_contamana_05122026",
+    "remaju_corrales_05122026",
+    "remaju_rimac_05122026",
+    "remaju_comas_05122026",
+    "remaju_socabaya_05122026",
+    "remaju_huaynacotas_05122026",
+    "remaju_alto_selva_alegre_05122026",
+    "remaju_tarapoto_05122026",
+    "remaju_pampacolca_05122026",
+    "remaju_la_perla_05122026",
+    "remaju_las_piedras_05122026",
+    "remaju_los_olivos_05122026",
+    "remaju_san_juan_de_lurigancho_05122026"
   ],
   "pronabi": []
 }
